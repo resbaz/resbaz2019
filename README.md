@@ -6,7 +6,7 @@ This repository contains the code for the [ResBaz 2019 website](https://resbaz.g
 
 1. Fork this repository
 2. Create a new folder using the name of your city
-3. Copy and edit the contents of an existing city folder*
+3. Copy and edit the contents of an existing city folder from the [2018 website](https://github.com/resbaz/resbaz2018)*
 4. Submit a pull request 
 
 *To preview what your page will look like,
