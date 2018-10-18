@@ -1,0 +1,129 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Turf.js/3.0.14/turf.min.js"></script>
+<link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
+<link rel="import" href="../bower_components/leaflet-map/leaflet-map.html">
+
+<dom-module id="resbaz-locations">
+  <template>
+    <style>
+    leaflet-map {
+      height: 500px;
+    }
+    a {
+      color: var(--accent-color);
+    }
+    #location-list {
+      text-align: center;
+      padding: 0;
+      list-style-type: none;
+      list-style-position: outside;
+    }
+    </style>
+    <iron-ajax auto url="../sites.geojson" last-response="{{geojson}}">
+    </iron-ajax>
+
+    <ul id="location-list">
+    </ul>
+    <leaflet-map id="map" longitude="[[_longitude(position)]]" latitude="[[_latitude(position)]]" zoom="[[zoom]]" world-copy-jump>
+
+        <leaflet-tilelayer
+            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" max-zoom="19">
+              Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contr.,
+              <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,
+              Imagery © <a href="http://mapbox.com">Mapbox</a>
+        </leaflet-tilelayer>
+
+        <leaflet-geojson id="map-data" data="[[_duplicateMarkers(geojson)]]"></leaflet-geojson>
+    </leaflet-map>
+  </template>
+  <script>
+  var defaultPosition = {
+    "type": "Point",
+    "coordinates": [ 80.0, 10.0 ]
+  };
+  Polymer({
+    is: 'resbaz-locations',
+    properties: {
+      "geojson": Object,
+      "position": {
+        type: Object,
+        value: defaultPosition
+      },
+      "zoom": {
+        type: Number,
+        value: 2
+      }
+    },
+    observers: [
+      '_updateLocations(geojson, position)'
+    ],
+    ready: function(details) {
+      L.Icon.Default.imagePath =
+        this.resolveUrl('../bower_components/leaflet/dist/images');
+      var self = this;
+      navigator.geolocation.getCurrentPosition(
+        function(position) {
+          self.set('position', {
+            "type": "Point",
+            "coordinates": [
+              position.coords.longitude,
+              position.coords.latitude
+            ]
+          });
+        },
+        function(err) {
+          self.set('position', defaultPosition);
+        },
+        {
+          enableHighAccuracy: false
+        }
+      );
+    },
+    _duplicateMarkers: function(geojson) {
+      var deepClone = function(obj) { return JSON.parse(JSON.stringify(obj)); };
+      var altered = deepClone(geojson);
+      geojson.features.forEach(function(feature) {
+        if (feature.geometry['type'] == 'Point') {
+          var c = deepClone(feature);
+          c.geometry.coordinates[0] =
+            c.geometry.coordinates[0] +
+            (c.geometry.coordinates[0] < 0 ? 360 : -360);
+          altered.features.push(c);
+        }
+      });
+      return altered;
+    },
+    _longitude: function(feature) {
+      return feature.coordinates[0];
+    },
+    _latitude: function(feature) {
+      return feature.coordinates[1];
+    },
+    _updateLocations: function() {
+      var locationListEl = this.$['location-list'];
+      var locations = this.geojson.features;
+
+      // Sort by distance
+      if (this.position) {
+        var pos = this.position;
+        var distanceTo = function(feature) {
+          return turf.distance(pos, feature);
+        };
+        // sort features by distance
+        locations.sort(function(a, b) {
+          return distanceTo(a) - distanceTo(b);
+        });
+      }
+
+      // Update list
+      Polymer.dom(locationListEl).children.forEach(function(child) {
+        Polymer.dom(locationListEl).removeChild(child);
+      });
+      locations.forEach(function(location) {
+        var liEl = document.createElement('li');
+        Polymer.dom(liEl).innerHTML = location.properties.details;
+        Polymer.dom(locationListEl).appendChild(liEl);
+      });
+    }
+  });
+  </script>
+</dom-module>

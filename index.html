@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Changes the image and title displayed when link is share in facebook -->
+  <meta property="og:image" content="https://resbaz.com/"/>
+  <meta property="og:title" content=""/>
+  <meta property="og:description" content=""/>
+  <meta property="og:url" content="http://resbaz.com//"/>
+  <meta property="og:site_name" content="ResBaz Conference"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:locale" content=""/>
+
+  <title>Research Bazaar 2019</title>
+
+  <link rel="stylesheet" src="css/style.css"/>
+  <script src="bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+
+  <link rel="import" href="components/contact-icons.html">
+  <link rel="import" href="components/gitter-chat.html">
+  <link rel="import" href="components/remote-markdown.html">
+  <link rel="import" href="components/resbaz-locations.html">
+  <link rel="import" href="bower_components/paper-button/paper-button.html">
+  <link rel="import" href="bower_components/app-layout/app-layout.html">
+  <link rel="import" href="bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
+
+  <link rel="import" href="components/resbaz-header.html">
+  <style is="custom-style">
+  resbaz-header {
+    --header-height: 100vh;
+    --header-background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://farm1.staticflickr.com/710/22294999764_cc57e2af25_z.jpg)
+  }
+  </style>
+</head>
+<body unresolved>
+  <resbaz-header title="Research Bazaar">
+    <h1>RESEARCH BAZAAR, 2019</h1>
+    <h2>Skills Sharing - Digital Literacy - Research Collaboration</h2>
+    <div class="actions">
+      <a href="#locations">
+        <paper-button raised>Come Join Us</paper-button>
+      </a>
+    </div>
+  </resbaz-header>
+  <article>
+    <section id="about">
+      <remote-markdown url="about.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
+    </section>
+    <hr/>
+    <section id="locations">
+      <h1>Locations</h1>
+      <resbaz-locations></resbaz-locations>
+      <p class="center">All Research Bazaar events respect our <a href="https://resbazblog.wordpress.com/code-of-conduct/">Code of Conduct</a>.</p>
+    </section>
+    <hr/>
+    <section id="contact-us">
+      <h1>Contact ResBaz</h1>
+      <div class="center">
+        <contact-icons email="research.bazaar@gmail.com" twitter="resbaz"></contact-icons>
+      </div>
+    </section>
+  </article>
+  <footer>
+    Copyright &copy; Research Platform Services, University of Melbourne, 2017
+  </footer>
+  <!-- Chat -->
+  <gitter-chat room="resbaz/resbaz"></gitter-chat>
+</body>
+</html>
