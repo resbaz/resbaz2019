@@ -12,6 +12,17 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='https://research.unimelb.edu.au/infrastructure/research-platform-services/training/research-bazaar/melbourne-resbaz-2019'>Melbourne</a>"
             }
+        },
+	    {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[10.723284, 59.939673]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='./oslo'>Oslo</a>"
+            }
         }
     ]
 }
