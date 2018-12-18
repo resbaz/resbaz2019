@@ -1,6 +1,6 @@
-
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,7 +10,7 @@
 
   <title>ResBaz Dunedin 2019</title>
 
-  <link rel="stylesheet" src="../css/style.css"/>
+  <link rel="stylesheet" src="../css/style.css" />
   <script src="../bower_components/webcomponentsjs/webcomponents-lite.js"></script>
 
   <link rel="import" href="../components/contact-icons.html">
@@ -28,12 +28,13 @@
   <link rel="import" href="../components/common-style.html">
   <link rel="import" href="../components/resbaz-header.html">
   <style is="custom-style">
-  resbaz-header {
-    --header-height: 50vh;
-    --header-background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(dunedin.jpg);
-  }
+    resbaz-header {
+      --header-height: 50vh;
+      --header-background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(dunedin.jpg);
+    }
   </style>
 </head>
+
 <body unresolved>
   <resbaz-header title="ResBaz Dunedin">
     <h1>Dunedin</h1>
@@ -43,11 +44,12 @@
     <section id="full">
       <!--<h1>Registration is closed</h1>-->
 
-        <h2>Timetable</h2>
-	Please check back before the event for updates
-	  <section id="timetable">
-       <csv-table url="timetable.csv" heading-columns="1" heading-rows="1" style="font-size: 75%"></embedded-google-sheet>
-          </section>
+      <h2>Timetable</h2>
+      Please check back before the event for updates
+      <section id="timetable">
+        <csv-table url="timetable.csv" heading-columns="1" heading-rows="1" style="font-size: 75%">
+          </embedded-google-sheet>
+      </section>
 
 
       <h2>Venue</h2>
@@ -68,7 +70,7 @@
 
     </section>
 
-    <hr/>
+    <hr />
     <section id="venue2">
       <h1>Venue (workshops: 11-13 February)</h1>
       <p>The workshops will be held at the University of Otago, exact location to be confirmed.</p>
@@ -76,15 +78,15 @@
       <venue-map geojson-url="venue1.geojson" zoom="16"></venue-map>
 
     </section>
-    <hr/>
+    <hr />
     <section id="schedule">
 
 
       <h1>Workshop sessions</h1>
 
-<b>Unless specified otherwise, a laptop is required</b>
+      <p><b>Unless specified otherwise, a laptop is required</b></p>
 
-      We have an exciting lineup of workshops
+      <p>We have an exciting lineup of workshops</p>
       <!-- <p>Click on the name of each session to discover more!</p> -->
 
 
@@ -247,287 +249,288 @@
 		</div>
 	    </simple-columns>
       -->
-	  </section>
-      <h2>Prelinary timetable for workshops</h2>
-      This timetable is preliminary and subject to change. Please check back before the event for updates.
-      <br>
-      All workshops within a session are run concorrently in separate rooms.
+    </section>
+    <h2>Prelinary timetable for workshops</h2>
+    This timetable is preliminary and subject to change. Please check back before the event for updates.
+    <br>
+    All workshops within a session are run concurrently in separate rooms.
     <section id="Day1">
-	    <h3>Monday 11th February</h3>
-Session 1:
- <simple-columns>
-<div>
-  <expandable-heading title="Best practices for data organisation in spreadsheets">
-    This session will cover the best practices for using spreadsheets with data. This will include:
-    <ul>
-      <li>how to organise data according to "Tidy data" principles
-      <li>dealing wth dates</li>
-      <li>exporting data for use with other tools</li>
-    </ul>
-
-    This session would be useful for:
-    <ul>
-      <li>people who collect data</li>
-      <li>people who want to begin analysing data</li>
-    </ul>
-  </expandable-heading>
-
-  <expandable-heading title="Digital notebooks">
-    By the end of this workshop, participants will have covered:
-    <ul>
-    <li>Creating up a github account</li>
-      <li>Creating a repository to store the notebook</li>
-      <li>Introduction to markdown syntax for formatting</li>
-      <li>Adding entries to the notebook</li>
-      <li>Modifying existing entries</li>
-      <li>Collaborating with multiple authors</li>
-    </ul>
-
-    This session would be useful for:
-    <ul>
-      <li>people who want to create a digital notebook</li>
-      <li>people who want to collaborate with notes</li>
-      <li>creating documentation</li>
-    </ul>
-
-  </expandable-heading>
-
-  <expandable-heading title="Introduction to Data">
-    This session will cover...
-
-    This Library Carpentry lesson introduces librarians and others to working with data. At the conclusion of the lesson you will:
-    <ul>
-      <li>define terms, phrases, and concepts in software development and data science</li>
-      <li>identify and use best practices in data structures</li>
-    </ul>
-
-  </expandable-heading>
-
-  <expandable-heading title="Session TBC">
-    This session is yet to be determined but will be not be at a beginner skill level
-  </expandable-heading>
-
-</div>
-  </simple-columns>
-
-Session 2:
-
-<simple-columns>
-<div>
- <expandable-heading title="Introduction to R">
-   This is an introductory session to the R programming language.
-   Participants attending this session can expect by the end of the session understand
-   <ul>
-     <li>basic R syntax</li>
-     <li>the components of the RStudio interface</li>
-     <li>how to compute basic statistics</li>
-     <li>where to find further help for R</li>
-   </ul>
-
-Useful for:
-
-  <ul>
-    <li>data analysis</li>
-    <li>day 2: functions in R and data manipulation in R</li>
-    <li>day 3: data visualisation in R</li>
-  </ul>
-
-   <b>laptop required</b>
- </expandable-heading>
-
- <expandable-heading title="Introduction to the Unix shell">
-   This is an introductory session to the unix commandline. By the end of this session participants can expect to:
-   <ul>
-     <li>understand how to navigate and create files and directories</li>
-     <li>run commandline programs</li>
-   </ul>
-
-   Useful for:
-   <ul>
-     <li>task automation</li>
-     <li> day 2 sessions for Make and Docker</li>
-   </ul>
- </expandable-heading>
-
- <expandable-heading title="Introduction to pattern matching">
-   This session will cover the syntax for creating patterns (regular expressions) for use in searching text.
-   <ul>
-     <li>match text using simple patterns</li>
-     <li>understand basic regular expression syntax</li>
-   </ul>
- </expandable-heading>
-
- <expandable-heading title="Using patterns to find and edit files: grep/sed/awk">
-   This session will cover using regular expressions for the purposes of manipulating text by creating patterns.
-
-   <b>pre-requisites:</b> a working knowledge of navigating the filesystem on the commandline and running commandline programs.
-
- </expandable-heading>
-
-</div>
- </simple-columns>
-
-Session 3:
-
-<simple-columns>
-<div>
- <expandable-heading title="Data manipulation in R">
-   By attending this session you can expect to understand how to:
-   <ul>
-     <li>subset data based on columns</li>
-     <li>filter rows by conditions</li>
-     <li>create new columns based on other columns</li>
-     <li>create data summaries</li>
-     <li>create columns or summaries by data groupings</li>
-   </ul>
-
- </expandable-heading>
-
- <expandable-heading title="Introduction to the Unix shell - contined">
-   This session directly continues on from introduction to unix shell
-
-   <b>pre-requisites</b>: Introduction to unix shell
- </expandable-heading>
-
- <expandable-heading title="Introduction to Markdown">
-   This session will cover...
- </expandable-heading>
-
- <expandable-heading title="Breakout session">
-   This session is an unstructured breakout session to provide space to work or discuss together.
- </expandable-heading>
-
-</div>
- </simple-columns>
-
-	    <!--<csv-table url="day1.csv" heading-columns="1" heading-rows="1" style="font-size: 75%"></embedded-google-sheet> -->
-          </section>
-	  <section id="day2">
-	    <h3>Tuesday 12th February</h3>
-
+      <h3>Monday 11th February</h3>
       Session 1:
-       <simple-columns>
-      <div>
-        <expandable-heading title="Using version control to track changes">
-          This session will cover...
-        </expandable-heading>
+      <simple-columns>
+        <div>
+          <expandable-heading title="Best practices for data organisation in spreadsheets">
+            This session will cover the best practices for using spreadsheets with data. This will include:
+            <ul>
+              <li>how to organise data according to "Tidy data" principles
+              <li>dealing wth dates</li>
+              <li>exporting data for use with other tools</li>
+            </ul>
 
-        <expandable-heading title="Automating workflows with GNU Make">
-          This session will cover...
-        </expandable-heading>
+            This session would be useful for:
+            <ul>
+              <li>people who collect data</li>
+              <li>people who want to begin analysing data</li>
+            </ul>
+          </expandable-heading>
 
-        <expandable-heading title="Cleaning data with OpenRefine">
-          This session will cover...
-        </expandable-heading>
+          <expandable-heading title="Digital notebooks">
+            By the end of this workshop, participants will have covered:
+            <ul>
+              <li>Creating up a github account</li>
+              <li>Creating a repository to store the notebook</li>
+              <li>Introduction to markdown syntax for formatting</li>
+              <li>Adding entries to the notebook</li>
+              <li>Modifying existing entries</li>
+              <li>Collaborating with multiple authors</li>
+            </ul>
 
-        <expandable-heading title="adv session TBC">
-          This session will cover...
-        </expandable-heading>
+            This session would be useful for:
+            <ul>
+              <li>people who want to create a digital notebook</li>
+              <li>people who want to collaborate with notes</li>
+              <li>creating documentation</li>
+            </ul>
 
-      </div>
-        </simple-columns>
+          </expandable-heading>
+
+          <expandable-heading title="Introduction to Data">
+            This session will cover...
+
+            This Library Carpentry lesson introduces librarians and others to working with data. At the conclusion of the lesson you will:
+            <ul>
+              <li>define terms, phrases, and concepts in software development and data science</li>
+              <li>identify and use best practices in data structures</li>
+            </ul>
+
+          </expandable-heading>
+
+          <expandable-heading title="Session TBC">
+            This session is yet to be determined but will be not be at a beginner skill level
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
 
       Session 2:
 
       <simple-columns>
-      <div>
-       <expandable-heading title="Making functions in R">
-         This session will cover...
-       </expandable-heading>
+        <div>
+          <expandable-heading title="Introduction to R">
+            This is an introductory session to the R programming language.
+            Participants attending this session can expect by the end of the session to understand:
+            <ul>
+              <li>basic R syntax</li>
+              <li>the components of the RStudio interface</li>
+              <li>how to compute basic statistics</li>
+              <li>where to find further help for R</li>
+            </ul>
 
-       <expandable-heading title="Reproducible computational environments using containers">
-         This session will cover...
-       </expandable-heading>
+            Useful for:
 
-       <expandable-heading title="Research data management">
-         This session will cover...
-       </expandable-heading>
+            <ul>
+              <li>data analysis</li>
+              <li>day 2: functions in R and data manipulation in R</li>
+              <li>day 3: data visualisation in R</li>
+            </ul>
 
-       <expandable-heading title="Creating and running scripts on the commandline">
-         This session will cover saving commands used in the unix shell and saving them into scripts for reuse.
-       </expandable-heading>
+            <b>laptop required</b>
+          </expandable-heading>
 
-      </div>
-       </simple-columns>
+          <expandable-heading title="Introduction to the Unix shell">
+            This is an introductory session to the unix commandline. By the end of this session participants can expect to:
+            <ul>
+              <li>understand how to navigate and create files and directories</li>
+              <li>run commandline programs</li>
+            </ul>
+
+            Useful for:
+            <ul>
+              <li>task automation</li>
+              <li> day 2 sessions for Make and Docker</li>
+            </ul>
+          </expandable-heading>
+
+          <expandable-heading title="Introduction to pattern matching">
+            This session will cover the syntax for creating patterns (regular expressions) for use in searching text.
+            <ul>
+              <li>match text using simple patterns</li>
+              <li>understand basic regular expression syntax</li>
+            </ul>
+          </expandable-heading>
+
+          <expandable-heading title="Using patterns to find and edit files: grep/sed/awk">
+            <p>This session will cover using regular expressions for the purposes of manipulating text by creating patterns.</p>
+
+            <p><b>pre-requisites:</b> a working knowledge of navigating the filesystem on the commandline and running commandline programs.</p>
+
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
 
       Session 3:
 
       <simple-columns>
-      <div>
-       <expandable-heading title="Rmarkdown">
-         This session will cover...
-       </expandable-heading>
+        <div>
 
-       <expandable-heading title="Reproducible computational environments using containers - Contiuned">
-         This session will directly continues from Reproducible computational environments using containers
+          <expandable-heading title="Data manipulation in R">
+            <p>By attending this session you can expect to understand how to:
+              <ul>
+                <li>subset data based on columns</li>
+                <li>filter rows by conditions</li>
+                <li>create new columns based on other columns</li>
+                <li>create data summaries</li>
+                <li>create columns or summaries by data groupings</li>
+              </ul>
+            </p>
+          </expandable-heading>
 
-         <b>pre-requisites</b>: Reproducible computational environments using containers
-       </expandable-heading>
+          <expandable-heading title="Introduction to the Unix shell - contined">
+            This session directly continues on from introduction to unix shell
 
-       <expandable-heading title="Tidy data principles">
-         This session will cover...
-       </expandable-heading>
+            <b>pre-requisites</b>: Introduction to unix shell
+          </expandable-heading>
 
-       <expandable-heading title="Breakout session">
-         This session will cover...
-       </expandable-heading>
+          <expandable-heading title="Introduction to Markdown">
+            This session will cover...
+          </expandable-heading>
 
-      </div>
-       </simple-columns>
+          <expandable-heading title="Breakout session">
+            This session is an unstructured breakout session to provide space to work or discuss together.
+          </expandable-heading>
 
-	  </section>
-     <section id="day3">
-	    <h3>Wednesday 13th February</h3>
+        </div>
+      </simple-columns>
+
+      <!--<csv-table url="day1.csv" heading-columns="1" heading-rows="1" style="font-size: 75%"></embedded-google-sheet> -->
+    </section>
+    <section id="day2">
+      <h3>Tuesday 12th February</h3>
 
       Session 1:
-       <simple-columns>
-      <div>
-        <expandable-heading title="Data visualisation in R">
-          This session will cover...
-        </expandable-heading>
+      <simple-columns>
+        <div>
+          <expandable-heading title="Using version control to track changes">
+            This session will cover...
+          </expandable-heading>
 
-        <expandable-heading title="SQL">
-          This session will cover...
-        </expandable-heading>
+          <expandable-heading title="Automating workflows with GNU Make">
+            This session will cover...
+          </expandable-heading>
 
-        <expandable-heading title="TBD">
-          This session will cover...
-        </expandable-heading>
+          <expandable-heading title="Cleaning data with OpenRefine">
+            This session will cover...
+          </expandable-heading>
 
-        <expandable-heading title="TBD">
-          This session will cover...
-        </expandable-heading>
+          <expandable-heading title="adv session TBC">
+            This session will cover...
+          </expandable-heading>
 
-      </div>
-        </simple-columns>
+        </div>
+      </simple-columns>
 
       Session 2:
 
       <simple-columns>
-      <div>
-       <expandable-heading title="Making packages in R">
-         This session will cover...
-       </expandable-heading>
+        <div>
+          <expandable-heading title="Making functions in R">
+            This session will cover...
+          </expandable-heading>
 
-       <expandable-heading title="SQL contiuned">
-         This session will cover...
-       </expandable-heading>
+          <expandable-heading title="Reproducible computational environments using containers">
+            This session will cover...
+          </expandable-heading>
 
-       <expandable-heading title="TBD">
-         This session will cover...
-       </expandable-heading>
+          <expandable-heading title="Research data management">
+            This session will cover...
+          </expandable-heading>
 
-       <expandable-heading title="TBD">
-         This session will cover...
-       </expandable-heading>
+          <expandable-heading title="Creating and running scripts on the commandline">
+            This session will cover saving commands used in the unix shell and saving them into scripts for reuse.
+          </expandable-heading>
 
-      </div>
-       </simple-columns>
+        </div>
+      </simple-columns>
+
+      Session 3:
+
+      <simple-columns>
+        <div>
+          <expandable-heading title="Rmarkdown">
+            This session will cover using the markdown syntax and R code to create reproducible documents.
+          </expandable-heading>
+
+          <expandable-heading title="Reproducible computational environments using containers - Contiuned">
+            This session will directly continues from Reproducible computational environments using containers
+
+            <b>pre-requisites</b>: Reproducible computational environments using containers
+          </expandable-heading>
+
+          <expandable-heading title="Tidy data principles">
+            This session will cover...
+          </expandable-heading>
+
+          <expandable-heading title="Breakout session">
+            This session will cover...
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
+
+    </section>
+    <section id="day3">
+      <h3>Wednesday 13th February</h3>
+
+      Session 1:
+      <simple-columns>
+        <div>
+          <expandable-heading title="Data visualisation in R">
+            This session will cover...
+          </expandable-heading>
+
+          <expandable-heading title="SQL">
+            This session will cover...
+          </expandable-heading>
+
+          <expandable-heading title="TBD">
+            This session will cover...
+          </expandable-heading>
+
+          <expandable-heading title="TBD">
+            This session will cover...
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
+
+      Session 2:
+
+      <simple-columns>
+        <div>
+          <expandable-heading title="Making packages in R">
+            This session will cover...
+          </expandable-heading>
+
+          <expandable-heading title="SQL contiuned">
+            This session will cover...
+          </expandable-heading>
+
+          <expandable-heading title="TBD">
+            This session will cover...
+          </expandable-heading>
+
+          <expandable-heading title="TBD">
+            This session will cover...
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
 
 
 
-	  </section>
-	<hr/>
+    </section>
+    <hr />
     <section id="come-along">
       <remote-markdown url="come_along.md">
         <div class="markdown-html"></div>
@@ -536,7 +539,7 @@ Session 3:
       <!--<h3>Late workshop registrations are still possible, please email res.baz@otago.ac.nz</h3> -->
 
     </section>
-    <hr/>
+    <hr />
     <section id="contact-us">
       <h1>Contact</h1>
       <div class="center">
@@ -546,6 +549,7 @@ Session 3:
   </article>
   <footer>
     Copyright &copy; Research Platform Services, University of Melbourne, 2018
-   </footer>
+  </footer>
 </body>
+
 </html>
