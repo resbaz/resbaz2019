@@ -1,4 +1,4 @@
-# ResBaz 2018 workshop information
+# ResBaz 2019 workshop information
 
 The section below provide details of the workshop options for ResBaz 2019.
 
