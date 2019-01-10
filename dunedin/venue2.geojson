@@ -1,0 +1,16 @@
+{
+    "type": "FeatureCollection",
+    "features": [    
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[170.5158257, -45.8661452]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "Otago Business School, University of Otago"
+            }
+        }
+    ]
+}

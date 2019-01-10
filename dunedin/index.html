@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>ResBaz Dunedin 2019</title>
+
+  <link rel="stylesheet" src="../css/style.css" />
+  <script src="../bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+
+  <link rel="import" href="../components/contact-icons.html">
+  <link rel="import" href="../components/csv-table.html">
+  <link rel="import" href="../components/embedded-google-sheet.html">
+  <link rel="import" href="../components/expandable-heading.html">
+  <link rel="import" href="../components/remote-markdown.html">
+  <link rel="import" href="../components/simple-columns.html">
+  <link rel="import" href="../components/venue-map.html">
+  <link rel="import" href="../bower_components/paper-button/paper-button.html">
+  <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
+  <link rel="import" href="../bower_components/app-layout/app-layout.html">
+  <link rel="import" href="../bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
+
+  <link rel="import" href="../components/common-style.html">
+  <link rel="import" href="../components/resbaz-header.html">
+  <style is="custom-style">
+    resbaz-header {
+      --header-height: 50vh;
+      --header-background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(dunedin.jpg);
+    }
+  </style>
+</head>
+
+<body unresolved>
+  <resbaz-header title="ResBaz Dunedin">
+    <h1>Dunedin</h1>
+    <h2>11-13 February, 2019</h2>
+  </resbaz-header>
+  <article>
+    <section id="full">
+      <!--<h1>Registration is closed</h1>-->
+	    <h1>Registration</h1>
+	    <iframe src="https://www.eventbrite.com/tickets-external?eid=54390966846&ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe>
+      <h2>Timetable</h2>
+      Please check back before the event for updates
+      <section id="timetable">
+        <csv-table url="timetable.csv" heading-columns="1" heading-rows="1" style="font-size: 75%">
+          </embedded-google-sheet>
+      </section>
+
+
+      <h2>Venue</h2>
+      <p>The event will be at the University of Otago, with each day starting in Castle 1 lecture theatre.</p>
+      <p> Talks will be held in the Castle 1 lecture theatre and workshops will be at the Otago Business School</p>
+
+
+    </section>
+
+    <section id="about">
+
+      <remote-markdown url="come_along.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
+
+      <remote-markdown url="about.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
+
+    </section>
+
+    <hr />
+    <section id="venue2">
+      <h1>Venue (workshops: 11-13 February)</h1>
+      <p>The workshops will be held at the Otago Business School (aka Commerce Building), University of Otago.</p>
+	<p>Exact rooms for the workshops will be detailed at the event following the first talk of each day</p>
+
+      <venue-map geojson-url="venue2.geojson" zoom="16"></venue-map>
+
+    </section>
+    <hr />
+    <section id="schedule">
+
+
+      <h1>Workshop sessions</h1>
+	    <p>Unlike previous Research Bazaars, this year workshop spaces will be on a first-come-first-served basis on the day.<p>
+
+	<p>These are the intended workshop sessions but are subject to change. Make sure to check back before the event</p>
+      <p><b>Unless specified otherwise, a laptop is required</b></p>
+
+      <p>We have an exciting lineup of workshops, all of which will be of an introductory nature and provide a foundation for further learning.</p>
+      <!-- <p>Click on the name of each session to discover more!</p> -->
+
+
+
+      <!--
+
+
+
+
+
+	<h2>Workshop streams - Programming digital skills and tools</h2>
+	<simple-columns>
+		<div>
+			<expandable-heading title="Bash and Secure Shell (SSH)">
+            This workshop session will be an introduction to the unix commandline and remote access. It will be based on <a href="http://swcarpentry.github.io/shell-novice/">http://swcarpentry.github.io/shell-novice/</a>
+		  <br>
+		  It will cover:
+		  <ul>
+			  <li>Navigation of directories and files</li>
+			  <li>Working with files and directories</li>
+			  <li>Combining commands</li>
+			  <li>Introduction to accessing remote computers</li>
+			  <li>Introduction to NeSI</li>
+		  </ul>
+          </expandable-heading>
+			<p>Workshop setup instructions can be found here:<BR> <a href="https://murraycadzow.github.io/2018-07-04-otago-shell/">https://murraycadzow.github.io/2018-07-04-otago-shell/</a></p>
+
+		</div>
+	    </simple-columns>
+      -->
+    </section>
+    <h2>Preliminary timetable for workshops</h2>
+    This timetable is preliminary and subject to change. Please check back before the event for updates.</b>
+    All workshops within a session are run concurrently in separate rooms. <b>Nearly all workshops will require you to bring a laptop.</b>
+
+    <p>Skill level description:<br>
+      In order to convey the skill level of a particular workshop the following terms are used to describe the assumed levels of prior knowledge or experience.<br>
+      <i>Beginner</i>: Someone new to the topic with minimal prior knowledge of the workshop topic beyond the stated pre-requisites<br>
+      <i>Post-beginner</i>: Greater expectation of prior knowledge or experience beyond the direct topic being covered in the workshop
+    </p>
+    <section id="Day1">
+      <h3>Monday 11th February</h3>
+      Session 1:
+      <simple-columns>
+        <div>
+          <expandable-heading title="Best practices for data organisation in spreadsheets">
+            <p>Good data organization is the foundation of any research project. Spreadsheets are tools that are commonly used to store data and we organize data in spreadsheets in the ways that we as humans want to work with the data. But computers require that data be organized in particular ways so in order to use tools that make computation more efficient, such as programming languages like R or Python, we need to structure our data the way that computers need the data.</p>
+
+            <p>This session will cover the best practices for using spreadsheets with data. This will include:
+            <ul>
+              <li>Learning about the "Tidy data" principles</li>
+              <li>How to organise data according to "Tidy data" principles
+              <li>Dealing wth dates</li>
+              <li>Exporting data for use with other tools</li>
+            </ul>
+
+            This session would be useful for:
+            <ul>
+              <li>people who collect data</li>
+              <li>people who want to begin analysing data</li>
+            </ul>
+          </p>
+
+
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: spreadsheet program installed (e.g. MS Excel or Libre Office Calc)</p>
+          </expandable-heading>
+
+          <expandable-heading title="Digital notebooks">
+            Note taking is a key part of research. Digital notebooks enable you to not only capture ideas but also enrich them with embedded images, links to reference material, and also let you modify and improve them while keeping track of the previous states. They can also be used as self-promotion of your work.
+
+            This session will cover the creation of a simple web-based notebook that could serve as a lab notebook or blog. By the end of this workshop, participants will have covered:
+            <ul>
+              <li>Creating up a github account</li>
+              <li>Creating a repository to store the notebook</li>
+              <li>Introduction to markdown syntax for formatting</li>
+              <li>Adding entries to the notebook</li>
+              <li>Modifying existing entries</li>
+              <li>Collaborating with multiple authors</li>
+            </ul>
+
+            This session would be useful for:
+            <ul>
+              <li>create a reprodicible and collaborative document</li>
+              <li>people who want to create a digital notebook</li>
+              <li>people who want to collaborate with notes</li>
+              <li>creating documentation</li>
+            </ul>
+
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: web-browser</p>
+          </expandable-heading>
+
+          <expandable-heading title="Introduction to Data">
+            What is data? What data might I have? Is there an easier way to do what I'm doing? These are some of the questions that you may ask during your research and this session is designed to help you start answering these questions. Computational research is full of jargon making it difficult to know if a particular program is going to solve the problems you have. But being able to put names to your problems is powerful is being able to start solving them.
+
+            This lesson (based on Library Carpentry) introduces librarians and others to working with data. At the conclusion of the lesson you will be able to:
+            <ul>
+              <li>define terms, phrases, and concepts in software development and data science</li>
+              <li>understand what tasks are best performed by a computer</li>
+              <li>identify and use best practices in data structures</li>
+            </ul>
+            <p>No prior knowledge required</p>
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: web-browser</p>
+          </expandable-heading>
+
+          <expandable-heading title="Breakout session">
+            This session will provide a space for a yet to be determined session of a more skilled nature
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
+
+      Session 2:
+
+      <simple-columns>
+        <div>
+          <expandable-heading title="Introduction to R">
+            R is a programming language that is useful for data analysis, and by learning R you can improve your efficiency and reproducibility of your analysis.
+            This is an introductory session to the R programming language. Participants attending this session can expect by the end of the session to understand:
+            <ul>
+              <li>basic R syntax</li>
+              <li>the components of the RStudio interface</li>
+              <li>how to compute basic statistics</li>
+              <li>where to find further help for R</li>
+            </ul>
+
+            Useful for:
+
+            <ul>
+              <li>Data analysis</li>
+              <li>Day 2: functions in R and data manipulation in R</li>
+              <li>Day 3: data visualisation in R</li>
+            </ul>
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: R and RStudio</p>
+          </expandable-heading>
+
+          <expandable-heading title="Introduction to the Unix shell">
+            The power of the unix shell comes from it's reproduciblity and ability to automate and scale tasks.
+            This is an introductory session to the unix commandline. By the end of this session participants can expect to:
+            <ul>
+              <li>open the commandline</li>
+              <li>understand how to navigate and create files and directories</li>
+              <li>run commandline programs</li>
+            </ul>
+
+            Useful for:
+            <ul>
+              <li>task automation</li>
+              <li>day 2 lessons for Make and Docker</li>
+            </ul>
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: MacOS/Linux - Terminal (comes pre-installed). Windows - GitBash </p>
+          </expandable-heading>
+
+          <expandable-heading title="Introduction to pattern matching for text searching">
+            Have you found yourself repeating the same search but only making small changes each time? Maybe you want to know where all the occurances of a list of words are in a document. Instead of having to perform each search individually there are more efficient ways, such as creating code that embodies the commonalities in your search terms.<br>
+            This session will cover the syntax for creating patterns (regular expressions) for use in searching text.
+            <ul>
+              <li>match text using simple patterns</li>
+              <li>understand basic regular expression syntax</li>
+            </ul>
+
+            Useful for:
+            <ul>
+              <li>People who want to improve their understanding of how search works</li>
+              <li>People who use find/replace</li>
+            </ul>
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: web-browser</p>
+          </expandable-heading>
+
+          <expandable-heading title="Using patterns to find and edit files: grep/sed/awk">
+            <p>Finding and replacing is a common task for text editing. This session will cover using regular expressions for the purposes of manipulating text by creating patterns. By attending this session you can expect to:</p>
+            <ul>
+              <li>extract text from files that match patterns</li>
+              <li>find and replace text using patterns</li>
+              <li>rearrange columns in files</li>
+            </ul>
+            <p><b>pre-requisites:</b> a working knowledge of navigating the filesystem on the commandline and running commandline programs.</p>
+            <p>Targeted skill level: post-beginner</p>
+            <p>Software required: MacOS/Linux - Terminal (comes pre-installed). Windows - GitBash</p>
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
+
+      Session 3:
+
+      <simple-columns>
+        <div>
+
+          <expandable-heading title="Data manipulation in R">
+            Often the data we have is not in the format, or subsetted in the way we need to analyse it. This session is all about manipulating the data you have into the formats and groupings you need for analysis in R<br>
+            <p>By attending this session you can expect to understand how to:
+              <ul>
+                <li>subset data based on columns</li>
+                <li>filter rows by conditions</li>
+                <li>create new columns based on other columns</li>
+                <li>create data summaries</li>
+                <li>create columns or summaries by data groupings</li>
+              </ul>
+            </p>
+            <b>pre-requisites</b>: Introduction to R or prior experience with R
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: R and RStudio</p>
+          </expandable-heading>
+
+          <expandable-heading title="Introduction to the Unix shell - Continued">
+            This session directly continues on from introduction to unix shell
+
+            <b>pre-requisites</b>: Introduction to unix shell
+            <p>Targeted skill level: beginner</p>
+          </expandable-heading>
+
+          <expandable-heading title="Introduction to data.govt.nz">
+          There are many publicly available datasets that can be used for research and to supplement data you may already have. Data.govt.nz helps people discover, learn and use open data easily; empowering, enabling informed decision making, and problem-solving for citizens and business alike.
+
+          <p>By attending this session you can expect to:
+            <ul>
+              <li>Understand the purpose of data.govt.nz</li>
+              <li>Understand what open data is</li>
+              <li>Understand how to browse for open data sets</li>
+            </ul>
+          </p>
+
+          <p>Software required: web-browser</p>
+          <p>Targetted skill level: beginner</p>
+          </expandable-heading>
+
+
+          <expandable-heading title="Breakout session">
+            This session is an unstructured breakout session to provide space to work or discuss together.
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
+
+      <!--<csv-table url="day1.csv" heading-columns="1" heading-rows="1" style="font-size: 75%"></embedded-google-sheet> -->
+    </section>
+    <section id="day2">
+      <h3>Tuesday 12th February</h3>
+
+      Session 1:
+      <simple-columns>
+        <div>
+          <expandable-heading title="Using version control to track changes">
+            Being able to know what you did in the past and how it differs from the present is a key part of research. Using software, this can be automated so that you can focus on your research without having to be concerned about manually keeping track of all the different versions of documents or scripts you have.<br>
+            This session will cover using version control with Git to automate tracking and dealing with changes when writing scripts within RStudio.
+
+            <p>The session will cover:
+            <ul>
+              <li>setting up Git</li>
+              <li>adding files to be tracked</li>
+              <li>making and tracking changes</li>
+              <li>reviewing changes</li>
+            </ul>
+          </p>
+
+            <p><b>pre-requisites</b>: Introduction to R or prior experience with R<p>
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: R and RStudio</p>
+          </expandable-heading>
+
+          <expandable-heading title="Automating workflows with GNU Make">
+            This session will cover creating a workflow script to manage dependencies and outputs. After this session you should be able to:
+            <ul>
+              <li>understand targets and dependencies</li>
+              <li>create a basic scripted workflow</li>
+            </ul>
+            This session is useful for people who:
+            <ul>
+              <li>want to repeat a workflow with changing data</li>
+            </ul>
+            <b>pre-requisites</b>: Introduction to unix shell or equivalent
+            <p>Targeted skill level: post-beginner</p>
+            <p>Software required: MacOS/Linux - Terminal (comes pre-installed). Windows - GitBash</p>
+          </expandable-heading>
+
+          <expandable-heading title="Cleaning data with OpenRefine">
+            This session will cover using OpenRefine for cleaning and tidying data. By the end of the session attendees should expect to:
+            <ul>
+              <li>Load data into OpenRefine</li>
+              <li>perform basic data cleaning operations</li>
+              <li>Export data from OpenRefine</li>
+            </ul>
+
+            This session would be useful for people who:
+            <ul>
+              <li>clean and organise data</li>
+              <li>want to apply the same data cleaning operation to multiple datasets</li>
+            </ul>
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: OpenRefine</p>
+          </expandable-heading>
+
+          <expandable-heading title="Breakout session">
+            This session will provide a space for a yet to be determined session of a more skilled nature
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
+
+      Session 2:
+
+      <simple-columns>
+        <div>
+          <expandable-heading title="Making functions in R">
+            This session will be and introduction to how to create your own functions (methods) in R. By the end of the session you should:
+            <ul>
+              <li>Understand the how to create a function</li>
+              <li>Understand how to specify arguments to a function</li>
+              <li>Understand how to return data from a function</li>
+            </ul>
+
+            Uesful for:
+            <ul>
+              <li>People who want to specify their own methods for dealing with data</li>
+            </ul>
+
+            <b>pre-requisites</b>: Introduction to R or prior experience with R
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: R and RStudio</p>
+          </expandable-heading>
+
+          <expandable-heading title="Reproducible computational environments using containers">
+            This introductory session will cover creating a reproducible workflow environment using docker images.
+            <ul>
+              <li>obtain a pre-built docker image</li>
+              <li>create a dockerfile to create a custom contatiner</li>
+              <li>access the docker container and run a command</li>
+              <li>share data between the host and the container</li>
+            </ul>
+
+            <b>pre-requisites</b>: Introduction to unix shell or equivalent
+            <p>Targeted skill level: post-beginner</p>
+            <p>Software required: Docker</p>
+          </expandable-heading>
+
+          <expandable-heading title="Research data management">
+            This presentation will cover general best-practice principles of management, storage and sharing of research data. It will include practical tips for improving data management practices that can be implemented immediately regardless of the type of data. By attending students will feel better prepared to respond to university, employer, funder and/or publisher data requirements.
+
+            <p>Targeted skill level: all</p>
+            <p>Software required: none</p>
+          </expandable-heading>
+
+          <expandable-heading title="Creating and running scripts on the commandline">
+            This session will cover saving commands used in the unix shell and saving them into scripts for reuse.
+
+            <p><b>pre-requisites</b>: Introduction to unix shell or equivalent</p>
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: MacOS/Linux - Terminal (comes pre-installed). Windows - GitBash</p>
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
+
+      Session 3:
+
+      <simple-columns>
+        <div>
+          <expandable-heading title="Introduction to reproducible analysis documents with Rmarkdown">
+            This session will cover using the markdown syntax and R code to create reproducible documents.
+
+            <p><b>suggested prior knowledge</b>: Introduction to R or prior experience with R</p>
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: R and RStudio</p>
+
+          </expandable-heading>
+
+          <expandable-heading title="Reproducible computational environments using containers - Continued">
+            This session will directly continues from Reproducible computational environments using containers.
+
+            <p><b>pre-requisites</b>: Reproducible computational environments using containers</p>
+          </expandable-heading>
+
+          <expandable-heading title="Tidy data principles">
+            <p>Good data organization is the foundation of any research project. Spreadsheets are tools that are commonly used to store data and we organize data in spreadsheets in the ways that we as humans want to work with the data. But computers require that data be organized in particular ways so in order to use tools that make computation more efficient, such as programming languages like R or Python, we need to structure our data the way that computers need the data.</p>
+		  <p><i>This session is extremely similar to that of "Best practices for data organisation in spreadsheets" on Monday.</i></p>
+            <p>This session will cover the best practices for using spreadsheets with data. This will include:
+            <ul>
+              <li>Learning about the "Tidy data" principles</li>
+              <li>How to organise data according to "Tidy data" principles
+              <li>Dealing wth dates</li>
+              <li>Exporting data for use with other tools</li>
+            </ul>
+
+            This session would be useful for:
+            <ul>
+              <li>people who collect data</li>
+              <li>people who want to begin analysing data</li>
+            </ul>
+          </p>
+
+
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: spreadsheet program installed (e.g. MS Excel or Libre Office Calc)</p>
+          </expandable-heading>
+
+          <expandable-heading title="Breakout session">
+            This session will provide a space for a yet to be determined session of a more skilled nature
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
+
+    </section>
+    <section id="day3">
+      <h3>Wednesday 13th February</h3>
+
+      Session 1:
+      <simple-columns>
+        <div>
+          <expandable-heading title="Data visualisation in R">
+            This session will cover how to make plots from data in R. This will be done using the ggplot2 package for R. Participants can expect to learn how to:
+            <ul>
+              <li>specify the data to be visualised</li>
+              <li>be able to create scatter plots, line graphs, bar plots, box and whisker plots, and histograms</li>
+              <li>understand how to make customisations to default themes</li>
+            </ul>
+
+            <p><b>pre-requisites</b>: Introduction to R or prior experience with R</p>
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: R and RStudio</p>
+          </expandable-heading>
+
+          <expandable-heading title="Introduction to getting data from databases">
+            This session will be an introduction to querying databases. After this session participants can expect to:
+            <ul>
+              <li>understand what a relational database is</li>
+              <li>create basic queries for choosing columns</li>
+              <li>create basic queries for filtering data</li>
+              <li>create queries for summarising data based on groups</li>
+            </ul>
+
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: SQLite and http://sqlitebrowser.org</p>
+          </expandable-heading>
+
+          <expandable-heading title="Introduction to Github">
+            Github provides an online way to collaborate and track changes on plain text files, such as markdown.
+            Markdown is a simple text language that encodes text formatting of a single document that can then be converted into multiple different formats such as html, doc, or pdf.<br>
+            This session will cover getting started with Gitub and the basic syntax of markdown for creating formatted documents which can be converted into a website.
+
+            <ul>
+              <li>Creating up a github account</li>
+              <li>Creating a repository</li>
+              <li>Introduction to markdown syntax for formatting</li>
+              <li>Creating a simple webpage with markdown</li>
+              <li>Modifying pages and tracking changes</li>
+              <li>How to use Github for collaboration</li>
+            </ul>
+
+            <p>Targeted skill level: beginner</p>
+            <p>Software required: web-browser</p>
+          </expandable-heading>
+
+          <expandable-heading title="Special topic">
+            This session will be an unstructured session during ResBaz based on interest of participants.
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
+
+      Session 2:
+
+      <simple-columns>
+        <div>
+          <expandable-heading title="Making packages in R">
+            This session will cover how to take your own functions in R and turn them into R packages to improve maintainability.
+
+            <p><b>suggested prior knowledge</b>: Introduction to R or prior experience with R</p>
+            <p>Targeted skill level: post-beginner</p>
+            <p>Software required: R and RStudio</p>
+
+          </expandable-heading>
+
+          <expandable-heading title="Introduction to getting data from databases - continued">
+            This session will continue directly from Introduction to getting data from databases.
+
+            <p><b>pre-requisites</b>: Introduction to getting data from databases</p>
+          </expandable-heading>
+
+          <expandable-heading title="Introduction to Github - continued">
+            <p>This session directly continues from Introduction to Github</p>
+            <p><b>Pre-requisites:</b> Introduction to Github</p>
+
+          </expandable-heading>
+
+          <expandable-heading title="Special topic">
+            This session will be an unstructured session during ResBaz based on interest of participants.
+          </expandable-heading>
+
+        </div>
+      </simple-columns>
+
+
+
+    </section>
+    <hr />
+    <section id="come-along">
+      <remote-markdown url="come_along.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
+
+      <!--<h3>Late workshop registrations are still possible, please email res.baz@otago.ac.nz</h3> -->
+
+    </section>
+    <hr />
+    <section id="contact-us">
+      <h1>Contact</h1>
+      <div class="center">
+        <contact-icons email="res.baz@otago.ac.nz" twitter="resbaz" facebook="otagouniversity"></contact-icons>
+      </div>
+    </section>
+  </article>
+  <footer>
+    Copyright &copy; Research Platform Services, University of Melbourne, 2018
+  </footer>
+</body>
+
+</html>
