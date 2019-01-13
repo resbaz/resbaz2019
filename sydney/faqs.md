@@ -1,3 +1,5 @@
+# FAQs
+
 ## Who can attend?
 The event is aimed at NSW researchers, however anyone is welcome to attend.
 
