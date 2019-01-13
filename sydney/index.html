@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>ResBaz Oslo 2019</title>
+  <title>ResBaz Sydney 2019</title>
 
   <link rel="stylesheet" src="../css/style.css"/>
   <script src="../bower_components/webcomponentsjs/webcomponents-lite.js"></script>
@@ -30,57 +30,70 @@
   <style is="custom-style">
   resbaz-header {
     --header-height: 50vh;
-    --header-background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../img/Oslo_at_night.jpg);
+    --header-background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../img/sydney-unsw.jpg);
   }
   </style>
 </head>
 <body unresolved>
-  <resbaz-header title="ResBaz 2019 Oslo">
-    <h1>Oslo</h1>
-    <h2>9 - 11 January, 2019</h2>
+  <resbaz-header title="ResBaz 2019 Sydney">
+    <h1>ResBaz Sydney</h1>
+    <h2>Coming Soon, 2019</h2>
     <div class="actions">
       <a href="#come-along">
         <paper-button raised>Come Join Us</paper-button>
       </a>
     </div>
   </resbaz-header>
+  
   <article>
     <section id="about">
       <remote-markdown url="about.md">
         <div class="markdown-html"></div>
       </remote-markdown>
     </section>
+    
     <hr/>
+    
     <section id="venue">
       <h1>Venue</h1>
-      <p>The event will be held in and around Blindern Campus, The University of Oslo.</p>
-
+      <p>The event will be held at the University of NSW.</p>
       <venue-map geojson-url="venue.geojson" zoom="17"></venue-map>
-
-
     </section>
 
     <hr/>
+    
+    <section id="faqs">
+      <h1>FAQs</h1>
+      <remote-markdown url="faqs.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>     
+    </section>
+
+    <hr/>
+    
     <section id="come-along">
       <remote-markdown url="come_along.md">
         <div class="markdown-html"></div>
       </remote-markdown>
     </section>
+    
     <hr/>
+    
     <section id="contact-us">
       <h1>Contact</h1>
       <div class="center">
-      <p>For more information check out our <a href="https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html">local page</a>, or contact us at:</p>
-        <contact-icons email="research-bazaar@swcarpentry.uio.no" ></contact-icons>
+      <p>For more information contact us at:</p>
+        <contact-icons email="resbazsydney@googlegroups.com" ></contact-icons>
       </div>
     </section>
   </article>
+  
   <footer>
   <p style="padding-bottom:20px;">
-    Copyright &copy; Science Library, University of Oslo, 2019
-    <br/>Oslo skyline: Photo by Jørn Eriksson (Flickr) CC BY 2.0, via Wikimedia Commons
+    Copyright &copy; UNSW, 2019
     <br/>
-    </p>
+    </p>  
   </footer>
+  
 </body>
 </html>
