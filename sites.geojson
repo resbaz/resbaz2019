@@ -23,7 +23,8 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='./oslo'>Oslo</a>"
             }
-        },{
+        },
+	    {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -32,6 +33,17 @@
             "properties": {
                 "marker-color": "#2b3990",
                 "details": "<a href='./dunedin'>Dunedin</a>"
+            }
+	 },
+	    {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[151.2313, -33.9173]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='./sydney'>Sydney</a>"
             }
 	 }
     ]
