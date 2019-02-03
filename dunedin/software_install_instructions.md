@@ -4,7 +4,7 @@
 
 Please check the software requirements for the lessons you want to attend. 
 
-**[Install instructions](#install-instructions) are at the bottom of the page.**
+**Install [instructions](#install-instructions) are at the bottom of the page.**
 
 ## Lessons
 
