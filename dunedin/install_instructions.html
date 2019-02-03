@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>ResBaz Dunedin 2019</title>
+
+  <link rel="stylesheet" src="../css/style.css" />
+  <script src="../bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+
+  <link rel="import" href="../components/contact-icons.html">
+  <link rel="import" href="../components/csv-table.html">
+  <link rel="import" href="../components/embedded-google-sheet.html">
+  <link rel="import" href="../components/expandable-heading.html">
+  <link rel="import" href="../components/remote-markdown.html">
+  <link rel="import" href="../components/simple-columns.html">
+  <link rel="import" href="../components/venue-map.html">
+  <link rel="import" href="../bower_components/paper-button/paper-button.html">
+  <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
+  <link rel="import" href="../bower_components/app-layout/app-layout.html">
+  <link rel="import" href="../bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
+
+  <link rel="import" href="../components/common-style.html">
+  <link rel="import" href="../components/resbaz-header.html">
+  <style is="custom-style">
+    resbaz-header {
+      --header-height: 50vh;
+      --header-background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(dunedin.jpg);
+    }
+  </style>
+</head>
+
+<body unresolved>
+  <resbaz-header title="ResBaz Dunedin">
+    <h1>Dunedin</h1>
+    <h2>11-13 February, 2019</h2>
+  </resbaz-header>
+  <article>
+    
+
+    <section id="install_instructions">
+
+      <remote-markdown url="install_instructions.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
+    </section>
+
+    
+    
+    <hr />
+    <section id="contact-us">
+      <h1>Contact</h1>
+      <div class="center">
+        <contact-icons email="res.baz@otago.ac.nz" twitter="resbaz" facebook="otagouniversity"></contact-icons>
+      </div>
+    </section>
+  </article>
+  <footer>
+    Copyright &copy; Research Platform Services, University of Melbourne, 2018
+  </footer>
+</body>
+
+</html>
