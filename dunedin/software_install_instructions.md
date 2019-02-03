@@ -150,7 +150,7 @@ __Session 8:__ 2 - 3pm
    
 * _Special topic_
 
-## Sotftware Install Instructions
+## Software Install Instructions
 
 Should be able to refer to SWC/DC install instructions for most things
 
