@@ -28,13 +28,11 @@ __Session 2:__ 2:00 - 3:00pm
 
 * _Introduction to R_
     - Lesson: https://datacarpentry.org/R-ecology-lesson/00-before-we-start.html and https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
-    - Software:  R and RStudio
+    - Software: [R](#R) and [RStudio](#RStudio)
 
 * _Introduction to the Unix shell_
     - Lesson: http://swcarpentry.github.io/shell-novice/
-    - Software:
-        - Bash (macOs/linux - already comes installed)
-        - gitbash (Windows)
+    - Software: [Bash](#BASH)
     - Data: [data-shell.zip](http://swcarpentry.github.io/shell-novice/setup.html) (*data-shell.zip*)
 
 * _Introduction to pattern matching for text searching_
@@ -43,15 +41,13 @@ __Session 2:__ 2:00 - 3:00pm
    
 * _Using patterns to find and edit files: grep/sed/awk_
     - Lesson: custom lesson
-    - Software:
-        - Bash (macOs/linux - already comes installed)
-        - gitbash (Windows)
+    - Software: [Bash](#BASH)
    
 
 __Session 3:__ 3:30 - 5:00pm
 * _Data manipulation in R_
     - Lesson: https://datacarpentry.org/R-ecology-lesson/03-dplyr.html
-    - Software: R and RStudio
+    - Software: [R](#R) and [RStudio](#RStudio)
     - Data: [combined.csv](https://ndownloader.figshare.com/files/2292169)
    
 * _Introduction to the Unix shell - Continued_
