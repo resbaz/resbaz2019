@@ -1,4 +1,4 @@
-# ResBaz2019 install instructions
+# ResBaz2019 lesson requirements and install instructions
 
 [Dunedin ResBaz website](https://resbaz.github.io/resbaz2019/dunedin/)
 
