@@ -4,7 +4,7 @@
 
 Please check the software requirements for the lessons you want to attend. 
 
-**Install [instructions](#install-instructions) are at the bottom of the page.**
+**[Install instructions](#software-install-instructions) are at the bottom of the page.**
 
 ## Lessons
 
@@ -150,7 +150,7 @@ __Session 8:__ 2 - 3pm
    
 * _Special topic_
 
-## Install Instructions
+## Sotftware Install Instructions
 
 Should be able to refer to SWC/DC install instructions for most things
 
