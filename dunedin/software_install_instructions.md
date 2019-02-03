@@ -4,7 +4,7 @@
 
 Please check the software requirements for the lessons you want to attend. 
 
-**Install instructions are at the bottom of the page.**
+**[Install instructions](#InstallInstructions) are at the bottom of the page.**
 
 ## Lessons
 
@@ -67,8 +67,8 @@ __Session 4:__ 10:30 - noon
 * _Using version control to track changes_
     - Lesson: based on http://swcarpentry.github.io/git-novice/14-supplemental-rstudio/index.html and https://happygitwithr.com
     - Software:
-        - R and RStudio
-        - Git
+        - [R](#R) and [RStudio](#RStudio)
+        - [Git](#Git)
   
 * _Automating workflows with GNU Make_
     - Lesson: http://swcarpentry.github.io/make-novice/ see also https://kbroman.org/minimal_make/
@@ -76,7 +76,7 @@ __Session 4:__ 10:30 - noon
    
 * _Cleaning data with OpenRefine_
     - Lesson: https://librarycarpentry.org/lc-open-refine/
-    - Software: OpenRefine
+    - Software: [OpenRefine](#OpenRefine)
    
 * _Breakout_
     - Advanced Google (Shiobhan custom session)
@@ -85,7 +85,7 @@ __Session 4:__ 10:30 - noon
 __Session 5:__ 2:00 - 3:00pm
 * _Making functions in R_
     - Lesson: http://swcarpentry.github.io/r-novice-inflammation/02-func-R/index.html
-    - Software: R and RStudio
+    - Software: [R](#R) and [RStudio](#RStudio)
     - Data: [r-novice-inflammation.zip](http://swcarpentry.github.io/r-novice-inflammation/setup.html)
    
 * _Reproducible computational environments using containers_
@@ -99,14 +99,14 @@ __Session 5:__ 2:00 - 3:00pm
    
 * _Creating and running scripts on the commandline_
     - Lesson: based on http://swcarpentry.github.io/shell-novice/06-script/index.html
-    - Software: Bash
+    - Software: [Bash](#BASH)
     - Data: [data-shell.zip](http://swcarpentry.github.io/shell-novice/setup.html)
    
 
 __Session 6:__ 3:30 - 4:30pm
 * _RMarkdown_
   - Lesson: https://swcarpentry.github.io/r-novice-gapminder/15-knitr-markdown/index.html
-  - Software: R and RStudio
+  - Software: [R](#R) and [RStudio](#RStudio)
    
 * _Reproducible computational environments using containers - Continued_
    
@@ -123,7 +123,7 @@ __Session 6:__ 3:30 - 4:30pm
 __Session 7:__ 10:30 - noon
 * _Data visualisation in R_
     - Lesson: https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html
-    - Software: R and RStudio
+    - Software: [R](#R) and [RStudio](#RStudio)
     - Data: [combined.csv](https://ndownloader.figshare.com/files/2292169)
    
 * _Introduction to getting data from databases_
@@ -142,7 +142,7 @@ __Session 7:__ 10:30 - noon
 __Session 8:__ 2 - 3pm
 * _Making packages in R_
     - Lesson: see http://r-pkgs.had.co.nz
-    - Software: R and Rstudio
+    - Software: [R](#R) and [RStudio](#RStudio)
    
 * _Introduction to getting data from databases - Continued_
   
@@ -213,6 +213,8 @@ For the [Library Carpentary Data Cleaning](https://librarycarpentry.org/lc-open-
 ### GNU Make
 
 Follow the instructions for the [GNU Make](http://swcarpentry.github.io/make-novice/setup.html) lesson to install the relevant software.
+
+### Docker
 
 ### Other
 
