@@ -4,7 +4,7 @@
 
 Please check the software requirements for the lessons you want to attend. 
 
-**[Install instructions](#InstallInstructions) are at the bottom of the page.**
+**[Install instructions](#install-instructions) are at the bottom of the page.**
 
 ## Lessons
 
@@ -28,11 +28,11 @@ __Session 2:__ 2:00 - 3:00pm
 
 * _Introduction to R_
     - Lesson: https://datacarpentry.org/R-ecology-lesson/00-before-we-start.html and https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
-    - Software: [R](#R) and [RStudio](#RStudio)
+    - Software: [R](#r) and [RStudio](#rstudio)
 
 * _Introduction to the Unix shell_
     - Lesson: http://swcarpentry.github.io/shell-novice/
-    - Software: [Bash](#BASH)
+    - Software: [Bash](#bash)
     - Data: [data-shell.zip](http://swcarpentry.github.io/shell-novice/setup.html) (*data-shell.zip*)
 
 * _Introduction to pattern matching for text searching_
@@ -41,13 +41,13 @@ __Session 2:__ 2:00 - 3:00pm
    
 * _Using patterns to find and edit files: grep/sed/awk_
     - Lesson: custom lesson
-    - Software: [Bash](#BASH)
+    - Software: [Bash](#bash)
    
 
 __Session 3:__ 3:30 - 5:00pm
 * _Data manipulation in R_
     - Lesson: https://datacarpentry.org/R-ecology-lesson/03-dplyr.html
-    - Software: [R](#R) and [RStudio](#RStudio)
+    - Software: [R](#r) and [RStudio](#rstudio)
     - Data: [combined.csv](https://ndownloader.figshare.com/files/2292169)
    
 * _Introduction to the Unix shell - Continued_
@@ -67,16 +67,16 @@ __Session 4:__ 10:30 - noon
 * _Using version control to track changes_
     - Lesson: based on http://swcarpentry.github.io/git-novice/14-supplemental-rstudio/index.html and https://happygitwithr.com
     - Software:
-        - [R](#R) and [RStudio](#RStudio)
-        - [Git](#Git)
+        - [R](#r) and [RStudio](#rstudio)
+        - [Git](#git)
   
 * _Automating workflows with GNU Make_
     - Lesson: http://swcarpentry.github.io/make-novice/ see also https://kbroman.org/minimal_make/
-    - Software: GNU Make
+    - Software: [GNU Make](#gnu-make)
    
 * _Cleaning data with OpenRefine_
     - Lesson: https://librarycarpentry.org/lc-open-refine/
-    - Software: [OpenRefine](#OpenRefine)
+    - Software: [OpenRefine](#openrefine)
    
 * _Breakout_
     - Advanced Google (Shiobhan custom session)
@@ -85,13 +85,13 @@ __Session 4:__ 10:30 - noon
 __Session 5:__ 2:00 - 3:00pm
 * _Making functions in R_
     - Lesson: http://swcarpentry.github.io/r-novice-inflammation/02-func-R/index.html
-    - Software: [R](#R) and [RStudio](#RStudio)
+    - Software: [R](#r) and [RStudio](#rstudio)
     - Data: [r-novice-inflammation.zip](http://swcarpentry.github.io/r-novice-inflammation/setup.html)
    
 * _Reproducible computational environments using containers_
     - Lesson: custom lesson
     - Software: 
-        - Docker
+        - [Docker](#docker)
         - web browser (Chrome, Firefox, Safari, Edge, etc.)
    
 * _Research data management_
@@ -99,14 +99,14 @@ __Session 5:__ 2:00 - 3:00pm
    
 * _Creating and running scripts on the commandline_
     - Lesson: based on http://swcarpentry.github.io/shell-novice/06-script/index.html
-    - Software: [Bash](#BASH)
+    - Software: [Bash](#bash)
     - Data: [data-shell.zip](http://swcarpentry.github.io/shell-novice/setup.html)
    
 
 __Session 6:__ 3:30 - 4:30pm
 * _RMarkdown_
   - Lesson: https://swcarpentry.github.io/r-novice-gapminder/15-knitr-markdown/index.html
-  - Software: [R](#R) and [RStudio](#RStudio)
+  - Software: [R](#r) and [RStudio](#rstudio)
    
 * _Reproducible computational environments using containers - Continued_
    
@@ -123,13 +123,13 @@ __Session 6:__ 3:30 - 4:30pm
 __Session 7:__ 10:30 - noon
 * _Data visualisation in R_
     - Lesson: https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html
-    - Software: [R](#R) and [RStudio](#RStudio)
+    - Software: [R](#r) and [RStudio](#rstudio)
     - Data: [combined.csv](https://ndownloader.figshare.com/files/2292169)
    
 * _Introduction to getting data from databases_
     - Lesson: (https://datacarpentry.org/sql-ecology-lesson/)
     - Software: 
-        -[SQLite](https://www.sqlite.org/index.html)
+        - [SQLite](https://www.sqlite.org/index.html)
         - [DB Browser for SQLite](http://sqlitebrowser.org/)
     - Data: [data](https://doi.org/10.6084/m9.figshare.1314459) (select download all)
    
@@ -142,7 +142,7 @@ __Session 7:__ 10:30 - noon
 __Session 8:__ 2 - 3pm
 * _Making packages in R_
     - Lesson: see http://r-pkgs.had.co.nz
-    - Software: [R](#R) and [RStudio](#RStudio)
+    - Software: [R](#r) and [RStudio](#rstudio)
    
 * _Introduction to getting data from databases - Continued_
   
