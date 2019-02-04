@@ -152,24 +152,22 @@ __Session 8:__ 2 - 3pm
 
 ## Software Install Instructions
 
-Should be able to refer to SWC/DC install instructions for most things
+Instuctions to install the software a required by the workshops are below. 
+
+**If you stike difficulty there will be helpers available during the breaks of ResBaz to assist**
 
 ### BASH
 
-[SWC](http://swcarpentry.github.io/shell-novice/setup.html) has a page with setup instructions for the shell lessons.
+[Software Carpentry](http://swcarpentry.github.io/shell-novice/setup.html) has a page with setup instructions for the shell lessons.
 
 Linux and Mac users should already have an appropriate system installed which can be accessed via the Terminal.
 
 Windows systems do not typically have a system installed but options are available. SWC encourages the use of Git Bash that comes with [Git for Windows](https://gitforwindows.org/), current version 2.20.1, choose the appropriate **.exe** and follow the instructions.
 
-**Text Editor** to write and save scripts you will need a text editor, there are many options and everyone has their favorite, a couple of options are:
-* [nano](https://www.nano-editor.org/download.php)
-* [notepad++](https://notepad-plus-plus.org/download/v7.6.3.html)
-
 
 ### Git
 
-Windows/MacOS 
+Windows/MacOS users please follow this link and download and install the file that matches your operating system
 - https://git-scm.com/downloads
 
 Linux:
@@ -208,13 +206,32 @@ after install, R-Studio should recognise your default R installation, if not you
 
 ### OpenRefine
 
-For the [Library Carpentary Data Cleaning](https://librarycarpentry.org/lc-open-refine/) you will need to follow the setup instructions to install [OpenRefine](http://openrefine.org/download.html)
+Please follow these setup instructions to install [OpenRefine](http://openrefine.org/download.html)
 
 ### GNU Make
 
 Follow the instructions for the [GNU Make](http://swcarpentry.github.io/make-novice/setup.html) lesson to install the relevant software.
 
 ### Docker
+
+(1a) If you have an Apple laptop (running macOS), carry out the four steps on https://docs.docker.com/docker-for-mac/install/ under heading “Install and run Docker Desktop for Mac”. [*1]
+(1b) If your laptop runs Microsoft Windows, carry out the three steps on https://docs.docker.com/docker-for-windows/install/ under heading “Install Docker Desktop for Windows desktop app”. [*1]
+(1c) If your laptop is running Linux, check out https://docs.docker.com/install/linux/docker-ce/ubuntu/ (see side menu for other flavours), but you may find that Docker is already installed, e.g., if the command `docker —version` does not produce an error. There are guides on the web for installing Docker for various flavours of Linux.
+
+then
+
+(2) Set up a free Docker Hub account at https://hub.docker.com.
+
+and
+
+(3) Set up a free Bitbucket account at https://bitbucket.org/ [*2]
+
+Footnotes:
+
+[*1] Various “Home” editions of Windows and some older macOS versions won't support installing Docker using the links above. You *may* be able to instead install the legacy Docker Toolbox https://docs.docker.com/toolbox/overview/ system but we’re unlikely to know for sure, given we don’t have the infrastructure to test this ahead of time. If you get stuck, bring your laptop along to the workshop anyway, and helpers present may be able to work with you to get a working Docker system on your laptop.
+
+[*2] Bitbucket is akin to GitHub, but offers some functionality relevant to this lesson that is not yet as conveniently available within GitHub yet (GitHub Actions are in closed beta-release, and the alternatives using Travis, etc., are more complex and heterogeneous than we want the risk of taking on within this workshop).
+
 
 ### Other
 
