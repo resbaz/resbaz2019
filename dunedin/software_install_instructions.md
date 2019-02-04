@@ -47,7 +47,7 @@ __Session 2:__ 2:00 - 3:00pm
 __Session 3:__ 3:30 - 5:00pm
 * _Data manipulation in R_
     - Lesson: https://datacarpentry.org/R-ecology-lesson/03-dplyr.html
-    - Software: [R](#r) and [RStudio](#rstudio)
+    - Software: [R](#r) and [RStudio](#rstudio) (please also install the tidyverse package)
     - Data: [combined.csv](https://ndownloader.figshare.com/files/2292169)
    
 * _Introduction to the Unix shell - Continued_
@@ -123,7 +123,7 @@ __Session 6:__ 3:30 - 4:30pm
 __Session 7:__ 10:30 - noon
 * _Data visualisation in R_
     - Lesson: https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html
-    - Software: [R](#r) and [RStudio](#rstudio)
+    - Software: [R](#r) and [RStudio](#rstudio) (please also install the tidyverse package)
     - Data: [combined.csv](https://ndownloader.figshare.com/files/2292169)
    
 * _Introduction to getting data from databases_
@@ -203,6 +203,19 @@ Latest version 1.1.463
 after install, R-Studio should recognise your default R installation, if not you may have to direct R-Studio where to go.
 
 [YouTube](https://www.youtube.com/watch?v=9-RrkJQQYqY) has a number of videos to help show the steps. [This](https://https://www.youtube.com/watch?v=9-RrkJQQYqY) one is for Windows 10
+
+#### Tidyverse
+If you are attending _Introduction to R_ this will be covered during the lesson.
+
+Otherwise, make sure you have the latest version of R installed
+
+Open up RStudio and in the console type
+```
+install.packages('tidyverse')
+```
+
+Select the mirror to download from and wait for the install to complete.
+- if the install was unsuccessful you likely need some additional files (or your R or OS might need updated). Come see a helper during the event for help.
 
 ### OpenRefine
 
