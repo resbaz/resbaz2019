@@ -5,11 +5,11 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates":[115.89467, -32.00618]
+                "coordinates":[115.89307, -32.002073]
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "Curtin University"
+                "details": "Curtin University Medical School"
             }
         }
     ]
