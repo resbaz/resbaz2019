@@ -59,14 +59,12 @@
       </div>
     </section>
      
-  
-      
-    <section id="venue">
-      <h1>Venue</h1>
-      <p>The event will be held at Curtin University, Perth.</p>
-      <venue-map geojson-url="venue.geojson" zoom="17"></venue-map>
+     <section id="schedule">
+      <remote-markdown url="schedule.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
     </section>
-  
+    
     <hr/>
     
     <section id="faqs">
@@ -76,7 +74,16 @@
     </section>
 
     <hr/>
-
+    
+          
+    <section id="venue">
+      <h1>Venue</h1>
+      <p>The event will be held at Curtin University, Perth.</p>
+      <venue-map geojson-url="venue.geojson" zoom="17"></venue-map>
+    </section>
+  
+    <hr/>
+<!-- 
     <section id="workshops">
       <remote-markdown url="workshops.md">
         <div class="markdown-html"></div>
@@ -84,15 +91,8 @@
     </section>
     
     <hr/>    
-    
-    <section id="schedule">
-      <remote-markdown url="schedule.md">
-        <div class="markdown-html"></div>
-      </remote-markdown>
-    </section>
-    
-    <hr/>
-    
+ --!>
+       
     <section id="contact-us">
       <h1>Contact</h1>
       <div class="center">

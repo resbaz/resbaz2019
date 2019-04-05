@@ -17,66 +17,23 @@ Training 2 will be run on days 2 and 3 and includes:
 You will be asked to choose your preferred option for Training 1 and 2 during registration, as the running of each stream will depend on interest.
 
 
-## Day 1
-|Time   |Session    |Content  |
-|-------|-----------|---------|
-|9:00am |Welcome | Opening address, ice breaker and community session   |
-|-------|-----------|---------|
-|10.30am |Morning Tea|Coffee!  |
-|-------|-----------|---------|
-|11:00am| Training 1      |see options above|
-|-------|-----------|---------|
-|12:30pm|Lunch      |Food!    |
-|-------|-----------|---------|
-|1:30pm |Training 1 cont.    | see options above |
-|-------|-----------|---------|
-|3:00pm |Afternoon Tea |Coffee! |
-|-------|-----------|---------|
-|3:30pm |Electives 1 | TBC (choose on the day) | 
-|       |Community session | TBC | 
-|-------|-----------|---------|
-|5:00pm | End of formal proceedings, social event for those interested ||
-|-------|-----------|
+| Time              | Day 1                                                        | Day 2                                | Day 3             |
+|-------------------|--------------------------------------------------------------|--------------------------------------|-------------------|
+| 08:15             | Registration and coffee                                      |                                      |                   |
+| 09:00             | Welcome: opening address, ice breaker, and community session | Training 2                           | Training 2 cont.  |
+| 10:30             | Morning Tea                                                  |                                      |                   |
+| 11:00             | Training 1                                                   | Training 2 cont.                     | Training 2 cont.  |
+| 12:30             | Lunch                                                        |                                      |                   |
+| 01:30             | Training 1 cont.                                             | Electives 2                          | Electives 3       |
+| 03:00             | Afternoon Tea                                                |                                      |                   |
+| 03:30             | Electives  1                                                 | Electives 2 cont.                    | Electives 3 cont. |
+|                   | Community session                                            | Community session (poster sundowner) | Community session |
+| 05:00             | End of formal proceedings                                    |                                      |                   |
+| finish before 7pm | Social 1                                                     | Social 2                             | Social 3          |
 
-## Day 2
-|Time   |Session    |Content  |
-|-------|-----------|---------|
-|9:00am |Training 2 | see options above   |
-|-------|-----------|---------|
-|10.30am |Morning Tea|Coffee!  |
-|-------|-----------|---------|
-|11:00am| Training 2 cont.      |see options above|
-|-------|-----------|---------|
-|12:30pm|Lunch      |Food!    |
-|-------|-----------|---------|
-|1:30pm |Electives 2   | TBC (choose on the day) |
-|-------|-----------|---------|
-|3:00pm |Afternoon Tea |Coffee! |
-|-------|-----------|---------|
-|3:30pm |Electives 2 cont. | TBC (choose on the day) | 
-|       |Community session | Poster sundowner| 
-|-------|-----------|---------|
-|5:00pm | End of formal proceedings, social event for those interested ||
-|-------|-----------|
 
-## Day 3
-|Time   |Session    |Content  |
-|-------|-----------|---------|
-|9:00am |Training 2 cont. | see options above   |
-|-------|-----------|---------|
-|10.30am |Morning Tea|Coffee!  |
-|-------|-----------|---------|
-|11:00am| Training 2 cont.      |see options above|
-|-------|-----------|---------|
-|12:30pm|Lunch      |Food!    |
-|-------|-----------|---------|
-|1:30pm |Electives 3   | TBC (choose on the day) |
-|-------|-----------|---------|
-|3:00pm |Afternoon Tea |Coffee! |
-|-------|-----------|---------|
-|3:30pm |Electives 3 cont. | TBC (choose on the day) | 
-|       |Community session | TBC| 
-|-------|-----------|---------|
-|5:00pm | End of formal proceedings, social event for those interested ||
-|-------|-----------|
+Don't forget apart from the stream workshops we will also have plenty of elective classes which you choose on the day at the bazaar. The electives will cover some of the "softer" skills on how to promote your research, how to put together a good presentation, and in general how to develop and refine a research questions as well as some more advanced technical subjects like cloud computing or LaTeX.
+Plus we have scheduled in some time for community sessions during which we will bring all participants together to work on a common project or to hear from keynote speakers and panels.
+We are also planning to finish each day with a social session, e.g. a board game evening, for those interested. 
+
 
