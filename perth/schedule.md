@@ -37,7 +37,8 @@ You will be asked to choose your preferred option for Training 1 and 2 during re
   </tr>
   <tr>
     <td class="tg-c3ow">09:00</td>
-    <td class="tg-c3ow">Welcome: opening address, ice breaker, and community session</td>
+    <td class="tg-c3ow">Welcome: opening address, <br/>
+     ice breaker, and community session</td>
     <td class="tg-c3ow">Training 2</td>
     <td class="tg-c3ow">Training 2 cont.</td>
   </tr>
@@ -74,7 +75,8 @@ You will be asked to choose your preferred option for Training 1 and 2 during re
   <tr>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">Community session</td>
-    <td class="tg-c3ow">Community session (poster sundowner)</td>
+    <td class="tg-c3ow">Community session <br/>
+    (poster sundowner)</td>
     <td class="tg-c3ow">Community session</td>
   </tr>
   <tr>
@@ -82,15 +84,18 @@ You will be asked to choose your preferred option for Training 1 and 2 during re
     <td class="tg-34fe" colspan="3">End of formal proceedings</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">finish before 7pm</td>
+    <td class="tg-c3ow">finish by 7pm</td>
     <td class="tg-c3ow">Social 1</td>
     <td class="tg-c3ow">Social 2</td>
     <td class="tg-c3ow">Social 3</td>
   </tr>
 </table>
 
+
 Don't forget apart from the stream workshops we will also have plenty of elective classes which you choose on the day at the bazaar. The electives will cover some of the "softer" skills on how to promote your research, how to put together a good presentation, and in general how to develop and refine a research questions as well as some more advanced technical subjects like cloud computing or LaTeX.
+
 Plus we have scheduled in some time for community sessions during which we will bring all participants together to work on a common project or to hear from keynote speakers and panels.
+
 We are also planning to finish each day with a social session, e.g. a board game evening, for those interested. 
 
 

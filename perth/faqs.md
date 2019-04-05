@@ -4,9 +4,8 @@
 The event is aimed at WA researchers, however anyone is welcome to attend.
 
 ## How much is registration?
-Registration is very low-cost at $55 for the 3 days (this includes your meals)!. 
 ResBaz is run by volunteers and our generous host and sponsors cover overheads, 
-making the event affordable for participants.
+making the event affordable for participants. Registration is $55 for the 3 days (this includes your meals). 
 
 ## When will registrations open?
 Registration has opened!
