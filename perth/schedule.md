@@ -17,7 +17,7 @@ Training 2 will be run on days 2 and 3 and includes:
 You will be asked to choose your preferred option for Training 1 and 2 during registration, as the running of each stream will depend on interest.
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border-collapse:collapse;border-spacing:0; width: 100%;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
