@@ -73,7 +73,6 @@ You will be asked to choose your preferred option for Training 1 and 2 during re
     <td class="tg-c3ow">Electives 3 cont.</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"></td>
     <td class="tg-c3ow">Community session</td>
     <td class="tg-c3ow">Community session <br/>
     (poster sundowner)</td>
