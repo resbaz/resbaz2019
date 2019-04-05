@@ -63,11 +63,11 @@ You will be asked to choose your preferred option for Training 1 and 2 during re
     <td class="tg-c3ow">Electives 3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">03:00</td>
+    <td class="tg-34fe">03:00</td>
     <td class="tg-34fe" colspan="3">Afternoon Tea</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">03:30</td>
+    <td class="tg-c3ow" rowspan="2">03:30</td>
     <td class="tg-c3ow">Electives&nbsp;&nbsp;1</td>
     <td class="tg-c3ow">Electives 2 cont.</td>
     <td class="tg-c3ow">Electives 3 cont.</td>

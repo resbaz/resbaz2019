@@ -6,6 +6,15 @@ Perth's ResBaz is a low-cost, 3-day intensive festival and (un-)conference where
 
 ResBaz Perth 2019 will be held at Curtin University from July 2-4. To understand a little more about ResBaz, watch the video 'What is ResBaz?' below! 
 
+<style type="text/css">
+.centered {
+  width: 100%;
+  text-align: center;
+}
+</style>
+<div class="centered">
+        <iframe allowFullScreen frameborder="0" style="padding:20px" id="youtube" src="//www.youtube.com/embed/kaC09SBQg7A?controls?rel=0" title="What is ResBaz?" width="322" height="180" class="graphic"></iframe>
+</div>
 
 ## Who should attend?
 
@@ -14,12 +23,14 @@ Researchers at all levels from all disciplines. PhD and research Masters student
 ResBaz is particularly aimed at those new to digital research tools. To hear some testimonals from ResBaz Perth 2017 participants, watch the 'ResBaz testimonials' video below!
 
 To get an idea of what will be taught at Resbaz check our preliminary Schedule below.
-
-  <div style="float:left;">
-        <iframe allowFullScreen frameborder="0" style="padding:20px" id="youtube" src="//www.youtube.com/embed/kaC09SBQg7A?controls?rel=0" title="What is ResBaz?" width="322" height="180" class="graphic"></iframe>
-      </div>
-        
-      <div style="float:right;">
+  
+<style type="text/css">
+.centered {
+  width: 100%;
+  text-align: center;
+}
+</style>
+<div class="centered">
         <iframe allowFullScreen frameborder="0" style="padding:20px" id="youtube" src="//www.youtube.com/embed/4_yCx3RGqS8?rel=0" title="ResBaz Testimonials" width="322" height="180" class="graphic"></iframe>
       </div>
 
