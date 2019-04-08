@@ -8,11 +8,11 @@ Training 1 will include the following options:
 
 Training 2 will be run on days 2 and 3 and includes:
 
-* Intro to R (beginner level)
-* Intro to Python (beginner level)
-* Machine Learning (intermediate to advanced)
-* Genomics (specialisation)
-* Humanities, Arts, and Social Sciences (HASS specialisation)
+* Data analysis and visualisation with Python (beginner level)
+* Data analysis and visualisation with R (beginner level)
+* Intro to Machine Learning (intermediate to advanced level)
+* Genomics (specialisation, intermediate level)
+* Humanities, Arts, and Social Sciences (HASS specialisation, beginner level)
 
 You will be asked to choose your preferred option for Training 1 and 2 during registration, as the running of each stream will depend on interest.
 
