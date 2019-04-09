@@ -6,7 +6,7 @@ Training 1 will include the following options:
 * Intro to structured data
 * Intro to Docker
 
-Training 2 will be run on days 2 and 3 and includes:
+Training 2 will be run on days 2 and 3 and includes (the level in the brackets refers to your familiarity with programming and not your knowledge of the topic):
 
 * Data analysis and visualisation with Python (beginner level)
 * Data analysis and visualisation with R (beginner level)
