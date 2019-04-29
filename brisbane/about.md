@@ -1,4 +1,4 @@
-# 2019 event in UNDER CONSTRUCTION
+# 2019 event UNDER CONSTRUCTION
 
 # About
 
