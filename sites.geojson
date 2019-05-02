@@ -45,7 +45,7 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='./dunedin'>Dunedin</a>"
             }
-	 },
+	    },
 	    {
             "type": "Feature",
             "geometry": {
@@ -56,6 +56,9 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='./sydney'>Sydney</a>"
             }
+
+        },
+        {
 	 },
 	    {
             "type": "Feature",
@@ -66,6 +69,17 @@
             "properties": {
                 "marker-color": "#2b3990",
                 "details": "<a href='./perth'>Perth</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[174.775408, -41.295511]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='./wellington'>Wellington</a>"
             }
 	 }
     ]

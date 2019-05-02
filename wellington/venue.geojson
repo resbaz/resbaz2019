@@ -1,0 +1,16 @@
+{
+    "type": "FeatureCollection",
+    "features": [    
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[174.775408, -41.295511]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "Te Aro campus, Victoria University of Wellington"
+            }
+        }
+    ]
+}
