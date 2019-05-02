@@ -4,7 +4,7 @@
 The event is aimed at NSW researchers, however anyone is welcome to attend.
 
 ## How much is registration?
-Registration is free! ResBaz is run by volunteers and our generous host and sponsors cover all overheads, making the event free for participants to attend.
+Registration is very low-cost! (details coming soon). ResBaz is run by volunteers and our generous host and sponsors cover overheads, making the event affordable for participants.
 
 ## When will registrations open?
-This year, ResBaz Sydney will be held later in the year, so registrations will open around mid-year.
+This year ResBaz Sydney will be held 10-12 September, so registrations will open around mid-year.

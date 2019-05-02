@@ -1,0 +1,16 @@
+{
+    "type": "FeatureCollection",
+    "features": [    
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[115.89307, -32.002073]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "Curtin University Medical School"
+            }
+        }
+    ]
+}
