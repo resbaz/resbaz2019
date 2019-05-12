@@ -68,6 +68,17 @@
                 "details": "<a href='./perth'>Perth</a>"
             }
         },
+	    {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[174.769251, -36.850183]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='https://resbaz.auckland.ac.nz/'>Auckland</a>"
+            }
+        },
         {
             "type": "Feature",
             "geometry": {
