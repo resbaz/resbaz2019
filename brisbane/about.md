@@ -1,4 +1,4 @@
-# 2019 event UNDER CONSTRUCTION
+# ResBaz Brisbane 2019
 
 # About
 
