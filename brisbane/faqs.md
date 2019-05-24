@@ -1,6 +1,6 @@
 # Who can attend?
 
-The event is aimed at researchers based in Southeast Queensland, however anyone is welcome to attend.
+The event is aimed at researchers at all levels from all disciplines based in Southeast Queensland. ResBaz is particularly aimed at those new to digital research tools.
 
 # How much is registration
 
