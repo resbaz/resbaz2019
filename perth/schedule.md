@@ -1,18 +1,19 @@
 # Schedule
 
 We are planning to run several parallel streams this year to cater to new as well as more seasoned learners. 
-Training 1 will include the following options:
+Training 1 classes will include the following options:
 * Intro to the command line and Version Control (Git)
 * Intro to structured data
-* Intro to Docker
+* Intro to Docker (Command line experience required)
 
-Training 2 will be run on days 2 and 3 and includes (the level in the brackets refers to your familiarity with programming and not your knowledge of the topic):
+Training 2 classes will be run on days 2 and 3 and the options are listed below. The levels listed in brackets refer to the level of programming proficiency assumed in each class.
 
 * Data analysis and visualisation with Python (beginner level)
 * Data analysis and visualisation with R (beginner level)
-* Intro to Machine Learning (intermediate to advanced level)
+* Data and digital tools in the Humanities and Arts (beginner level)
 * Genomics (specialisation, intermediate level)
-* Humanities, Arts, and Social Sciences (HASS specialisation, beginner level)
+* Intro to Machine Learning (intermediate to advanced level)
+
 
 You will be asked to choose your preferred option for Training 1 and 2 during registration, as the running of each stream will depend on interest.
 
@@ -27,9 +28,9 @@ You will be asked to choose your preferred option for Training 1 and 2 during re
 <table class="tg">
   <tr>
     <th class="tg-lvop">Time</th>
-    <th class="tg-lvop">Day 1</th>
-    <th class="tg-lvop">Day 2</th>
-    <th class="tg-lvop">Day 3</th>
+    <th class="tg-lvop">Tuesday</th>
+    <th class="tg-lvop">Wednesday</th>
+    <th class="tg-lvop">Thursday</th>
   </tr>
   <tr>
     <td class="tg-34fe">08:15</td>
