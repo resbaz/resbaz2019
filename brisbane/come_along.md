@@ -1,6 +1,2 @@
 # Come Along
-<h2>Registration has not started yet</h2>
-
-
-# Be involved!
-<p>SOON!</p>
+Registration is now open, through QUTPay, registration is $40.00 and include all events and catering for three days</h2>
