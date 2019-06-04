@@ -79,6 +79,17 @@
                 "details": "<a href='https://resbaz.auckland.ac.nz/'>Auckland</a>"
             }
         },
+	   {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[153.029142, -27.478056]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='./brisbane'>Brisbane</a>"
+            }
+        }, 
         {
             "type": "Feature",
             "geometry": {
@@ -92,3 +103,6 @@
 	 }
     ]
 }
+
+
+
