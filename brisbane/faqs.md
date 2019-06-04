@@ -12,7 +12,7 @@ We will offer introductory workshops such as Software Carpentry with R and Softw
 
 # What is the format?
 
-The first two days (8-10 July) are action-packed with many workshops to choose from. Lunch will be provided as part of your registration fee. On the third day (11 July), you can attend a range of fantastic talks, play games, browse stalls, book time with an expert, view each other's posters, network with others in the knowledge bazaar, win prizes or just chill out with people you've met.
+The first two days (9-10 July) are action-packed with many workshops to choose from. Lunch will be provided as part of your registration fee. On the third day (11 July), you can attend a range of fantastic talks, play games, browse stalls, book time with an expert, view each other's posters, network with others in the knowledge bazaar, win prizes or just chill out with people you've met.
 
 # How much is registration?
 
