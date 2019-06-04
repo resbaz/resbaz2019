@@ -28,7 +28,5 @@ Registration is only $40! This very low fee will cover the costs of **all** work
 
 ResBaz is run by volunteers, but our generous host (QUT) and our many [sponsors](https://resbaz.github.io/resbaz2019/brisbane/#sponsors) cover most of the overheads, making the event affordable for participants. 
 
-Don't miss out!
-
-[Register here](https://pay.qut.edu.au/ConferencesandEvents/booking?UDS_ACTION_DATA=YFkhdEMzX3FOUyQLQEJDcShWQnRNXDEbWzI2LXY1UkR8NV9c)
+Don't miss out! [Register today](https://pay.qut.edu.au/ConferencesandEvents/booking?UDS_ACTION_DATA=YFkhdEMzX3FOUyQLQEJDcShWQnRNXDEbWzI2LXY1UkR8NV9c)
 
