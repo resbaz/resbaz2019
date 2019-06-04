@@ -18,7 +18,7 @@ The first two days (8-10 July) are action-packed with many workshops to choose f
 
 Registration is only $40! This very low fee will cover the costs of **all** workshops and events, and will also provide you with lunch and other refreshments over the three days of the event. 
 
-ResBaz is run by volunteers, but our generous host (QUT) and our many sponsors cover most of the overheads, making the event affordable for participants. 
+ResBaz is run by volunteers, but our generous host (QUT) and our many [sponsors](https://resbaz.github.io/resbaz2019/brisbane/#sponsors) cover most of the overheads, making the event affordable for participants. 
 
 Don't miss out!
 
