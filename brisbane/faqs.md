@@ -8,7 +8,8 @@ ResBaz Brisbane will definitely be one of the most worthwhile networking and ski
 
 # What will I learn?
 
-We will offer introductory workshops such as Software Carpentry with R and Software Carpentry with Python, as well as workshops on data clean up and data visualisation, and tips on boosting your research profile. See the program below. You can opt in to various workshops when you register. You can learn how to program in R or Python, see how to automate workflows, how to keep track of different versions of things and then tell stories with your data.
+We will offer introductory workshops such as Software Carpentry with R and Software Carpentry with Python, as well as workshops on data clean up and data visualisation, and tips on boosting your research profile. See the program below. You can opt in to various workshops when you register. You can learn how to program in R or Python, see how to automate workflows, how to keep track of different versions of things and then tell stories with your data. Interested in mapping? There will be a GIS workshop and a Galaxy workshop for those wanting to learn about RNA sequencing. Want to run a Jupyter notebook in the cloud? We can show you how. And you can see the Tinker workbench in operation too. It's all happening in those first two days. [Register now](https://pay.qut.edu.au/ConferencesandEvents/booking?UDS_ACTION_DATA=YFkhdEMzX3FOUyQLQEJDcShWQnRNXDEbWzI2LXY1UkR8NV9c)
+
 
 # What is the format?
 
