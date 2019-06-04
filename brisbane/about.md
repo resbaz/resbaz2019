@@ -1,6 +1,5 @@
-# ResBaz Brisbane 2019
+# About ResBaz Brisbane 2019
 
-# About
 
 The Research Bazaar is a worldwide skill- and community-building festival promoting the essential digital skills researchers need to perform modern research. 
 
