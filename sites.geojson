@@ -2,7 +2,7 @@
     "type": "FeatureCollection",
 
     "features": [
-	 {
+	 	{
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -102,17 +102,16 @@
             }
         },
         {
-            "type":"Feature",
+            "type": "Feature",
             "geometry": {
-                    "type":"Point",
-                    "coordinates": [-82.3440, 29.6482]
+                "type": "Point",
+                "coordinates":[-82.3440, 29.6482]
             },
             "properties": {
                 "marker-color": "#0021A5",
                 "details": "<a href='./gainesville'>Gainesville</a>"
             }
         }
-	 }
     ]
 }
 
