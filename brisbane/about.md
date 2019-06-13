@@ -31,23 +31,3 @@ Registration is only $40! This very low fee will cover the costs of **all** work
 ResBaz is run by volunteers, but our generous host (QUT) and our many [sponsors](https://resbaz.github.io/resbaz2019/brisbane/#sponsors) cover most of the overheads, making the event affordable for participants. 
 
 Don't miss out! [Register today](https://pay.qut.edu.au/ConferencesandEvents/booking?UDS_ACTION_DATA=YFkhdEMzX3FOUyQLQEJDcShWQnRNXDEbWzI2LXY1UkR8NV9c)
-
-# Activities
-
-There are lots of ways to have fun at ResBaz ... and fabulous prizes to win!
-
-### Name badge colouring competition
-
-This is your chance to get creative. Come pick up your name badge at the front desk when you register, decorate it to your heart's content and show it off! Visit the Creative Corner in the Board Games Room for all of your crafting supplies. Make something beautiful. There will be prizes for standout creations.
-
- ### Your 'ResBaz Passport' conference game
-
-Locate the ResBaz Passport in your lanyard pocket, and report to your friendly Scout Leaders at Camp ResBaz in the **Board Games Room** to earn achievement badges and submit your completed passport. The Scout Leaders will be on hand if you need any further assistance. 
-
-### Board Games
-
-We’ll be running 'Copyright: The Card Game – Australian Edition' and 'The Publishing Trap' in the **Board Games Room**. There will also be a selection of other board games to enjoy.
-
-### The Campfire
-
-Rest by the campfire in the **Board Games Room**  where you'll find a quiet place to relax if you would like some downtime during the event.
