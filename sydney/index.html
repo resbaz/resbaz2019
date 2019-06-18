@@ -37,7 +37,7 @@
 <body unresolved>
   <resbaz-header title="ResBaz 2019 Sydney">
     <h1>ResBaz Sydney</h1>
-    <h2>10-12 September, 2019</h2>
+    <h2>Tuesday 10th — Friday 13th September 2019</h2>
     <div class="actions">
       <a href="#faqs">
         <paper-button raised>Come Join Us</paper-button>
@@ -55,8 +55,9 @@
     <hr/>
     
     <section id="venue">
-      <h1>Venue</h1>
-      <p>The event will be held at UNSW, Sydney.</p>
+      <remote-markdown url="venue.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
       <venue-map geojson-url="venue.geojson" zoom="17"></venue-map>
     </section>
 
@@ -70,14 +71,6 @@
 
     <hr/>
 
-    <section id="workshops">
-      <remote-markdown url="workshops.md">
-        <div class="markdown-html"></div>
-      </remote-markdown>     
-    </section>
-    
-    <hr/>    
-    
     <section id="schedule">
       <remote-markdown url="schedule.md">
         <div class="markdown-html"></div>
@@ -98,9 +91,9 @@
     </section>
   
    <section id="sponsors">
-      <h1>Sponsors</h1>
+      <h1>Partners</h1>
       <center>
-        <p>Thank you to our generous sponsors and supporters.</p>
+        <p>ResBaz Sydney wouldn't be possible without the support of our Research and Industry Partners</p>
       <img src="logo/UOW.png" alt="University of Wollongong" height="125" hspace="20" vspace="20">
     </section>
 

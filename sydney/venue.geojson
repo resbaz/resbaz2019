@@ -1,16 +1,43 @@
 {
-    "type": "FeatureCollection",
-    "features": [    
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates":[151.2313, -33.9173]
-            },
-            "properties": {
-                "marker-color": "#2b3990",
-                "details": "University of NSW"
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0B3E80",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#E75801",
+        "fill-opacity": 0.25,
+        "details": "University of NSW"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.23121619224548,
+              -33.915719300926774
+            ],
+            [
+              151.23099625110626,
+              -33.91668754275107
+            ],
+            [
+              151.23148441314697,
+              -33.916776575929696
+            ],
+            [
+              151.23168021440506,
+              -33.915788302432354
+            ],
+            [
+              151.23121619224548,
+              -33.915719300926774
+            ]
+          ]
+        ]
+      }
+    }
+  ]
 }

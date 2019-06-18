@@ -4,6 +4,6 @@ Sydney's Research Bazaar is a low-cost, 4-day intensive festival and conference 
 
 ## Who should attend?
 
-Researchers at all levels from all disciplines. PhD and research Masters students are especially encouraged to apply. Research technologists who support researchers to do their job should also come along!
+Researchers at all levels from all disciplines. PhD and research Masters students are especially encouraged to apply. Research technologists who support researchers to do their job should also come along! This year there's a special training program for Library staff as well.
 
 ResBaz is particularly aimed at those new to digital research tools.
