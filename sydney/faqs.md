@@ -14,4 +14,4 @@ If you attend a training workshop, you will generally need a laptop. If you atte
 
 ## Can I help out?
 
-Of course! Without volunteers, we couldn't do this every year. Send your details to resbazsydney@googlegroups.com to let us know you're interested. If you're attending the festival, we'd strongly encourage you participate by submitting a poster or lightning talk. These are great ways to introduce yourself to the broader community.
+Of course! Without volunteers, we couldn't do this every year. Send your details to [resbazsydney@googlegroups.com](mailto:resbazsydney@googlegroups.com) to let us know you're interested. If you're attending the festival, we'd strongly encourage you participate by submitting a poster or lightning talk. These are great ways to introduce yourself to the broader community.
