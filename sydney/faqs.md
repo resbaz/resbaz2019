@@ -2,7 +2,7 @@
 
 ## How much is registration?
 
-Registration is free, but for those wanting to attend the 3-day training sessions (Tuesday to Thursday), there will be a limited number of places with an $11/day fee, with lunch provided.
+Registration is free, but for those wanting to attend the 3-day training sessions (Tuesday to Thursday), there will be a limited number of places with a $33 fee, with lunch provided.
 
 ## When will registrations open?
 
