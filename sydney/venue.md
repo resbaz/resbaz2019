@@ -1,6 +1,6 @@
 # Venue
 
-ResBaz will be held at UNSW, Sydney in the Colombo and Goldstein Buildings near Fig Tree Lane and UNSW Gate 4 on High Street ([UNSW map](https://docs.google.com/forms/d/e/1FAIpQLSf84vKYZADlIzdNvAcSW9mSZbU9XYhIqZKxaRdmMDDBm5dgNQ/viewform?embedded=true) reference B16 and D16). 
+ResBaz will be held at UNSW, Sydney in the Colombo and Goldstein Buildings near Fig Tree Lane and UNSW Gate 4 on High Street ([UNSW map](https://www.estate.unsw.edu.au/sites/default/files/documents/KENCCampusMap_0.pdf) reference B16 and D16). 
 
 ### Directions 
 
