@@ -97,4 +97,23 @@ Plus we have scheduled in some time for community sessions during which we will 
 
 We are also planning to finish each day with a social session, e.g. a board game evening, for those interested. 
 
+# Final Schedule
 
+<a href="https://docs.google.com/spreadsheets/d/1AsUTi_kL7yCXzncqb43xxz9HCbqSrMXLcxzdyoyIOfA/edit#gid=0" target="_blank">Click here to view our detailed final schedule.</a>
+
+<a href="https://docs.google.com/document/d/1EprSf8ZAZnJGVbLlXxKzkwev9ZyIP2fs_NNbdDJgKq8/edit#heading=h.dsklcyyifqvt" target="_blank">Click here to view details of the electives</a>. Sign up sheets for the electives will be available at the Registration and Help desk on Level 1.
+
+
+<a href="https://docs.google.com/document/d/1gwZL17QChHMCKpHfHkX38tvTvVLp42H6fj8ALQVy0uk/edit#heading=h.t7yz5ay9l4l2" target="_blank">Click here to view details of the software installation instructions for each of the streams</a>. If you have any questions regarding installation, do not worry! Come and see us at the Registration and Help desk on Level 1, or ask any ResBaz helper (look for the stars on name tags).
+
+# Poster Session
+
+On the morning of Day 1 (Tuesday July 2), the community session will be a poster making session. To encourage collaboration, learning and social activities during ResBaz, we ask that you create a poster during this session and submit it! You don’t have to do this in advance, but if you are eager to have a look at the template, <a href="https://docs.google.com/presentation/d/1vnGK9-MAA8xspynSxyah8LN6HhjUWgki_L2btXCFlb4/edit#slide=id.g80ef573b5_2_0" target="_blank">please find the link here</a>.  
+
+If you submit your poster online by the end of morning tea on Day 1 at 11am you will be entered into the prize draw for the door prize at the poster session and sundowner event on Day 2! Please note we will print the posters for you.
+
+# Special Events (all free):
+* Tuesday July 2, 4.30 - 6pm: Career Pathways Panel with invited guest panelists from Industry and Academia (light refreshments supplied).
+* Wednesday July 3, 4.15 - 7 pm: Poster session and sundowner event (submit your poster and attend for your chance to win a door prize! Food and drinks supplied).
+* Thursday July 4, 5.30 - 7 pm: Innovation Central Perth sundowner, ResBaz participants are invited to attend (restricted to 50 people, registration link to be supplied on Day 1). Food and drinks supplied.
+* Wednesday July 3 and Thursday July 4, 8 - 8.45 am: Morning Yoga! Have a mindful start to your day. Yoga mats supplied.
