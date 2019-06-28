@@ -37,7 +37,7 @@
 <body unresolved>
   <resbaz-header title="ResBaz 2019 Sydney">
     <h1>ResBaz Sydney</h1>
-    <h2>10-12 September, 2019</h2>
+    <h2>Tuesday 10th — Friday 13th September 2019</h2>
     <div class="actions">
       <a href="#faqs">
         <paper-button raised>Come Join Us</paper-button>
@@ -55,8 +55,9 @@
     <hr/>
     
     <section id="venue">
-      <h1>Venue</h1>
-      <p>The event will be held at UNSW, Sydney.</p>
+      <remote-markdown url="venue.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
       <venue-map geojson-url="venue.geojson" zoom="17"></venue-map>
     </section>
 
@@ -70,14 +71,6 @@
 
     <hr/>
 
-    <section id="workshops">
-      <remote-markdown url="workshops.md">
-        <div class="markdown-html"></div>
-      </remote-markdown>     
-    </section>
-    
-    <hr/>    
-    
     <section id="schedule">
       <remote-markdown url="schedule.md">
         <div class="markdown-html"></div>
@@ -89,12 +82,39 @@
     <section id="contact-us">
       <h1>Contact</h1>
       <div class="center">
-      <p>For more information contact us at:</p>
+<!--      <p>To keep up to date with what's happening please join our mailing list:</p>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf84vKYZADlIzdNvAcSW9mSZbU9XYhIqZKxaRdmMDDBm5dgNQ/viewform?embedded=true" width="640" height="466" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>  
+      -->
+          <p>For more information, contact us at:</p>
         <contact-icons email="resbazsydney@googlegroups.com" ></contact-icons>
       </div>
     </section>
-  </article>
   
+   <section id="sponsors">
+      <h1>Partners</h1>
+      <p>ResBaz Sydney wouldn't be possible without the support of our Research and Industry Partners:</p>
+      <center>
+        <h3>Host</h3>
+          <img src="logo/01_Sydney-Landscape-300x129.jpg" alt="The University of NSW, Sydney" height="145" hspace="20" vspace="20" />
+        <h3>Platinum</h3>
+          AWS+Ronin,
+          Google,
+          <img src="logo/Macquarie.png" alt="Macquarie University" height="125" hspace="20" vspace="20" />
+          <img src="logo/SydneyUniversity.png" alt="The University of Sydney" height="125" hspace="20" vspace="20" />
+        <h3>Gold</h3>
+          <img src="logo/atomic.h.logo.indigo.png" alt="Intersect" height="125" hspace="20" vspace="20" />
+          Microsoft,
+          The University of Newcastle, Australia
+          <img src="logo/UOW.png" alt="University of Wollongong, Australia" height="125" hspace="20" vspace="20" />
+        <h3>Silver</h3>
+          <img src="logo/WSU_Logo.png" alt="Western Sydney University" height="125" hspace="20" vspace="20" />
+        <h3>Bronze</h3>
+          University of New England
+      </center>
+    </section>
+
+ </article>
+    
   <footer>
   <p style="padding-bottom:20px;">
     Copyright &copy; UNSW, Sydney, 2019

@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>ResBaz Wellington 2019</title>
+
+  <link rel="stylesheet" src="../css/style.css"/>
+  <script src="../bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+
+  <link rel="import" href="../components/contact-icons.html">
+  <link rel="import" href="../components/csv-table.html">
+  <link rel="import" href="../components/embedded-google-sheet.html">
+  <link rel="import" href="../components/expandable-heading.html">
+  <link rel="import" href="../components/remote-markdown.html">
+  <link rel="import" href="../components/simple-columns.html">
+  <link rel="import" href="../components/venue-map.html">
+  <link rel="import" href="../bower_components/paper-button/paper-button.html">
+  <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
+  <link rel="import" href="../bower_components/app-layout/app-layout.html">
+  <link rel="import" href="../bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
+  <link rel="import" href="../components/common-style.html">
+  <link rel="import" href="../components/resbaz-header.html">
+  <style is="custom-style">
+  resbaz-header {
+    --header-height: 50vh;
+    --header-background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../img/wellington.jpg);
+  }
+  </style>
+</head>
+<body unresolved>
+  <resbaz-header title="ResBaz Wellington">
+    <h1>Wellington</h1>
+    <h2>4-5 July, 2019<br>#ResBazWelli</h2>
+    <div class="actions">
+      <a href="https://vuw.libcal.com/calendar/vic-development/ResBaz-2019" target="_blank" alt="Register">
+        <paper-button raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1" class="x-scope paper-button-0">Register</paper-button> 
+        </a>
+         <a href="#schedule">
+        <paper-button raised>Sessions</paper-button>
+        </a>
+        <a href="#Timetable1" alt="Timetable">
+        <paper-button raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1" class="x-scope paper-button-0">Schedule</paper-button>
+        <a href="#speakers" alt="Help out">
+        <paper-button raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1" class="x-scope paper-button-0">Speakers</paper-button>
+    </div>
+  
+      </a>
+    </div>
+  </resbaz-header>
+  
+  <article>
+    <section id="about">
+      <remote-markdown url="about.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
+    </section>
+    <hr/>
+
+    <section id="venue">
+      <h1>Venue</h1>
+      <p>ResBazWelli will be held at Victoria University of Wellington's <a href="https://www.victoria.ac.nz/fad/pdf/te-aro-map-August-2016.pdf">Te Aro campus</a>.</p>
+
+      <venue-map geojson-url="venue.geojson" zoom="18"></venue-map>
+    </div>
+
+    </section>
+ <hr>
+
+<!--
+<section id="come-along">
+  <h1>Come Along</h1>
+  <div class="center">
+      We're fully booked! Thanks for all your interest, and please <a href="#contact-us"> get in touch</a> if you'd liked to be kept in the loop about future events, and feel free to sign up for our <a href="#FollowUp">follow-up session </a>.
+  </div>
+</section>
+
+<hr>
+
+ -->
+
+<section id="schedule">
+      <h1>Sessions</h1>
+      <h5>Below is a list of sessions offered at ResBaz (click on each title to see a fuller description, and any prerequisites and/or resources required to participate).</h5>
+ 
+      <simple-columns>
+        <div>
+    <expandable-heading title="Unmistaken identity: Identifying you and your research">
+     Unique identifiers such as the ORCID ID for researchers and DOIs for works improve your discoverability. Come and learn about these unique identifiers and how they work together in databases such as Dimensions (a new and interesting tool for discovery and analysis) and Altmetrics.
+     <br>
+    Suitable for: All researchers looking to increase reach and reception of their work.
+    </expandable-heading>
+    <expandable-heading title="Cut Copy Paste: Open source collaboration goes analog">
+     Cut, Copy & Paste is an adaptable workshop format to teach people the open source methodology in a creative, hands-on way, without any digital tools.
+     <br>       
+      Get to grips with the creative and surprising world of online collaboration. Make and remix zines, and see the potential for limitless artistic creation that the 'open source' methodology provides. All using tools no more complicated than scissors, rubber stamps and a photocopier. 
+    </expandable-heading>
+    <expandable-heading title="Social Tools: VR, MR and AR for Architecure and Design">
+      DARA team members will host two sessions in VASE (Virtual and Augmented Studio Environment) located in the Faculty of Architecure and Design. The sessions will offer participants a chance to engage in new research centred on Virtual and Augemnted reality content creation. See more at<a href="https://dara.digital/"> the DARA website</a>     
+    </expandable-heading>
+    <expandable-heading title="Introduction to Data Visualization and Effective Use of Visual Variables">
+     Data visualization is an important tool for the 21st century, assisting in both data analysis and the communication of results. The use of appropriate visualization techniques can greatly increase the ability to gain insight from data. This workshop will give an introduction to data visualization using different tools and techniques, and use of visual variables to make effective visualizations. Come prepared with your own datasets that you want to visualize!
+    </expandable-heading>
+    <expandable-heading title="Introduction to Video Abstracts">
+     Increasingly, publishers are requesting short videos to accompany articles and research projects. In this session, you'll get an overview of what video abstracts are, why they're useful, and how you can create one - from storyboarding to filming to editing. 
+    </expandable-heading>
+    <expandable-heading title="Open Source Video editing with Shotcut">
+    Shotcut is a free, open source software package for video editing. This hands-on session will introduce attendees to the basics of the tool, including creating and importing audio-visual assets, and manipulating these on a timeline.
+    </expandable-heading>
+    <expandable-heading title="Pitching the Carpentries">
+      <a href="https://carpentries.org/">The Carpentries</a> (comprising Software Carpentry, Data Carpentry and Library Carpentry) teach foundational coding and data science skills to researchers worldwide. This session will provide an informative overview of what to expect in a Carpentry workshop (focussing on Software Carpentry), and why you should consider attending if a novice, or contributing as a helper or instructor if you have existing expertise in these areas. Information about the next Wellington workshop will be provided. 
+    </expandable-heading>
+    <expandable-heading title="Social Media for Research">
+      Explore the many ways social media can be utilised to build a research profile and following, including tips on how to engage with relevant communites, disseminate your publications more widely, and increase your research impact. Learn about tools that you can utilise to make social media work for you, and see how academics interact in this space. 
+    </expandable-heading>
+    <expandable-heading title="Opening open data - open data outside of government">
+     Why’s open data so important, and how could it benefit and be fed by the research community? aimee whitcroft will talk about open data, the openX community, and how open fuels innovation. 
+    </expandable-heading>
+    <expandable-heading title="High Performance Computing: What, Why, When and How?">
+      Ever had a laptop-melting research task take up all the resources on your computer? Want to know more about research computing at scale, and the kind of research enabled by compute clusters? This is an introductory session designed to introduce you to the basic concepts of HPC, overview how you might make use of these, and highlight available resources. Presented in partnership with the <a href="https://www.nesi.org.nz/">New Zealand eScience Infrastruce (NeSI)</a>. 
+    </expandable-heading>
+    <expandable-heading title="Data Science and Research Tools Office Hour">
+      What software do you need to get up and running with your research? What workflows do you use? What pain points do you have? Drop in for an informal consultancy to get an idea of how you might be able to optimise your digital research environment to get the most out of  
+    </expandable-heading>
+       <expandable-heading title="Running on Raapoi: High Performance Computing in action">
+     This follow-along session will run attendees through an end-to-end process of configuring an HPC enivornment, submitting a simple job and demonstrate a larger job showcasing the full power of HPC resources. The goal is to help those who are new to, or intersted in, HPC get up and running. 
+     <br>
+     Most suitable for: Researchers who have a basic understanding of the Linux shell, and familiarity with a research programme or language such as R, Python or Matlab.
+    </expandable-heading>
+    <expandable-heading title="Research Data Management 101">
+       How do you make sure data you collect for your research won't end up in the wrong hands? What happens if your laptop dies and all your work is on it? Come along to this session to learn how a <a href="http://libguides.victoria.ac.nz/c.php?g=738710&p=5282072" target="_blank"> research data management plan</a> can help you manage, protect and publish your research data. We'll discuss why these are an increasingly vital part of the research lifecycle, and why setting one up early in a project might save your sanity down the line. 
+    </expandable-heading>
+    <expandable-heading title="Designing and Developing Research Surveys"> 
+      Learn how to gather data effectively by understanding survey design principles and tools, and master the art of asking the right questions and analysing the results. 
+    </expandable-heading>
+    <expandable-heading title="ggplot 2 and tidyverse for Data Science">
+      <a href="http://ggplot2.org/" target="_blank">ggplot2</a> is a plotting system for R, based on the grammar of graphics, which tries to take the good parts of base and lattice graphics and none of the bad parts. It takes care of many of the fiddly details that make plotting a hassle (like drawing legends) as well as providing a powerful model of graphics that makes it easy to produce complex multi-layered graphics. Learn how to make it work for you, and how see how it fits into the <a href="https://www.tidyverse.org/">tidyverse</a> collection of "opinionated" R packages.
+    </expandable-heading>
+    <expandable-heading title="Version Control and Collaboration Tools - Intro to Git and GitHub*">
+       What's the relationship between version control and collaboration? This session will offer a brief introduction to Git and GitHub for complete beginners. Learn how you can use Git to manage and keep track of different versions of all your important files and documents that change through time in your projects. GitHub is one of the worlds leading online collaboration platforms for working on projects that use Git. Whether you write code or not, Git and GitHub are incredibly powerful tools that should be part of any researchers digital toolkit. Come and see what it's all about. 
+    </expandable-heading>
+    <expandable-heading title="Building a website with GitHub and GH-Pages">
+       Inteded for those with some familiarity with git, this BYOD session will run attendees through an end-to-end process to build a simple website using GitHub, GH-Pages and Markdown. You'll not only learn how to build an attractive website for free, but also have a practical, low-risk and engaging way of testing and familiarising yourself with git's features.
+    </expandable-heading>
+    <expandable-heading Title="What goes wrong with polls, referenda and election forecasting">
+    Presenter: Richard Arnold, Victoria University of Wellington 
+    <br>
+    Election forecasting is a risky business - and seems to have got more and more so in recent years.  Richard will present the reasons why polls (and national referenda) can be so problematic - and why their reputation has taken such a battering.  He'll also talk about his experiences as Television New Zealand's on-screen election night statistician during our four most recent General Elections. 
+    </expandable-heading>
+    <expandable-heading title="The Art of Argument(s) with Geoffrey Batchen">
+       Fundamental to all research is the ability to not just collate and interpret data, but to present it in a persuasive narrative. Professor of Art History Geoffrey Batchen has gained a reputation as one of the world’s leading scholars of photography based largely on his ability to do just that. This conversational session will see Geoff discuss his methods for constructing original and insightful arguments, and explore how he is able to write compellingly about everything from the origins of photography, to the profoundness of family snapshots, to social media fads of meal pics.
+    </expandable-heading>
+    <expandable-heading title="Digital Storytelling Tool Suite">
+      Overview of <a href="https://projects.knightlab.com/" target="_blank">a range of free, easy-to-use interactive tools</a> useful for time or location-based narratives. Learn the basics with the option to explore more advanced features. 
+
+      There'll be two sessions focussing on these tools. The day one session will provide an overview of the tools and possible research applications. The hands-on session on the second day will see participants create their own digital narratives using the toolsuite. 
+
+      Possible assets to use <a href="https://goo.gl/r5rj6g" target="_blank">here</a>.
+    </expandable-heading>
+    <expandable-heading title="What's happening at Victoria with Digital Humanities? Exploring NZ 19th Century Novels and Salient">
+      Come and hear about two different research projects using digitised text collections. 
+     <br>
+     <br>
+      Max Nichol recently completed a project researching the history of our student magazine, Salient. He will discuss the value of digitised sources and database construction for historical research.
+      <br> 
+      <br>
+      This year the Library has been exploring the Digital Humanities by forming our first dedicated staff DH group, upskilling the team, exploring tools and data and conducting a research project focused on New Zealand 19th Century Novels. This session will give an overview of the tools and methods used so far. 
+    </expandable-heading>
+    <!--
+    <expandable-heading title="Data Analysis for Novices">
+      An overview of data analysis basics, including how to select <a href="http://methods.sagepub.com/" target="_blank">appropriate analysis methods</a>, <a href="https://www.discoveringstatistics.com/" target="_blank">tools</a> that can be utilised, and how to run analyses.
+    </expandable-heading>-->
+  </div>
+</simple-columns>
+<p>
+<p>
+
+<div class="actions" align="center">
+      <a href="#about" alt="Home">
+        <paper-button raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1" class="x-scope paper-button-0">Back to top</paper-button> 
+        </a>
+  </div>
+
+</section>
+
+
+<hr>
+
+<section id="Timetable1">
+  <div class="center">
+    <h1>Schedule</h1>
+      <h5> Note: This schedule may be subject to small changes. Room details to come.</h5>
+      <h2>THURS JULY 4<sup>th</sup> <br></h2>
+       </div>
+    <csv-table url="Welli_Thurs_times1.csv" heading-columns="0" heading-rows="1" style="font-size: 75%">a</embedded-google-sheet>
+      </section>
+<section id="Timetable2">
+  <div class="center">
+       <h2>FRI JULY  5 <sup>th</sup></h2>
+         </div>
+    <csv-table url="Welli_Fri_times1.csv" heading-columns="0" heading-rows="1" style="font-size: 75%">a</embedded-google-sheet>
+      <div class="actions" align="center">
+      <a href="#" alt="Home">
+        <paper-button raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1" class="x-scope paper-button-0">Back to top</paper-button> 
+        </a>
+  </div>
+</section>
+
+<div class="actions" align="center">
+      <a href="" alt="Home">
+        <paper-button raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1" class="x-scope paper-button-0">Back to top</paper-button> 
+        </a>
+  </div>
+  <p>
+
+<hr> 
+
+<section id="speakers">
+      <h1>Key Speakers and Facilitators</h1>
+      <p></p>
+
+<table>
+  <tr>
+    <td style="width:28%; vertical-align:text-top;padding: 3%">
+      <br><a href="https://www.victoria.ac.nz/design/about/staff/raqi-syed"><img src="https://www.victoria.ac.nz/images/staffpics/raqi-syed.jpg" alt="Raqi" style="width:auto;height:200px;border-radius:50%"></a> 
+      <br>
+      <br>
+      <span>
+        <strong>Raqi Syed</strong>
+        <p>
+    Raqi's research is primarily focused on the relationship between digital technology and narrativity. 
+
+    She began her career at Disney Feature Animation and went on to work as a Senior Technical Director with Weta Digital on films such as <em>Avatar</em>, <em>The Planet of the Apes</em>, and <em>The Hobbit</em>. Now a Senior Lecturer at Victoria University's School of Design, her experience as a Visual Effects Artist informs her critical writing about cinema and how new technologies continue to shape our contemporary understanding of storytelling. 
+    <p>
+      Raqi's research pivots around the idea that new mediums like virtual reality must draw upon and extend the tradition of established media such as literature, theater, and film.
+
+      <p>
+        Recently,&nbsp;The Los Angeles Times&nbsp;pegged Raqi for its list of <a href="http://www.latimes.com/projects/la-et-mn-academy-diversity-candidates/?track=lat-pick">100 Industry professionals who can help fix Hollywood’s Diversity Problem.</a>
+      </span>
+      <br>
+    </td>
+
+    <td style="width:28%; vertical-align:text-top;padding: 3%">
+      <br><img src="https://format-com-cld-res.cloudinary.com/image/private/s--dEPoc7vu--/c_limit,g_center,h_65535,w_550/a_auto,fl_keep_iptc.progressive,q_95/v1/c17e27ab2ebed6cad199fba86c0788ec/tin2016-008-Edit.jpg" alt="geoffrey batchen" style="width:auto;height:200px;border-radius:50%">
+      <br>
+      <br>
+      <span>
+        <strong>Geoffrey Batchen</strong>
+        <p>
+      A master of synthesising complex information into compelling and convincing narratives, Geoffrey Batchen is acknowleged as one of the world's leading experts on the history of photography. He is particularly interested in the way that photography mediates every other aspect of modern life, whether we're talking about sex or war, atoms or planets, commerce or art.
+
+      <p>Batchen has published extensively, in twenty languages to date. He is the author of key texts such as <em>Burning with Desire: The Conception of Photography</em> (1997, with subsequent translations into Spanish, Korean, Japanese, Slovenian and Chinese); <em>Each Wild Idea: Writing, Photography, History</em> (2001 and in Chinese); <em>Forget Me Not: Photography and Remembrance</em> (2004); <em>Emanations: The Art of Cameraless Photography</em> (2016); and <em>Apparitions: Photography and Dissemination</em> (2018). Next year, Geoff will be taking up the Professorship of the History of Art at Oxford.
+      </span>
+      <br>   
+    </td>  
+
+  <tr>
+    <td style="width:28%; vertical-align:text-top;padding: 3%">
+      <br><img src="https://www.victoria.ac.nz/images/staffpics/richard-arnold.jpg" alt="Richard" style="width:auto;align:center;height:200px;border-radius:50%">
+      <br>
+      <br>
+      <span>
+        <strong>Richard Arnold</strong>
+        <p>
+          <a href="https://www.victoria.ac.nz/sms/about/staff/richard-arnold" target="blank">Richard Arnold</a> is an Associate Professor in the School of Mathematics and Statistics at Victoria University. 
+     Richard started out as an astronomer, studying the structure of galaxies and the orbits of stars within them. He moved into statistics in 1995 and developed interests in a wide range of statistical applications, including some in his original subject of physics. His research interests span Reliability Theory, Directional Statistics, Statistics in Geophysics, Cluster Analysis, and fisheries research. He's worked in institutes in Cambridge and London in the UK, Leiden in the Netherlands and Statistics New Zealand in Wellington. <p>
+
+     Richard enjoys working on applied data analysis problems, especially where a novel approach is required to analyse the data correctly.
+      </span>
+      <br>
+    </td>
+    <td style="width:28%; vertical-align:text-top;padding: 3%">
+      <br><img src="https://www.victoria.ac.nz/images/staffpics/melanie-mcconnell.jpg" alt="Melanie McConnell" style="width:auto;height:200px;border-radius:50%">
+      <br>
+      <br>
+      <span>
+        <strong> Melanie McConnell</strong>
+        <p>
+       Melanie  received a PhD in biochemistry from the University of Otago, where she developed a life-long interest in cancer cell biology.</p>
+       <p>After a postdoctoral fellowship in the Ruttenberg Cancer Center at Mount Sinai School of Medicine in New York, she joined the faculty of the Division of Medicine at Mount Sinai, in the Department of Hematology and Oncology.
+        <p>
+        On her return to New Zealand, Melanie established the Cell Survival Research Group at the Malaghan Institute. In 2013 she took up a position at the School of Biological Sciences at Victoria University, where she continues to study how cancer cells survive stress, and explore how this knowledge can be applied to the development of more effective cancer therapies.</p> 
+      </span>
+      <br>
+    </td>
+  </tr>
+
+   <td style="width:28%; vertical-align:text-top;padding: 3%">
+      <br><img src="AimeeWhitcroft.jpg" alt="Aimee Whitcroft" style="width:auto;height:200px;border-radius:50%">
+      <br>
+      <br>
+      <span>
+        <strong>Aimee Whitcroft</strong>
+        <p>
+      Aimee is a passionate advocate of open data, open government principles and practices, civic technology, and open source innovation. She's worked for some of New Zealand's most respected scientific, government and non-profit organisations, and is founder of web agency <a href="http://syntropics.nz/">Syntropics</a> and co-founder of design consultancy GovWorks NZ. 
+      <p>
+      Before working in service design and web, Aimee studied Molecular Biology and Business Science; she has worked for top international marketing, management, strategy and market research consultancies and helped organise outreach and education initiatives such as GovHack and Startup Weekend. A sampling of her many fascinating projects can be found at <a href="https://medium.com/quicksand"> medium.com/quicksand</a>. 
+
+      </span>
+      <br>   
+    </td>
+      <td style="width:28%; vertical-align:text-top;padding: 3%">
+      <br><img src="https://gravatar.com/avatar/2e800dc4da81f11aa33feea5d3d38586?s=512&d=https://static.codepen.io/assets/avatars/user-avatar-512x512-6e240cf350d2f1cc07c2bed234c3a3bb5f1b237023c204c782622e80d6b212ba.png" alt="Sam" style="width:auto;height:200px;border-radius:50%">
+      <br>
+      <br>
+      <span>
+        <strong>Sam Muirhead</strong>
+        <br>
+       Sam is an animator and activist working to spread the collaborative, transparent, and ethical ideas of the Free/Libre Open Source movement into wider society – with a particular focus on the arts.  In 2018/19 Sam has worked with <a href="https://creativecommons.org/">Creative Commons</a> as a <a href="https://blog.mozilla.org/blog/2018/08/21/mozilla-announces-25-new-fellows-in-openness-science-and-tech-policy/">Ford-Mozilla Open Web Fellow</a>, developing adaptable open source approaches to visual storytelling for activism.</p>
+       <p>In 2012 he lived an experimental <a href="http://yearofopensource.net">Year of Open Source</a>, applying the concept to every aspect of his life, from furniture, to music, to clothing. Since then he's helped kickstart a global network around the idea of an <a href="https://oscedays.org">Open Source Circular Economy</a>, made Free Culture videos and animations, about Open Everything, <a href="http://www.cameralibre.cc/software/">using Free Software</a>. Since 2016 he's been developing a practice for co-creating and customizing <a href="https://vimeo.com/206399471">open source animation</a>, and running workshops that give non-coders an experience of open source collaboration, without using digital tools: <a href="http://www.cameralibre.cc/cut-copy-and-paste/"><em>Cut, Copy &amp; Paste</em></a>.</p>
+      </span>
+      <br>   
+    </td> 
+
+  </tr>
+</table>
+
+<div class="actions" align="center">
+      <a href="" alt="Home">
+        <paper-button raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1" class="x-scope paper-button-0">Back to top</paper-button> 
+        </a>
+  </div>
+  <p>
+
+ </section>
+
+ <!--
+    <td style="width:28%; vertical-align:text-top;padding: 3%">
+      <br><img src="keystory_speaker_harkanwal.jpg" alt="Harkanwal" style="width:auto;height:200px;border-radius:50%">
+      <br>
+      <br>
+      <span>
+        <strong>Harkanwal Singh</strong>
+        <br><a href="https://twitter.com/search?q=kamal_hothi" target="blank">@kamal_hothi</a>
+        <br>Harkanwal is the founder of <a href="https://elementsdata.studio/" target="blank">Elements Data Studio</a>. Previously, he was the head of data journalism at the New Zealand Herald. He is passionate about developing data visualisation for communication. 
+        <p>
+         He will share his ideas and experience on creating data visualisation to communicate research effectively to a general audience. 
+      </span>
+      <br>
+    </td>
+
+<hr>
+
+ <section id="FollowUp">
+   <h1>Follow-up Event</h1>
+     <div class="center">
+  <h2>FRIDAY JULY 27<sup>th</sup> </h2><p>
+    Location: <b>RH105</b> &nbsp |&nbspTime: <b>3pm-5:30pm</b> <P>
+   <a href="https://vuw.libcal.com/event/4326328" target="blank">
+        <paper-button raised>Click here to register</paper-button></a>
+
+</div>
+  The instructor team are holding a follow-up event for all those who attended ResBaz and want to continue exploring any of the tools or lessons further in a supportive environment, or just want to extend the conversation. Participants are free to extend the invite to others who may be interested as well.<p>
+  If possible, please bring along a laptop and any data sets you want to interrogate or visualise. ResBaz instructors will be on hand to help.
+
+</section>
+
+
+-->
+
+<hr>
+
+ <section id="sponsors"><div class="center" style="margin-top: 2em">
+  <center>
+    <h1>SPONSORS &amp CONTRIBUTORS</h2>
+      <a href="https://www.victoria.ac.nz">
+      <img src="https://www.victoria.ac.nz/__data/assets/image/0007/286009/vuw-logo.jpg" alt="VUW" width="95%"><br>
+      </a>
+      <br>
+      <a href="https://www.niwa.co.nz/"><img src="https://www.niwa.co.nz/sites/niwa.co.nz/files/niwa-2018-horizontal-final-400_0.png" alt="NIWA" width="18%" hspace="10"></a>
+      <a href="https://www.nesi.org.nz/"><img src="https://www.nesi.org.nz/sites/default/files/NeSI_COL_rgb.jpg" alt="NeSI" width="18%" hspace="10"></a>
+      <a href="https://www.cameralibre.cc/"><img src="https://www.cameralibre.cc/wp-content/uploads/cameralibre316x96.png" alt="Camera Libre" width="18%" hspace="10"></a>
+      <a href="https://www.data.govt.nz/"><img src="https://www.data.govt.nz/themes/datagovt/images/header-logo-govt.png" alt="datagovt" width="18%" hspace="10"></a>
+  </div>
+</section>  
+<hr>
+
+
+    <section id="contact-us">
+      <h1>Contact</h1>
+      <div class="center">
+        <contact-icons email="matt.plummer@vuw.ac.nz" twitter="#resbazwelli"></contact-icons>
+      </div>
+    </section>
+  </article>
+  <footer>
+    Copyright &copy; Research Platform Services, University of Melbourne, 2018 and Victoria University of Wellington, 2019.
+  </footer>
+</body>
+</html>

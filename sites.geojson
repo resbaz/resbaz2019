@@ -45,7 +45,7 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='./dunedin'>Dunedin</a>"
             }
-	 },
+	    },
 	    {
             "type": "Feature",
             "geometry": {
@@ -67,6 +67,42 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='./perth'>Perth</a>"
             }
+        },
+	    {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[174.769251, -36.850183]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='https://resbaz.auckland.ac.nz/'>Auckland</a>"
+            }
+        },
+	   {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[153.029142, -27.478056]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='./brisbane'>Brisbane</a>"
+            }
+        }, 
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[174.775408, -41.295511]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='./wellington'>Wellington</a>"
+            }
 	 }
     ]
 }
+
+
+
