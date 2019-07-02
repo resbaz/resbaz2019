@@ -21,10 +21,24 @@ If you're new to ResBaz or have been to one or two before, this is a great place
 
 10am-3pm Tuesday to Thursday. Registration is $33, with lunch provided.
 
-Training on:
-- Programming/computing skills: Python, R, Git and Unix (Bash)
-- RedCap, GIS
+3 day Training workshops:
+- Programming/computing skills: 3 day workshops on Python or R skills, including a day on Git and Unix (Bash) or SQL 
 - The Humanities and Technology Camp (THATCamp)
+- Dedicated stream of data skills workshops for librarians and research support
+
+2 day workshops:
+- GIS in R (Wednesday-Thursday)
+
+1 day workshops:
+- Data Visualisation in R (Wednesday)
+- Data Visualisation in Python (Thursday)
+
+2 hour workshops:
+- RedCap Introductory
+- RedCap Advanced
+- Regular Expressions
+- Julia
+- Comparing languages: what should I learn (R, Python, Matlab and Julia)
 
 Then at 3pm we'd encourage you to go enjoy the festival. Major talks will be scheduled (or repeated) between 3pm-5pm so, you don't miss out on the fun.
 
