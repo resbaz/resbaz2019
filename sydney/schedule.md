@@ -34,11 +34,11 @@ If you're new to ResBaz or have been to one or two before, this is a great place
 - Data Visualisation in Python (Thursday)
 
 2 hour workshops:
-- RedCap Introductory
-- RedCap Advanced
-- Regular Expressions
-- Julia
-- Comparing languages: what should I learn (R, Python, Matlab and Julia)
+- RedCap Intro Topics (Tuesday Morning)
+- Comparing languages: what should I learn (R, Python, Matlab and Julia) (Tuesday Morning)
+- Julia Taster (Tuesday Afternoon)
+- RedCap Advanced (Wednesday Morning)
+- Regular Expressions (Thursday Morning)
 
 Then at 3pm we'd encourage you to go enjoy the festival. Major talks will be scheduled (or repeated) between 3pm-5pm so, you don't miss out on the fun.
 
