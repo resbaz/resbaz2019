@@ -20,7 +20,7 @@ If you're new to ResBaz or have been to one or two before, this is a great place
 
 ## ResBaz Sydney Training Workshops
 
-10am-3pm Tuesday to Thursday. Registration is $33 in total, with lunch provided on the days you attend training.
+10am-3pm Tuesday to Thursday. Registration is $33 in total, with lunch provided on the days you attend training. Limited places provided.
 
 3 day Training workshops:
 - Programming/computing skills: introductory workshops on Python or R skills, including a day on Git and Unix (Bash) or SQL
@@ -45,7 +45,7 @@ Then at 3pm we'd encourage you to go enjoy the festival. Major talks will be sch
 
 ## ResBaz Sydney Compute day
 
-9am-4pm Friday. Registration is free!
+9am-4pm Friday. Registration is free! Lunch is provided. Limited places.
 
 Training/talks on:
 - Access to NCI and Pawsey Super Compute
