@@ -14,15 +14,16 @@ Join us for:
 - a relaxation and mindfulness space
 - booths and fun research-related activities
 - social activities and many chances to network
+- more to come...
 
 If you're new to ResBaz or have been to one or two before, this is a great place to start. Introduce yourself to the community through a lightning talk or poster, or just come along and soak it all up.
 
 ## ResBaz Sydney Training Workshops
 
-10am-3pm Tuesday to Thursday. Registration is $33, with lunch provided.
+10am-3pm Tuesday to Thursday. Registration is $33 in total, with lunch provided on the days you attend training.
 
 3 day Training workshops:
-- Programming/computing skills: 3 day workshops on Python or R skills, including a day on Git and Unix (Bash) or SQL 
+- Programming/computing skills: introductory workshops on Python or R skills, including a day on Git and Unix (Bash) or SQL
 - The Humanities and Technology Camp (THATCamp)
 - Dedicated stream of data skills workshops for librarians and research support
 
