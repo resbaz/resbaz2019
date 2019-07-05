@@ -112,5 +112,5 @@ If you submit your poster online by the end of morning tea on Day 1 at 11am you 
 ## Special Events (all free):
 - Tuesday July 2, 4.30 - 6pm: **Career Pathways Panel** with invited guest panelists from Industry and Academia (light refreshments supplied).
 - Wednesday July 3, 4.15 - 7 pm: **Poster session and sundowner** event (submit your poster and attend for your chance to win a door prize! Food and drinks supplied).
-- Thursday July 4, 5.30 - 7 pm: **Innovation Central Perth sundowner**, ResBaz participants are invited to attend (restricted to 50 people, registration link to be supplied on Day 1). Food and drinks supplied.
+- Thursday July 4, 5.30 - 7 pm: **Innovation Central Perth sundowner**, ResBaz participants are invited to attend (restricted to 50 people, registration link to be supplied on Day 1). Food and drinks supplied. RSVP via <a href="https://www.eventbrite.com.au/e/innovation-central-perth-sundowner-tickets-63187499512">Eventbrite</a> by 2pm on Wednesday July 3.
 - Wednesday July 3 and Thursday July 4, 8 - 8.45 am: **Morning Yoga**! Have a mindful start to your day. Yoga mats supplied.
