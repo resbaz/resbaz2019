@@ -4,9 +4,9 @@ The Research Bazaar is a worldwide festival promoting the digital literacy emerg
 
 <b>ResBaz Gainesville will be hosted by the University of Florida on September 11-13</b>, with organizational and funding support from the [UF Carpentry Club](https://uf-carpentry.org).
 
-In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!
-
-There will be three half-days of activities including talks, lunch, career panel, tutorials, demos, and social events. This is a chance for students and researchers across UF to come together to learn, share knowledge and skills, and meet others. 
+In the spirit of a marketplace or bazaar, ResBaz Gainesville is an inclusive and participatory event where everyone is welcome--students, researchers, educators, scientists, engineers, and more--to learn, share knowledge and skills, build tools and connections, and have fun!
 
 ## Code of Conduct
-The Research Bazaar event is open to any member of the UF community including staff, faculty, and students, paid, and volunteer. In order to create and inclusive and supporting environment, and as with other events supported by the UF Carpentry Club, we ask everyone to follow the [Carpentries’ Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+The Research Bazaar event is open to anyone who wishes to participate. In order to create and inclusive and supporting environment, and as with other events supported by the UF Carpentry Club, we ask everyone to follow the [Carpentries’ Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+
+Please inquire if you have questions and/or would like assistance or suggestions for travel arrangements.
