@@ -4,12 +4,32 @@
 		{
             "type":"Feature",
             "geometry": {
-                    "type":"Point",
-                    "coordinates": [-82.3440, 29.6482]
+                "type":"Point",
+                "coordinates": [-82.3440, 29.6482]
             },
             "properties": {
-                        "details": "Informatics Institute - University of Florida, Gainesville"
+                "details": "Informatics Institute - University of Florida, Gainesville"
             }
-        }
+        },
+    	{
+     		"type": "Feature",
+     		"geometry": {
+        		"type": "Point",
+        		"coordinates": [-82.3420,29.6509]
+        	},
+      		"properties": {
+      			"details": "Smathers Library - University of Florida, Gainesville"
+      		}
+      	},
+    	{
+     		"type": "Feature",
+     		"geometry": {
+        		"type": "Point",
+        		"coordinates": [-82.3449,29.6409]
+        	},
+      		"properties": {
+      			"details": "Health Science Library - University of Florida, Gainesville"
+      		}
+      	}
     ]
 }
