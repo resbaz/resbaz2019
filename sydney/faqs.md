@@ -1,11 +1,5 @@
 # FAQs
 
-## Key Dates (subject to change)
-* 15th July: Festival Registration Open
-* 29th July: Workshop Registrations Open
-* 29th July: Compute Day Registrations Open
-* 10th Sept: ResBaz Day 1 !!!
-
 ## How much is registration?
 
 Registration is free, but for those wanting to attend training workshops (Tuesday to Thursday), there will be a limited number of places with a $33 fee, with lunch provided. Workshops on the Compute day will be free.
