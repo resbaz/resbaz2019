@@ -9,7 +9,8 @@ Researchers at all levels from all disciplines. PhD and research Masters student
 ResBaz is particularly aimed at those new to digital research tools.
 
 ## ResBaz Sydney 2019 Key Dates (subject to change)
-* 15th July: Festival Registration Open
+* 15th July: Festival Registrations Open
 * 29th July: Workshop Registrations Open
 * 29th July: Compute Day Registrations Open
+* 29th July: Library/Support Stream Registrations Open
 * 10th Sept: ResBaz Day 1 !!!
