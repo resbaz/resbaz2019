@@ -1,8 +1,12 @@
 # FAQs
 
+## When will the registration for training open?
+
+The training workshops are separately ticketed this year. Registration for the festival is already open, while tickets for training will open up around the 29th of July. Sign up for the <a href="https://docs.google.com/forms/d/e/1FAIpQLSf84vKYZADlIzdNvAcSW9mSZbU9XYhIqZKxaRdmMDDBm5dgNQ/viewform">mailing list</a> to be notified.
+
 ## How much is registration?
 
-Registration is free, but for those wanting to attend training workshops (Tuesday to Thursday), there will be a limited number of places with a $33 fee, with lunch provided. Workshops on the Compute day will be free.
+Registration for the festival is free, but for those wanting to attend training workshops (Tuesday to Thursday), there will be a limited number of places with a $33 fee, with lunch provided. Workshops on the Compute day will be free.
 
 ## Will I need a laptop?
 
