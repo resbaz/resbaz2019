@@ -7,8 +7,3 @@ Sydney's Research Bazaar is a low-cost, 4-day intensive festival and conference 
 Researchers at all levels from all disciplines. PhD and research Masters students are especially encouraged to apply. Research technologists who support researchers to do their job should also come along! This year there's a special training program for Library staff as well.
 
 ResBaz is particularly aimed at those new to digital research tools.
-
-## Key Dates:
-* 16th July: Festival Registrations Open
-* 29th July: Workshop, Library/Support Stream, Compute Day Registrations Open
-* 10th Sept: Resbaz Sydney 2019 Day 1!
