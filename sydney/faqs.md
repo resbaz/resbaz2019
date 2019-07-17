@@ -4,9 +4,9 @@
 
 Registration for the festival is free, but for those wanting to attend training workshops (Tuesday to Thursday), there will be a limited number of places with a $33 fee, with lunch provided. Workshops on the Compute day will be free.
 
-## Registerations are full! What do I do?
+## Registrations are full! What do I do?
 For workshop tickets, there is a waiting list on eventbrite and we'll inform you as soon as a space opens up.
-For the festival, please sign up on the mailing list if you haven't done so. We'll make an announcement as soon as spaces become available
+For the festival, please sign up on the mailing list if you haven't done so. We'll make an announcement as soon as spaces become available.
 
 ## Will I need a laptop?
 
