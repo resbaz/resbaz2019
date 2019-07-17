@@ -6,7 +6,7 @@ This year, ResBaz Sydney will have three parts: a festival, training workshops, 
 
 ## ResBaz Sydney Festival
 
-12pm-5pm Tuesday to Thursday. Registration is free!
+12pm-5pm Tuesday to Thursday. Registration is free, and is <a href="https://resbaz.github.io/resbaz2019/sydney/#registration" now open!</a>
 
 Join us for:
 - talks related to Open Research practices
@@ -22,7 +22,7 @@ If you're new to ResBaz or have been to one or two before, this is a great place
 
 ## ResBaz Sydney Training Workshops
 
-10am-3pm Tuesday to Thursday. Registration is $33 in total, with lunch provided on the days you attend training. Places are limited.
+10am-3pm Tuesday to Thursday. Registration is $33 in total, with lunch provided on the days you attend training. Places are limited, and registrattion opens at the end of July.
 
 3 day Training workshops:
 - Programming/computing skills: introductory workshops on Python or R skills, including a day on Git and Unix (Bash) or SQL
@@ -47,7 +47,7 @@ Then at 3pm we'd encourage you to go enjoy the festival. Major talks will be sch
 
 ## ResBaz Sydney Compute day
 
-9am-4pm Friday. Registration is free! Lunch is provided. Limited places.
+9am-4pm Friday. Registration is free! Lunch is provided. Limited places. Registration opens at the end of July.
 
 Training/talks on:
 - Access to NCI and Pawsey Super Compute
