@@ -2,11 +2,11 @@
 
 This year, ResBaz Sydney will have three parts: a festival, training workshops, and a special compute day on the Friday. The exact schedule may change depending on demand and other factors. 
 
-**You can download the <a href="Resbaz2019_Program.pdf"> detailed program</a> here.***
+**You can download the <a href="Resbaz2019_Program.pdf">detailed program</a> here.***
 
 ## ResBaz Sydney Festival
 
-12pm-5pm Tuesday to Thursday. Registration is free, and is <a href="https://resbaz.github.io/resbaz2019/sydney/#registration" now open!</a>
+12pm-5pm Tuesday to Thursday. Registration is free, and is <a href="https://resbaz.github.io/resbaz2019/sydney/#registration"> now open!</a>
 
 Join us for:
 - talks related to Open Research practices
