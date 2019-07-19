@@ -8,6 +8,12 @@ Queensland University of Technology, in conjunction with The University of Queen
 
 Follow [@ResBazBris](https://twitter.com/ResBazBris) or the hashtag [#ResBazBris](https://twitter.com/search?q=%23ResBazBris&src=tyah) on Twitter for the latest news and announcements.
 
+# 2019 Event in Review
+
+Thank you for being part of such an amazing community that is Research bazaar here in Brisbane. 
+
+If you would like to get involved in Research Bazaar 2020, let us know! [Get involved Here!](https://goo.gl/forms/CnAovnbmlSkEAy5I3)
+
 # Who can attend?
 
 The event is aimed at researchers at all levels from all disciplines based in south east Queensland. ResBaz is particularly aimed at those new to digital research tools.
