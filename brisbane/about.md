@@ -10,9 +10,9 @@ Follow [@ResBazBris](https://twitter.com/ResBazBris) or the hashtag [#ResBazBris
 
 # 2019 Event in Review
 
-Thank you for being part of such an amazing community that is Research bazaar here in Brisbane. 
+Thank you for being part of such an amazing community that is Research Bazaar here in Brisbane. 
 
-If you would like to get involved in Research Bazaar 2020, let us know! [Get involved Here!](https://goo.gl/forms/CnAovnbmlSkEAy5I3)
+If you would like to get involved in Research Bazaar 2020, let us know! [Get Involved Here!](https://goo.gl/forms/CnAovnbmlSkEAy5I3)
 
 # Who can attend?
 
