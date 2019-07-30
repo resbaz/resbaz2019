@@ -25,23 +25,23 @@ If you're new to ResBaz or have been to one or two before, this is a great place
 10am-3pm Tuesday to Thursday. Registration is a fixed price of $33 in total, with lunch provided on the days you attend training. Places are limited, and registration opens at the end of July.
 
 3 day Training workshops:
-- Programming/computing skills: introductory workshops on Python or R skills, including a day on Git and Unix (Bash) or SQL
-- The Humanities and Technology Camp (THATCamp)
-- Dedicated stream of data skills workshops for librarians and research support
+- Programming/computing skills: introductory workshops on <a href="workshops.html#introduction-to-python">Python</a> or <a href="workshops.html#introduction-to-r-for-reproducible-research">R skills</a>, including a day on <a href="workshops.html#introduction-to-git-and-version-control">Git</a> and <a href="workshops.html#introduction-to-unix">Unix (Bash)</a> or <a href="workshops.html#introduction-to-sql">SQL</a>
+- <a href="workshops.html#the-humanities-and-technology-camp-thatcamp-">The Humanities and Technology Camp (THATCamp)</a>
+- Dedicated stream of data skills workshops for <a href="workshops.html#librarian-and-research-support-stream">librarians and research support</a>
 
 2 day workshops:
-- GIS in R (Wednesday-Thursday)
+- <a href="workshops.html#geospatial-data-analysis-using-r">GIS in R</a> (Wednesday-Thursday)
 
 1 day workshops:
 - Data Visualisation in R (Wednesday)
 - Data Visualisation in Python (Thursday)
 
 2 hour workshops:
-- REDCap Intro Topics (Tuesday Morning)
+- <a href="workshops.html#introduction-to-redcap">Introduction to REDCap</a> (Tuesday Morning)
 - Comparing languages: what should I learn (R, Python, Matlab and Julia) (Tuesday Morning)
-- Julia Taster (Tuesday Afternoon)
-- REDCap Advanced (Wednesday Morning)
-- Regular Expressions (Thursday Morning)
+- Julia Taster (Tuesday Afternoon) (a two hour version of <a href="https://intersect.org.au/training/course/julia101/">this</a> longer course)
+- <a href="workshops.html#longitudinal-trials-with-redcap">Longitudinal Trials with REDCap</a> (Wednesday Morning)
+- <a href="https://intersect.org.au/training/course/regex101/">Regular Expressions</a> (Thursday Morning)
 
 Then at 3pm we'd encourage you to go enjoy the festival. Major talks will be scheduled (or repeated) between 3pm-5pm so you don't miss out on the fun.
 
@@ -49,7 +49,7 @@ Then at 3pm we'd encourage you to go enjoy the festival. Major talks will be sch
 
 9am-4pm Friday. Registration is free! Lunch is provided. Limited places. Registration opens at the end of July.
 
-Training/talks on:
+<a href="workshops.html#">Training/talks</a> on:
 - Access to NCI and Pawsey Super Compute
 - Commercial Cloud Platforms
 - Katana (for UNSW researchers)

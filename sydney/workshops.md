@@ -36,6 +36,14 @@ This is a 3 day unconference for humanities researchers with an interest in tech
 
 For a sense of how THATCamps generally run, see their <a href="http://thatcamp.org/">main site</a>.
 
+## Visualisation in Python
+
+Learn visualisation in Python using the Seaborn and the Matplotlib libraries.
+
+## Visualisation in R
+
+Learn visualisation in R using the ggplot2 package
+
 ## Librarian and Research Support Stream
 
 This program includes 6 dedicated workshops for librarians and research support staff
