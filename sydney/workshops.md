@@ -10,25 +10,6 @@ This is a 3 day unconference for humanities researchers with an interest in tech
 
 For a sense of how THATCamps generally run, see their <a href="http://thatcamp.org/">main site</a>.
 
-## Librarian and Research Support Stream
-
-Tuesday - Thursday
-
-This program includes 6 dedicated workshops for librarians and research support staff
-
-- ResBaz orientation and networking
-- Impact advocacy: how to help researchers with impact stories
-- Workforce skills development: how do we meet researcher needs?
-- Good data management practices for internal library processes
-- International perspectives: collaborations and data initiatives
-- FAIR data principles: relevant case studies for researchers and staff who support them
-
-And 3 x 1 hour workshops for ResBaz participants as part of the festival
-
-- Impact: get your research noticed
-- Open access services and tools (follow on from the OA keynote)
-- Making research FAIR 
-
 ## Introduction to R for Reproducible Research
 
 Tuesday - Wednesday
