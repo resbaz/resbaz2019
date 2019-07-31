@@ -35,6 +35,10 @@ During this workshop, we seek to answer these and associated questions. We use r
 
 An introduction to <a href="https://research.unsw.edu.au/katana">UNSW's Katana</a> (a service for UNSW researchers).
 
+What do you do when your computing needs can no longer be met by your desktop or laptop? The obvious solution is to purchase a workstation or server, perhaps with some specialized hardware like GPUs. But this leads to the question of where it is going to be located and who is going to support it.
+
+Katana is a modular computational cluster where the core infrastructure such as networking, storage and several shared nodes are already paid for. Research groups who wish to use the system more extensively than a base level provided to everyone at UNSW, or those who wish to purchase specialized hardware can buy one or more compute nodes and let ResTech do the rest. This co-investment model has allowed Katana to grow from an initial 5 compute nodes to the current size of over 100 nodes making it the primary on campus resource for research computing.
+
 ## Stream 2
 
 Industry Tools - GCP, MS Azure, AWS/Ronin
