@@ -11,7 +11,8 @@ NCI / Pawsey / UNSW Katana
 09:30-12:30
 
 #### Gadi
-Introduction to Gadi, NCI's new high performance machine, <a href="https://nci.org.au/2019/07/29/major-upgrade-australias-powerful-supercomputer/">going live in November this year</a>.
+
+Introduction to NCI and Gadi, NCI's new high performance machine.
 
 #### NCMAS
 
