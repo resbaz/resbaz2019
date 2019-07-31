@@ -1,4 +1,4 @@
-# Workshops
+# Workshop detail
 
 ## Introduction to R for Reproducible Research
 
@@ -59,5 +59,4 @@ And 3 x 1 hour workshops for ResBaz participants as part of the festival
 
 - Impact: get your research noticed
 - Open access services and tools (follow on from the OA keynote)
-- Making research FAIR
-
+- Making research FAIR 
