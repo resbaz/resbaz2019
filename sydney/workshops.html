@@ -10,14 +10,41 @@
   <title>ResBaz Sydney 2019</title>
 
   <link rel="stylesheet" src="../css/style.css"/>
+  <script src="../bower_components/webcomponentsjs/webcomponents-lite.js"></script>
 
+  <link rel="import" href="../components/contact-icons.html">
+  <link rel="import" href="../components/csv-table.html">
+  <link rel="import" href="../components/embedded-google-sheet.html">
+  <link rel="import" href="../components/expandable-heading.html">
   <link rel="import" href="../components/remote-markdown.html">
   <link rel="import" href="../components/simple-columns.html">
+  <link rel="import" href="../components/venue-map.html">
+  <link rel="import" href="../bower_components/paper-button/paper-button.html">
+  <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
+  <link rel="import" href="../bower_components/app-layout/app-layout.html">
+  <link rel="import" href="../bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
 
   <link rel="import" href="../components/common-style.html">
+  <link rel="import" href="../components/resbaz-header.html">
   <link rel="icon" type="image/png" href="../img/favicon.png" />
+  <style is="custom-style">
+  resbaz-header {
+    --header-height: 50vh;
+    --header-background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../img/sydney-unsw.jpg);
+  }
+  </style>
 </head>
 <body unresolved>
+<resbaz-header title="ResBaz 2019 Sydney">
+    <h1>ResBaz Sydney</h1>
+    <h2>Tuesday 10th — Friday 13th September 2019</h2>
+    <div class="actions">
+      <a href="index.html#registration">
+        <paper-button raised>Register now</paper-button>
+      </a>
+    </div>
+  </resbaz-header>
+
   <article>
     <section id="workshops">
       <remote-markdown url="workshops.md">

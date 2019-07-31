@@ -1,6 +1,6 @@
 # Compute Day Details
 
-	Friday 13th September
+Friday 13th September
 
 ## Stream 1
 
