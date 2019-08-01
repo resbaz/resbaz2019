@@ -26,7 +26,7 @@ Do you catch yourself advocating better filenaming conventions, version control 
 
 ### Data skills training: What’s everyone else doing?
 
-11am Thursday 12 September
+11am-12pm Thursday 12 September
 
 This session provides an overview of international collaborations and initiatives around data management training and services, including the Research Data Alliance, Go FAIR, Go TRAIN, CODATA Week, Force11 Scholarly Communications Institute and other exciting things like PIDapalooza. 
 
@@ -39,6 +39,10 @@ This workshop will focus on user stories of what outreach librarians face and wh
 - Access to the data by humans and machines - under specific conditions if necessary
 - Possibilities for the data to be shared, combined and exchanged
 - Understanding of context and conditions associated with the data: ownership, provenance, research methods, permissions for re-use.
+
+## Festival Sessions
+
+The following festival sessions are delivered by research support professionals to the ResBaz festival audience. Librarian and research support participants welcome!
 
 ### Festival session: Impact: get your research noticed
 
