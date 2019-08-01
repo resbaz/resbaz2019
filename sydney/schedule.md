@@ -20,7 +20,9 @@ If you're new to ResBaz or have been to one or two before, this is a great place
 
 ## ResBaz Sydney Training Workshops
 
-10am-3pm Tuesday to Thursday. Registration is a fixed price of $33 in total, with lunch provided on the days you attend training. Places are limited, and registration opens at the end of July. Below is a high level overview of the workshops, or you can jump straight to a more <a href="workshops.html">detailed description</a> of each workshop on offer. This year, for library and reesearch support staff, there is a dedicated <a href="LRSS">stream of workshops</a>.
+10am-3pm Tuesday to Thursday. Registration is a fixed price of $33 in total, with lunch provided on the days you attend training. Places are limited, and registration opens at <em>9am on Monday 5th of August</em>.
+
+Below is a high level overview of the workshops, or you can jump straight to a more <a href="workshops.html">detailed description</a> of each workshop on offer. This year, for library and research support staff, there is a <a href="LRSS.html">dedicated stream of workshops</a>.
 
 3 day Training workshops:
 - Programming/computing skills: introductory workshops on Python or R skills, including a day on Git and Unix (Bash) or SQL
