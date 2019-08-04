@@ -2,7 +2,7 @@
 
 ## How much is registration?
 
-Registration for the festival is free, but for those wanting to attend training workshops (Tuesday to Thursday), there will be a limited number of places with a $33 fee, with lunch provided. Workshops on the Compute day will be free.
+Registration for the festival is free, but for those wanting to attend training workshops (Tuesday to Thursday), there are a limited number of places with a $33 fee, with lunch provided. Workshops on the Compute day will be free.
 
 ## If training registrations are full, what do I do?
 
