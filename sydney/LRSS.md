@@ -1,5 +1,7 @@
 ## Library and Research Support Stream
 
+Registration is <a href="https://resbaz.github.io/resbaz2019/sydney/#registration"> now open!</a>
+
 ### Library and Research Support Orientation
 
 11am-12pm Tuesday 10 September

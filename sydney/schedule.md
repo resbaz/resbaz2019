@@ -20,7 +20,7 @@ If you're new to ResBaz or have been to one or two before, this is a great place
 
 ## ResBaz Sydney Training Workshops
 
-10am-3pm Tuesday to Thursday. Registration is a fixed price of $33 in total, with lunch provided on the days you attend training. Places are limited, and registration opens at <em>9am on Monday 5th of August</em>.
+10am-3pm Tuesday to Thursday. Registration is a fixed price of $33 in total, with lunch provided on the days you attend training. Places are limited, and registration is <a href="https://resbaz.github.io/resbaz2019/sydney/#registration"> now open!</a>
 
 Below is a high level overview of the workshops, or you can jump straight to a more <a href="workshops.html">detailed description</a> of each workshop on offer. This year, for library and research support staff, there is a <a href="LRSS.html">dedicated stream of workshops</a>.
 
@@ -47,7 +47,7 @@ Then at 3pm we'd encourage you to go enjoy the festival. Major talks will be sch
 
 ## ResBaz Sydney Compute day
 
-9am-4pm Friday. Registration is free! Lunch is provided. Limited places. Registration opens at the end of July. See the <a href="compute_day.html">program listing</a> for details on the 3 streams of workshops available. 
+9am-4pm Friday. Registration is free! Lunch is provided. Limited places. Registration is <a href="https://resbaz.github.io/resbaz2019/sydney/#registration"> now open!</a>. See the <a href="compute_day.html">program listing</a> for details on the 3 streams of workshops available. 
 
 Training/talks on:
 - Access to NCI and Pawsey Super Compute
