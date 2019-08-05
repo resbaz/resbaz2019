@@ -8,7 +8,7 @@
                 "coordinates": [-82.3440, 29.6482]
             },
             "properties": {
-                "name": "Informatics Institute - University of Florida, Gainesville"
+                "popupContent": "Informatics Institute - University of Florida, Gainesville"
             }
         },
     	{
@@ -18,7 +18,7 @@
         		"coordinates": [-82.3420,29.6509]
         	},
       		"properties": {
-      			"name": "Smathers Library - University of Florida, Gainesville"
+      			"popupContent": "Smathers Library - University of Florida, Gainesville"
       		}
       	},
     	{
@@ -28,7 +28,7 @@
         		"coordinates": [-82.3449,29.6409]
         	},
       		"properties": {
-      			"name": "Health Science Library - University of Florida, Gainesville"
+      			"popupContent": "Health Science Library - University of Florida, Gainesville"
       		}
       	}
     ]
