@@ -118,7 +118,19 @@
       <h1>Venue</h1>
       <p>This event will be held jointly at the Informatics Institute / Computer Science and Engineering Building, the Smathers Library, and the Health Science Center Libraries at the University of Florida in Gainesville, Florida.</p>
 
-      <venue-map geojson-url="venue.geojson" zoom="15"></venue-map>
+<!--      <venue-map geojson-url="venue.geojson" zoom="15"></venue-map> -->
+      
+      <leaflet-map latitude="-82.34" longitude="29.65" zoom="15">
+      <leaflet-marker longitude="-82.3440" latitude="29.6482">
+        Informatics Institute
+      </leaflet-marker>
+      <leaflet-marker longitude="-82.3420" latitude="29.6509">
+        Smathers 100
+      </leaflet-marker>
+      <leaflet-marker longitude="-82.3449" latitude="29.6409">
+        Health Science Library
+      </leaflet-marker>
+    </leaflet-map>
       
     </section>
     <hr/>
