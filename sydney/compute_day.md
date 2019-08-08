@@ -2,7 +2,7 @@
 
 Friday 13th September
 
-<table>
+<table class="csv-table">
 <thead>
 <tr>
 <th>Time</th>
