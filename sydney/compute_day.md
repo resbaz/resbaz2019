@@ -2,13 +2,54 @@
 
 Friday 13th September
 
-Time		|Stream 1			|Stream 2a			|Stream 2b			|Stream 3
----			|---				|---				|---				|---	
-09:30-11:00	|NCI and NCMAS		|GCP Hands on		|MS Azure Hands on	|Intro to Linux and HPC
-11:30-12:30	|(cont'd)			|(cont'd)			|(cont'd)			|(cont'd)
-13:15-14:15	|Pawsey				|AWS/Ronin Hands on	|					|Mathworks 1
-14:15-15:15	|(cont'd)			|(cont'd)			|					|Mathworks 2
-15:15-15:15	|UNSW Katana		|(cont'd)			|					|Mathworks 3
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Stream 1</th>
+<th>Stream 2a</th>
+<th>Stream 2b</th>
+<th>Stream 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:30-11:00</td>
+<td>NCI and NCMAS</td>
+<td>GCP Hands on</td>
+<td>MS Azure Hands on</td>
+<td>Intro to Linux and HPC</td>
+</tr>
+<tr>
+<td>11:30-12:30</td>
+<td>(cont’d)</td>
+<td>(cont’d)</td>
+<td>(cont’d)</td>
+<td>(cont’d)</td>
+</tr>
+<tr>
+<td>13:15-14:15</td>
+<td>Pawsey</td>
+<td>AWS/Ronin Hands on</td>
+<td></td>
+<td>Mathworks 1</td>
+</tr>
+<tr>
+<td>14:15-15:15</td>
+<td>(cont’d)</td>
+<td>(cont’d)</td>
+<td></td>
+<td>Mathworks 2</td>
+</tr>
+<tr>
+<td>15:15-15:15</td>
+<td>UNSW Katana</td>
+<td>(cont’d)</td>
+<td></td>
+<td>Mathworks 3</td>
+</tr>
+</tbody>
+</table>
 
 
 ## NCI (Stream 1)
