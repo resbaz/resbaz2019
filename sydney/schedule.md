@@ -1,6 +1,6 @@
 # Overview
 
-This year, ResBaz Sydney will have three parts: a <a href="#resbaz-sydney-festival">festival</a>, <a href="#resbaz-sydney-training-workshops">training workshops</a>, and a <a href="#resbaz-sydney-compute-day">special compute day</a> on the Friday. Download the <a href="Resbaz2019_Program.pdf">program</a> to get a sense of the activities across all 4 days. Jump to the <a href="workshops.html">workshop descriptions</a> to see what each workshop will cover.
+This year, ResBaz Sydney will have three parts: a <a href="#resbaz-sydney-festival">festival</a>, <a href="#resbaz-sydney-training-workshops">training workshops</a>, and a <a href="#resbaz-sydney-compute-day">special compute day</a> on the Friday. Jump to the <a href="workshops.html">workshop descriptions</a> to see what each workshop will cover.
 
 ## ResBaz Sydney Festival
 
