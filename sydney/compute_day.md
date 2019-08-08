@@ -30,9 +30,9 @@ The answers to these questions are project-dependent, and each project is differ
  
 During this workshop, we seek to answer these and associated questions. We use real stories from individuals who have had to navigate these same questions. Pawsey Supercomputing Centre staff will be on hand to facilitate discussion and provide insight, based on years of experience working with early, mid and late career researchers.
 
-### UNSW Katana
+## UNSW Katana (Stream 1)
 
-15:00-16:15
+15:15-16:15
 
 An introduction to <a href="https://research.unsw.edu.au/katana">UNSW's Katana</a> (a service for UNSW researchers).
 
@@ -40,19 +40,14 @@ What do you do when your computing needs can no longer be met by your desktop or
 
 Katana is a modular computational cluster where the core infrastructure such as networking, storage and several shared nodes are already paid for. Research groups who wish to use the system more extensively than a base level provided to everyone at UNSW, or those who wish to purchase specialized hardware can buy one or more compute nodes and let ResTech do the rest. This co-investment model has allowed Katana to grow from an initial 5 compute nodes to the current size of over 100 nodes making it the primary on campus resource for research computing.
 
-## Stream 2
 
-Industry Tools - GCP, MS Azure, AWS/Ronin
-
-Note that GCP and MS Azure run in parallel.
-
-### Google Cloud Platform (GCP)
+## Google Cloud Platform (GCP) (Stream 2a)
 
 09:30-12:30
 
 TBA
 
-### MS Azure Hands on workshop
+## MS Azure Hands on workshop  (Stream 2b)
 
 09:30-12:30
 
@@ -62,15 +57,13 @@ TBA
 4. Showcase how Azure is being leveraged by researchers to accelerate research output.
 5. Discuss opportunities to leverage the Microsoft team for your computing needs.
 
-### AWS/Ronin
+### AWS/Ronin  (Stream 2a)
 
 13:15 - 16:15
 
 TBA
 
-## Stream 3
-
-### Intro to Linux and HPC
+## Intro to Linux and HPC (Stream 3)
 
 09:30-12:30
 
@@ -89,11 +82,8 @@ Topics covered will include:
 
 You may wish to look through the <a href="https://www.zap.org.au/~john/links/intro-to-linux-and-hpc.pdf">course notes before attending</a>; this is entirely optional.  Additional verbal material will be presented during the tutorial.
 
-### Mathworks
 
-Three (1 hour) sessions, loosely connected in tools and approach, but sufficiently independent to permit selective attendance.
-
-#### Managing and pre-processing messy data with MATLAB
+## Managing and pre-processing messy data with MATLAB (Stream 3)
 
 13:15 - 14:15
 
@@ -104,7 +94,7 @@ This session presents a variety of new MATLAB® features for accessing, organizi
 
 See how these tools enable technical teams to grow from ad-hoc data analysis to building centralized tools for organization-wide use, laying a foundation for delivering production apps and analytics.
  
-#### Deep Learning and Reinforcement Learning Workflows in AI
+## Deep Learning and Reinforcement Learning Workflows in AI (Stream 3)
 
 14:15 - 15:15
 
@@ -116,7 +106,7 @@ AI techniques are underpinning a dramatic change in research and analysis. Two n
 - Reinforcement learning in MATLAB
 - Application examples  including: Cancer diagnosis & Semantic segmentation for computer vision systems on autonomous vehicles
  
-#### Speeding up MATLAB Applications
+## Speeding up MATLAB Applications (Stream 3)
 
 15:15 - 16:15
 
