@@ -128,11 +128,11 @@ Wednesday - Thursday
 
 Are you an R user who’s really wanted to work with geospatial data? In this workshop, we’ll introduce key geospatial concepts, then explore them using live coding with the Data Carpentry Geospatial Curriculum.  We’ll also talk about some Australian-specific things that are not in the main Carpentries, but are useful if you’re working with this data down under. PREREQUISITE: you need to be COMFORTABLE using R, and debugging your own scripts.
 
-## Visualisation in Python
+## Visualisation in R
 
 Wednesday
 
-Learn visualisation techniques in Python using the Seaborn and the Matplotlib libraries.
+Learn visualisation techniques in R using the ggplot2 package
 
 ## Longitudinal Trials with REDCap
 
@@ -146,11 +146,11 @@ Thursday
 
 This Software Carpentry inspired workshop will present the Using Databases and SQL lesson. This workshop is appropriate for beginners with no programming knowledge. We will use a dataset inspired by William Dyer, Frank Pabodie, and Valentina Roerich's expeditions to the Pole of Inaccessibility in the South Pacific to learn how to explore, manipulate, and create a database. Databases include powerful tools for search and analysis, and can handle large, complex data sets -- and can scale more effectively than spreadsheets.
 
-## Visualisation in R
+## Visualisation in Python
 
 Thursday
 
-Learn visualisation techniques in R using the ggplot2 package
+Learn visualisation techniques in Python using the Seaborn and the Matplotlib libraries.
 
 ## Regular Expressions
 
