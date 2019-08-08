@@ -2,23 +2,23 @@
 
 Friday 13th September
 
-## Stream 1
+Time		|Stream 1			|Stream 2a			|Stream 2b			|Stream 3
+---			|---				|---				|---				|---	
+09:30-11:00	|NCI and NCMAS		|GCP Hands on		|MS Azure Hands on	|Intro to Linux and HPC
+11:30-12:30	|(cont'd)			|(cont'd)			|(cont'd)			|(cont'd)
+13:15-14:15	|Pawsey				|AWS/Ronin Hands on	|					|Mathworks 1
+14:15-15:15	|(cont'd)			|(cont'd)			|					|Mathworks 2
+15:15-15:15	|UNSW Katana		|(cont'd)			|					|Mathworks 3
 
-NCI / Pawsey / UNSW Katana
 
-### NCI
+## NCI (Stream 1)
 
 09:30-12:30
 
-#### Gadi
+ - Introduction to NCI and Gadi, NCI's new high performance machine.
+ - Introduction to the <a href="https://ncmas.nci.org.au/2020/">National Computational Merit Allocation Scheme (NCMAS)</a>.
 
-Introduction to NCI and Gadi, NCI's new high performance machine.
-
-#### NCMAS
-
-Introduction to the <a href="https://ncmas.nci.org.au/2020/">National Computational Merit Allocation Scheme (NCMAS)</a>.
-
-### Pawsey
+## Pawsey (Stream 1)
 
 13:15 - 15:00
 
