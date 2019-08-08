@@ -2,6 +2,77 @@
 
 Workshops run for 3, 2, 1 or half days. Regardless of how many you attend, the registration fee is $33 in total. Please note that lunch is provided for attendees only on those days that you are attending a workshop.
 
+<table>
+<thead>
+<tr>
+<th/>
+<th>Stream 1</th>
+<th>Stream 2</th>
+<th>Stream 3</th>
+<th>Stream 4</th>
+<th>Stream 5</th>
+<th>Stream 6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Tues 10:00 - 12:00</strong></td>
+<td>Python Carpentries</td>
+<td>Languages Showdown</td>
+<td>R Carpentries</td>
+<td>THATCamp</td>
+<td>REDCap Intro</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Tues 13:00 - 15:00</strong></td>
+<td>Python (continued)</td>
+<td>Julia Intro</td>
+<td>R (continued)</td>
+<td>THATCamp (cont’d)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Wed 10:00 - 12:00</strong></td>
+<td>Python (continued)</td>
+<td>DataVis in R</td>
+<td>R (continued)</td>
+<td>THATCamp (cont’d)</td>
+<td>REDCap Advanced</td>
+<td>GIS in R</td>
+</tr>
+<tr>
+<td><strong>Wed 13:00 - 15:00</strong></td>
+<td>Python (continued)</td>
+<td>DataVis in R (cont’d)</td>
+<td>R (continued)</td>
+<td>THATCamp (cont’d)</td>
+<td></td>
+<td>GIS in R (cont’d)</td>
+</tr>
+<tr>
+<td><strong>Thur 10:00 - 12:00</strong></td>
+<td>UNIX Carpentries</td>
+<td>DataVis in Python</td>
+<td>SQL</td>
+<td>THATCamp (cont’d)</td>
+<td>Regex Intro</td>
+<td>GIS in R (cont’d)</td>
+</tr>
+<tr>
+<td><strong>Thur 13:00 - 15:00</strong></td>
+<td>Git Carpentries</td>
+<td>DataVis in Python (cont’d)</td>
+<td>SQL (continued)</td>
+<td>THATCamp (cont’d)</td>
+<td></td>
+<td>GIS in R (cont’d)</td>
+</tr>
+</tbody>
+</table>
+
+
 ## The Humanities and Technology Camp (THATCamp)
 
 Tuesday - Thursday
