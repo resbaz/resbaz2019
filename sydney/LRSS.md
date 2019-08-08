@@ -46,7 +46,7 @@ This workshop will focus on user stories of what outreach librarians face and wh
 
 The following festival sessions are delivered by research support professionals to the ResBaz festival audience. Librarian and research support participants welcome!
 
-### Festival session: Impact: get your research noticed
+### Festival session: Publishing your research strategically
 
 4-5pm Tuesday 10 September
 
