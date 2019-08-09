@@ -24,8 +24,10 @@ If you're new to ResBaz or have been to one or two before, this is a great place
 
 Below is a high level overview of the workshops, or you can jump straight to a more <a href="workshops.html">detailed description</a> of each workshop on offer. This year, for library and research support staff, there is a <a href="LRSS.html">dedicated stream of workshops</a>.
 
+Please join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a> if the course you'd like to attend is full.
+
 3 day Training workshops:
-- Programming/computing skills: introductory workshops on Python or R skills, including a day on Git and Unix (Bash) or SQL
+- Programming/computing skills: introductory workshops on Python or R skills (**now FULL**), including a day on Git and Unix (Bash) or SQL
 - The Humanities and Technology Camp (THATCamp)
 - <a href="LRSS.html">Dedicated stream</a> of data skills workshops for librarians and research support
 
@@ -38,8 +40,8 @@ Below is a high level overview of the workshops, or you can jump straight to a m
 
 2 hour workshops:
 - Introduction to REDCap (Tuesday Morning)
-- Comparing languages: what should I learn (R, Python, Matlab and Julia) (Tuesday Morning)
-- Julia Taster (Tuesday Afternoon)
+- Comparing languages: what should I learn (R, Python, Matlab and Julia) (Tuesday Morning) (**now FULL**)
+- Julia Taster (Tuesday Afternoon) (**now FULL**)
 - Longitudinal Trials with REDCap (Wednesday Morning)
 - Regular Expressions (Thursday Morning)
 
