@@ -83,11 +83,15 @@ For a sense of how THATCamps generally run, see their <a href="http://thatcamp.o
 
 ## Introduction to R for Reproducible Research
 
+**FULL** (join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
+
 Tuesday - Wednesday
 
 Are you looking for more efficient methods to analyse large datasets?  This beginners' workshop introduces R-Studio and the R programming language.  Using real datasets it teaches data management techniques including how to structure, manipulate and visualise data.  No previous knowledge is required.  Note: For the full Software Carpentry experience, students are requested to attend the Git and Shell lessons, providing a solid foundational basis for transparent and reproducible research. Students may also be interested in more data manipulation in the SQL workshop
 
 ## Introduction to Python
+
+**FULL** (join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
 
 Tuesday - Wednesday
 
@@ -101,6 +105,8 @@ Research Electronic Data Capture (REDCap) is a powerful and widely used electron
 
 ## Languages Showdown
 
+**FULL** (join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
+
 Tuesday morning
 
 Not sure which language is for you? In this showdown we'll cover the differences between *R, Python, Matlab and Julia*. In which disciplines are these languages found and why? What are the quirks and strengths of each language.
@@ -108,6 +114,8 @@ Not sure which language is for you? In this showdown we'll cover the differences
 If you're new to programming and are confused about which one to learn, come along to find out more.
 
 ## Julia Taster
+
+**FULL** (join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
 
 Tuesday afternoon
 
