@@ -83,11 +83,15 @@ For a sense of how THATCamps generally run, see their <a href="http://thatcamp.o
 
 ## Introduction to R for Reproducible Research
 
+**FULL** (join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
+
 Tuesday - Wednesday
 
 Are you looking for more efficient methods to analyse large datasets?  This beginners' workshop introduces R-Studio and the R programming language.  Using real datasets it teaches data management techniques including how to structure, manipulate and visualise data.  No previous knowledge is required.  Note: For the full Software Carpentry experience, students are requested to attend the Git and Shell lessons, providing a solid foundational basis for transparent and reproducible research. Students may also be interested in more data manipulation in the SQL workshop
 
 ## Introduction to Python
+
+**FULL** (join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
 
 Tuesday - Wednesday
 
@@ -101,6 +105,8 @@ Research Electronic Data Capture (REDCap) is a powerful and widely used electron
 
 ## Languages Showdown
 
+**FULL** (join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
+
 Tuesday morning
 
 Not sure which language is for you? In this showdown we'll cover the differences between *R, Python, Matlab and Julia*. In which disciplines are these languages found and why? What are the quirks and strengths of each language.
@@ -108,6 +114,8 @@ Not sure which language is for you? In this showdown we'll cover the differences
 If you're new to programming and are confused about which one to learn, come along to find out more.
 
 ## Julia Taster
+
+**FULL** (join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
 
 Tuesday afternoon
 
@@ -128,11 +136,11 @@ Wednesday - Thursday
 
 Are you an R user who’s really wanted to work with geospatial data? In this workshop, we’ll introduce key geospatial concepts, then explore them using live coding with the Data Carpentry Geospatial Curriculum.  We’ll also talk about some Australian-specific things that are not in the main Carpentries, but are useful if you’re working with this data down under. PREREQUISITE: you need to be COMFORTABLE using R, and debugging your own scripts.
 
-## Visualisation in Python
+## Visualisation in R
 
 Wednesday
 
-Learn visualisation techniques in Python using the Seaborn and the Matplotlib libraries.
+Learn visualisation techniques in R using the ggplot2 package
 
 ## Longitudinal Trials with REDCap
 
@@ -146,11 +154,11 @@ Thursday
 
 This Software Carpentry inspired workshop will present the Using Databases and SQL lesson. This workshop is appropriate for beginners with no programming knowledge. We will use a dataset inspired by William Dyer, Frank Pabodie, and Valentina Roerich's expeditions to the Pole of Inaccessibility in the South Pacific to learn how to explore, manipulate, and create a database. Databases include powerful tools for search and analysis, and can handle large, complex data sets -- and can scale more effectively than spreadsheets.
 
-## Visualisation in R
+## Visualisation in Python
 
 Thursday
 
-Learn visualisation techniques in R using the ggplot2 package
+Learn visualisation techniques in Python using the Seaborn and the Matplotlib libraries.
 
 ## Regular Expressions
 
