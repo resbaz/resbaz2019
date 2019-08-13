@@ -1,8 +1,8 @@
 # Poster Submissions
 
-Deadline for submission: **23rd August**
+Deadline for submission: **Friday 23rd August**
 
-Each participant is strongly encouraged to submit an electronic poster detailing the tools they work with and the areas they would like to get started in. This is your chance to connect with fellow researchers with common interests attending ResBaz.
+Each participant is strongly encouraged to submit a poster detailing the tools they work with and the areas they would like to get started in. This is your chance to connect with fellow researchers with common interests attending ResBaz.
 
 Please do not stress about creating a poster! It's completely fine if you only have a few things to list. The point of this is simply to start conversations about the tools that we use or are interested in and help people with complementary interests find each other.
 
