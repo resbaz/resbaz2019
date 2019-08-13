@@ -1,6 +1,6 @@
 # Registration
       
-**The following courses are full:**
+**UPDATE:** The following courses are full:
 
 - Introduction to Python (Carpentries: Python)
 - Introduction to R (Carpentries: R)

@@ -6,7 +6,7 @@ Separate tickets are available for the festival and training workshops (general 
 
 ## ResBaz Sydney Festival
 
-12pm-5pm Tuesday to Thursday. Registration is free, and is <a href="#registration">now open!</a>. Full program is coming soon.
+12pm-5pm Tuesday to Thursday. <a href="#registration">Registration</a> is free. Full program is coming soon.
 
 Join us for:
 - talks related to Open Research practices
@@ -14,19 +14,16 @@ Join us for:
 - hacky hours and other groups
 - a relaxation and mindfulness space
 - booths and fun research-related activities
-- social activities and many chances to network
 
-Whether you're new to ResBaz or have been to one or two before, this is the place to start. Introduce yourself to the community through a <a href="present.html">lightning talk or poster</a>, or just come along and soak it all up.
+Whether you're new to ResBaz or have been to one or two before, this is the place to start. Introduce yourself to the community through a <a href="present.html#present">poster</a>, or just come along and soak it all up.
 
 ## ResBaz Sydney Training Workshops
 
-10am-3pm Tuesday to Thursday. Registration is a fixed price of $33 in total, with lunch provided on the days you attend training. Places are limited. Check the overview pages linked below to see what tickets are still available. Registration is <a href="#registration">now open!</a> (but almost completely sold out).
+10am-3pm Tuesday to Thursday. <a href="#registration">Registration</a> is a fixed price of $33 in total, with lunch provided on the days you attend training. Places are limited, so check the overview pages linked below to see what tickets are still available.
 
 See the <a href="workshops.html">overview</a> of each general workshop on offer. This year, for library and research support staff, there is a <a href="LRSS.html">dedicated stream of workshops</a>.
 
-If the course you'd like to attend is full, please join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>.
-
-After the workshops each day, go enjoy the festival, or chill out in the mindfulness space. Major talks will be scheduled (or repeated) between 3pm-5pm so you don't miss out on the fun. If you missed out on training this time, come to the festival and attend the sessions between 1-3 just for you.
+After the workshops each day, go enjoy the festival. If you missed out on training this time, come to the festival and attend the sessions between 1-3 just for you.
 
 ## ResBaz Sydney Compute day
 
