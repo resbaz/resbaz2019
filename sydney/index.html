@@ -40,133 +40,81 @@
     <h1>ResBaz Sydney</h1>
     <h2>Tuesday 10th — Friday 13th September 2019</h2>
     <div class="actions">
-      <a href="#registration">
+      <a href="index.html#registration">
         <paper-button raised>Register now</paper-button>
       </a>
     </div>
   </resbaz-header>
-  
+
   <article>
+    
+    <section id="latest">
+      <remote-markdown url="latest.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
+    </section>
+    
+    <hr/>
+
     <section id="about">
       <remote-markdown url="about.md">
         <div class="markdown-html"></div>
       </remote-markdown>
     </section>
     
-    <hr/>
-    
-    <section id="venue">
-      <remote-markdown url="venue.md">
-        <div class="markdown-html"></div>
-      </remote-markdown>
-      <venue-map geojson-url="venue.geojson" zoom="17"></venue-map>
-    </section>
-
-    <hr/>
-
     <section id="schedule">
       <remote-markdown url="schedule.md">
         <div class="markdown-html"></div>
       </remote-markdown>
     </section>
     
-    <hr/>
-    
-        <section id="registration">
-          <h2><center>Registration</center></h2>
-          <p>
-            <strong>The following courses are full:</strong>
-                <ul>
-                  <li>Introduction to Python (Carpentries: Python)</li>
-                  <li>Introduction to R (Carpentries: R)</li>
-                  <li>Languages Comparison (R, Python, Matlab and Julia)</li>
-                  <li>Julia Taster</li>
-                </ul>
-              If you would like to be notified when a spot becomes available, please join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>
-          </p>
-              <!-- Noscript content for added SEO -->
-              <noscript>
-                <a href="https://resbazsyd2019.eventbrite.com.au" rel="noopener noreferrer" target="_blank">
-              </noscript>
-              <!-- You can customize this button any way you like -->
-              <center>
-                <paper-button id="eventbrite-widget-modal-trigger-61012068740" type="button" raised>Register now</paper-button></center>
-              <noscript></a>Buy Tickets on Eventbrite</noscript>
-
-              <script src="https://www.eventbrite.com.au/static/widgets/eb_widgets.js"></script>
-
-              <script type="text/javascript">
-                  var exampleCallback = function() {
-                      console.log('Order complete!');
-                  };
-
-                  window.EBWidgets.createWidget({
-                      widgetType: 'checkout',
-                      eventId: '61012068740',
-                      modal: true,
-                      modalTriggerElementId: 'eventbrite-widget-modal-trigger-61012068740',
-                      onOrderComplete: exampleCallback
-                  });
-              </script>
-          </section>
-         <p>
-            <center>
-              If you have issues with registration, please contact: <a href="mailto:resbazsydney@googlegroups.com" target="_top">resbazsydney@googlegroups.com</a>
-            </center>
-          </p> 
-          <p>
-            <center>
-              <em>If you're experiencing bugs with the eventbrite registration system on Internet Explorer, please try switching to a different browser (e.g. Chrome, Firefox). This is a known issue.</em>
-            </center>
-          </p>
-    
-    <hr/>
-    
-    
-    <section id="faqs">
-      <remote-markdown url="faqs.md">
+    <section id="registration">
+      <remote-markdown url="registration.md">
         <div class="markdown-html"></div>
-      </remote-markdown>     
+      </remote-markdown>
+      <!-- Noscript content for added SEO -->
+<noscript>
+  <a href="https://resbazsyd2019.eventbrite.com.au" rel="noopener noreferrer" target="_blank">
+</noscript>
+<!-- You can customize this button any way you like -->
+<center>
+  <paper-button id="eventbrite-widget-modal-trigger-61012068740" type="button" raised>Register now</paper-button></center>
+<noscript></a>Buy Tickets on Eventbrite</noscript>
+<script src="https://www.eventbrite.com.au/static/widgets/eb_widgets.js"></script>
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '61012068740',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-61012068740',
+        onOrderComplete: exampleCallback
+    });
+</script>
+    </section>
+
+    <section id="more-info">
+      <remote-markdown url="info.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
     </section>
 
     <hr/>
-       
+           
     <section id="contact-us">
-      <h1>Contact</h1>
-      <div class="center">
-        <p>To keep up to date with what's happening, or to notify us of your interest in volunteering or submitting a presentation proposal please <a href="https://docs.google.com/forms/d/e/1FAIpQLSf84vKYZADlIzdNvAcSW9mSZbU9XYhIqZKxaRdmMDDBm5dgNQ/viewform">sign up for our mailing list</a>.</p>
-        <p>For other queries (i.e., not about registration, volunteering or presenting) you can contact us via email:</p>
-        <contact-icons email="resbazsydney@googlegroups.com" ></contact-icons>
-        <p>or for urgent matters only, by phone (02 9385 2820)</p>
-      </div>
+      <remote-markdown url="contact.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
     </section>
   
    <section id="sponsors">
-      <h1>Partners</h1>
-      <p>ResBaz Sydney wouldn't be possible without the support of our Research and Industry Partners:</p>
-      <center>
-        <h3>Host</h3>
-          <img src="logo/01_Sydney-Landscape-300x129.jpg" alt="The University of NSW, Sydney" height="145" hspace="20" vspace="20" />
-        <h3>Platinum</h3>
-          <img src="logo/AWS_RONIN.png" alt="AWS and RONIN" height="125" hspace="20" vspace="20" />
-          <img src="logo/Google_Cloud_stacked.jpeg" alt="Google Cloud" height="125" hspace="20" vspace="20" />
-          <img src="logo/Macquarie.png" alt="Macquarie University" height="125" hspace="20" vspace="20" />
-          <img src="logo/SydneyUniversity.png" alt="The University of Sydney" height="125" hspace="20" vspace="20" />
-        <h3>Gold</h3>
-          <img src="logo/ARDC.png" alt="Australian Research Data Commons" height="125" hspace="20" vspace="20" />
-          <img src="logo/atomic.h.logo.indigo.png" alt="Intersect" height="125" hspace="20" vspace="20" />
-          <img src="logo/Microsoft%20Logo.jpg" alt="Microsoft" height="125" hspace="20" vspace="20" />
-          <img src="logo/DPIE_Logo.png" alt="NSW Department of Planning, Industry and Environment" height="125" hspace="20" vspace="20" />
-          <img src="logo/UON_RESTRICTED_MONO.png" alt="The University of Newcastle, Australia" height="125" hspace="20" vspace="20" />
-          <img src="logo/UOW.png" alt="University of Wollongong, Australia" height="125" hspace="20" vspace="20" />
-        <h3>Silver</h3>
-          <img src="logo/WSU_Logo.png" alt="Western Sydney University" height="125" hspace="20" vspace="20" />
-        <h3>Bronze</h3>
-          <img src="logo/ACU.png" alt="Australian Catholic University" height="125" hspace="20" vspace="20" />
-          <img src="logo/mathworks.png" alt="Mathworks" height="125" hspace="20" vspace="20" />
-          <img src="logo/UNE.png" alt="University of New England" height="125" hspace="20" vspace="20" />
-      </center>
-    </section>
+      <remote-markdown url="partners.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>     
+   </section>
 
  </article>
     
