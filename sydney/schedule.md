@@ -31,4 +31,4 @@ After the workshops each day, go enjoy the festival. If you missed out on traini
 
 See the <a href="compute_day.html">overview</a> for details on the 3 streams of workshops available.
 
-After the workshops finish, join us for Pizza and drinks at the Whitehouse from 4pm.
+After the workshops finish, join us for a beverage at The Whitehouse from 4:30pm Friday.
