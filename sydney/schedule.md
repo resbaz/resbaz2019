@@ -27,8 +27,8 @@ After the workshops each day, go enjoy the festival. If you missed out on traini
 
 ## ResBaz Sydney Compute day
 
-9am-4pm Friday. <a href="#registration">Registration</a> is free! Lunch is provided. Limited places.
+9am-4pm Friday. <a href="#registration">Registration</a> is free! Coffee, tea and light snacks provided. Limited places.
 
-See the <a href="compute_day.html">overview</a> for details on the 3 streams of workshops available.
+See the program <a href="compute_day.html">overview</a> for details on the 3 streams of workshops available.
 
 After the workshops finish, join us for a beverage at The Whitehouse from 4:30pm Friday.
