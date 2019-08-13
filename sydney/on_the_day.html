@@ -31,13 +31,12 @@
   resbaz-header {
     --header-height: 50vh;
     --header-background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../img/sydney-unsw.jpg);
-
   }
   table, th , td {border: 1px solid black;border-collapse:collapse}
   </style>
 </head>
 <body unresolved>
-<resbaz-header title="ResBaz 2019 Sydney">
+  <resbaz-header title="ResBaz 2019 Sydney">
     <h1>ResBaz Sydney</h1>
     <h2>Tuesday 10th — Friday 13th September 2019</h2>
     <div class="actions">
@@ -48,7 +47,6 @@
   </resbaz-header>
 
   <article>
-
     <section id="latest">
       <remote-markdown url="latest.md">
         <div class="markdown-html"></div>
@@ -57,14 +55,19 @@
     
     <hr/>
 
-    <section id="workshops">
-      <remote-markdown url="workshops.md">
+    <section id="venue">
+      <remote-markdown url="venue.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
+      <venue-map geojson-url="venue.geojson" zoom="17"></venue-map>
+    </section>
+
+    <section id="program">
+      <remote-markdown url="program.md">
         <div class="markdown-html"></div>
       </remote-markdown>
     </section>
-    
-    <hr/>
-    
+  
    <section id="sponsors">
       <h1>Partners</h1>
       <p>ResBaz Sydney wouldn't be possible without the support of our Research and Industry Partners:</p>

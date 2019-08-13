@@ -1,14 +1,20 @@
 # FAQs
 
+## Who should attend?
+
+Researchers at all levels from all disciplines. PhD and research Masters students are especially encouraged to apply. Research technologists who support researchers to do their job should also come along! This year there's a special training program for Library staff as well.
+
+ResBaz is particularly aimed at those new to digital research tools.
+
 ## How much is registration?
 
 Registration for the festival is free, but for those wanting to attend training workshops (Tuesday to Thursday), there are a limited number of places with a $33 fee, with lunch provided. Workshops on the Compute day will be free.
 
 ## If training registrations are full, what do I do?
 
-Registration for the training workshops usually fills very quickly for this event. For training workshop tickets, there is a waiting list on eventbrite and we'll inform you as soon as a space opens up.
+Registration for the training workshops usually fills very quickly for this event. For training workshop tickets, there is a <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a> and we'll inform you as soon as a space opens up.
 
-For the festival, please sign up on the mailing list if you haven't done so. We'll make an announcement as soon as spaces become available.
+For the festival, please sign up on the <a href="https://docs.google.com/forms/d/e/1FAIpQLSf84vKYZADlIzdNvAcSW9mSZbU9XYhIqZKxaRdmMDDBm5dgNQ/viewform">mailing list</a> if you haven't done so. We'll make an announcement as soon as spaces become available.
 
 ## Will I need a laptop?
 
