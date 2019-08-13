@@ -19,7 +19,7 @@ Whether you're new to ResBaz or have been to one or two before, this is the plac
 
 ## ResBaz Sydney Training Workshops
 
-10am-3pm Tuesday to Thursday. <a href="#registration">Registration</a> is a fixed price of $33 in total, with lunch provided on the days you attend training. Places are limited, so check the overview pages linked below to see what tickets are still available.
+10am-3pm Tuesday to Thursday. <a href="#registration">Registration</a> is a fixed price of $33 in total, with lunch provided on the days you attend training. Places are limited.
 
 See the <a href="workshops.html">overview</a> of each general workshop on offer. This year, for library and research support staff, there is a <a href="LRSS.html">dedicated stream of workshops</a>.
 
@@ -27,6 +27,8 @@ After the workshops each day, go enjoy the festival. If you missed out on traini
 
 ## ResBaz Sydney Compute day
 
-9am-4pm Friday. Registration is free! Lunch is provided. Limited places. Registration is <a href="#registration"> now open!</a>. See the <a href="compute_day.html">program listing</a> for details on the 3 streams of workshops available. 
+9am-4pm Friday. <a href="#registration">Registration</a> is free! Lunch is provided. Limited places.
+
+See the <a href="compute_day.html">overview</a> for details on the 3 streams of workshops available.
 
 After the workshops finish, join us for Pizza and drinks at the Whitehouse from 4pm.
