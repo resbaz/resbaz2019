@@ -136,7 +136,17 @@ TBA
 
 13:15 - 16:15
 
-TBA
+AWS
+
+- Intro to AWS & Research on AWS (How, why)
+- Best Practice & Customer Stories & Getting Started.
+
+Ronin
+
+- Build and launch an R-studio environment in under 2 minutes.
+- Build and launch an auto scaling cluster in under 5 minutes.
+- Simple and Safe object storage.
+- Managing your spend in the cloud, per project and per university.
 
 ## Intro to Linux and HPC (Stream 3)
 
