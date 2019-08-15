@@ -1,10 +1,10 @@
-Time,Activity,Location
-9:30 - 10:00,"**, ""talk title""",Smathers 100
-10:00 - 10:30,"**, ""talk title""",Smathers 100
-10:30 - 11:00,"**, ""talk title""",Smathers 100
-11:00 - 11:30,"**, ""talk title""",Smathers 100
-,,
-11:45 - 1:30,"Panel Discussion -- Careers in Data Science --
-panelists: **, **, **, **, **",Smathers 100
-,,
-1:55 - 3:50,Code Clinic,Smathers 100
+Time,Speaker / Moderator,Activity,Location
+9:30 - 10:00,TBD,TBD,Smathers 100
+10:00 - 10:30,Kelsey Lewis & Ellen Bledsoe,Ally Skills 101: Why Allies,Smathers 100
+10:30 - 11:00,Sara Gonzalez,TBD,Smathers 100
+11:00 - 11:30,Ken Baldauf,TBD,Smathers 100
+,,,
+11:45 - 1:30,Geraldine Klarenberg,"Panel Discussion -- Careers in Data Science --
+panelists: Kristen Sauby (Florida Fish and Wildlife), Matt Collins (SharpSpring), Duncan Kabinu (Gainesville Dev Academy), Kathy Sohar (UF Collaboratory for Women Innovators)",Smathers 100
+,,,
+1:55 - 3:50,,Code Clinic,Smathers 100

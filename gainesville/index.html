@@ -26,7 +26,7 @@
   <style is="custom-style">
 	resbaz-header {
 		--header-height: 50vh;
-		--header-background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(ufcarpentry.jpg);
+		--header-background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(smathers.jpg);
 	}
 	.leaflet-overlay-pane g {
 		stroke:"#cc0000";
@@ -121,31 +121,27 @@
 <!--             MAP             -->
     <section id="venue">
       <h1>Venue</h1>
-      <p>This event will be held jointly at the Smathers Library and the Health Science Center Libraries at the University of Florida in Gainesville, Florida.</p>
+      <p>This event will be held jointly at the Smathers Library and the Health Sciences Center Library at the University of Florida in Gainesville, Florida.</p>
+      <p>Evening mixers and receptions are off-campus. Please see the <a href = "#schedule">schedule</a> for more details.</p>
 
       <venue-map geojson-url="venue.geojson" zoom="15"></venue-map>
     </section>
     <hr/>
 
 <!--             SCHEDULE             -->
-     <section id="schedule">
-     <div class = "center">
+    <section id="schedule">
+    <div class = "center">
+     
        <h1>Schedule</h1>
        <h2> Wednesday, September 11</h2>
-     </div>
-     <csv-table url="schedule_2019-09-11.csv" heading-columns = "1", heading-rows="1">a</csv-table>
+       <csv-table url="schedule_2019-09-11.csv" heading-columns = "1", heading-rows="1">a</csv-table>
 
-     <div class = "center">
        <h2>Thursday, September 12</h2>
-     </div>
-     <csv-table url="schedule_2019-09-12.csv" heading-columns = "1", heading-rows="1">a</csv-table>
+       <csv-table url="schedule_2019-09-12.csv" heading-columns = "1", heading-rows="1">a</csv-table>
      
-     <div class = "center">
        <h2> Friday, September 13</h2>
-     </div>
-     <csv-table url="schedule_2019-09-13.csv" heading-columns = "1", heading-rows="1">a</embedded-google-sheet>     
-     </csv-table>
-       
+       <csv-table url="schedule_2019-09-13.csv" heading-columns = "1", heading-rows="1">a</csv-table>
+    </div>
 <!--     
       <remote-markdown url="schedule.md">
         <div class="markdown-html"></div>
@@ -178,5 +174,7 @@
       </div>
     </section>
   </article>
+  
+  [Photo](https://commons.wikimedia.org/wiki/File:Historic_Smathers_Library.jpg) of Smathers Library is copyright UF Digital Collections Gainesville [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)
 </body>
 </html>
