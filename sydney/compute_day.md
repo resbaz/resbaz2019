@@ -120,7 +120,13 @@ Katana is a modular computational cluster where the core infrastructure such as 
 
 09:30-12:30
 
-TBA
+In this introductory session of the Google Cloud Platform we provide an overview of the services offered for storage, compute and machine learning, and describe how they can be utilised for your research workload. 
+
+We focus on providing an interactive introduction to tools that support scientific computing workloads. We will cover:
+
+1. Creating a virtual machine in the Google Cloud environment
+2. Methods for containerising and executing your workloads on Google Cloud
+3. Introduction to Google Genomics
 
 ## MS Azure Hands on workshop  (Stream 2b)
 
