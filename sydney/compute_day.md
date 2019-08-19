@@ -120,13 +120,12 @@ Katana is a modular computational cluster where the core infrastructure such as 
 
 09:30-12:30
 
-In this introductory session of the Google Cloud Platform we provide an overview of the services offered for storage, compute and machine learning, and describe how they can be utilised for your research workload. 
+In this hands-on workshop, we provide an introduction to [Google Cloud](https://cloud.google.com/) and showcase the services that researchers can leverage for compute, storage and machine learning applications. The session assumes no previous knowledge of Google Cloud and is suitable for both beginner and intermediate users of Cloud Computing services.
 
-We focus on providing an interactive introduction to tools that support scientific computing workloads. We will cover:
-
-1. Creating a virtual machine in the Google Cloud environment
-2. Methods for containerising and executing your workloads on Google Cloud
-3. Introduction to Google Genomics
+During this session we will be focused on the following activities:
+1. Provisioning a Virtual Machine by using [Compute Engine](https://cloud.google.com/compute/) on Google Cloud
+2. Methods for containerising toolsets and executing workloads on Google Cloud
+3. Introduction to the Pipelines API and [Google Genomics](https://cloud.google.com/genomics/)
 
 ## MS Azure Hands on workshop  (Stream 2b)
 
