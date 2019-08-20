@@ -120,7 +120,12 @@ Katana is a modular computational cluster where the core infrastructure such as 
 
 09:30-12:30
 
-TBA
+In this hands-on workshop, we provide an introduction to [Google Cloud](https://cloud.google.com/) and showcase the services that researchers can leverage for compute, storage and machine learning applications. The session assumes no previous knowledge of Google Cloud and is suitable for both beginner and intermediate users of Cloud Computing services.
+
+During this session we will be focused on the following activities:
+1. Provisioning a Virtual Machine by using [Compute Engine](https://cloud.google.com/compute/) on Google Cloud
+2. Methods for containerising toolsets and executing workloads on Google Cloud
+3. Introduction to the Pipelines API and [Google Genomics](https://cloud.google.com/genomics/)
 
 ## MS Azure Hands on workshop  (Stream 2b)
 
