@@ -7,4 +7,7 @@ Registration is free, and includes participation in all events:
 
 We have limited space, so sign up quickly!
 
-**[Registration links are forthcoming]**
+<center>
+**Registration is now open:**
+http://reg.conferences.dce.ufl.edu/SSP/1400073956
+</center>
