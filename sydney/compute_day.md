@@ -14,15 +14,22 @@ Friday 13th September
 </thead>
 <tbody>
 <tr>
-<td>09:30-11:00</td>
-<td>NCI and NCMAS</td>
+<td>09:30-11:30</td>
+<td>NCI: Intro</td>
 <td>GCP Hands on</td>
 <td>MS Azure Hands on</td>
 <td>Intro to Linux and HPC</td>
 </tr>
 <tr>
-<td>11:30-12:30</td>
+<td>11:30-12:00</td>
+<td>NCI: NCMAS</td>
 <td>(cont’d)</td>
+<td>(cont’d)</td>
+<td>(cont’d)</td>
+</tr>
+<tr>
+<td>12:00-12:30</td>
+<td>NCI: Q&A</td>
 <td>(cont’d)</td>
 <td>(cont’d)</td>
 <td>(cont’d)</td>
@@ -42,7 +49,7 @@ Friday 13th September
 <td>Mathworks 2</td>
 </tr>
 <tr>
-<td>15:15-15:15</td>
+<td>15:15-16:15</td>
 <td>UNSW Katana</td>
 <td>(cont’d)</td>
 <td></td>
