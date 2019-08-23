@@ -14,4 +14,4 @@ Below are instructions on how to submit your poster:
 
 - Populate the duplicate slide with your own content (check the <a href="https://docs.google.com/presentation/d/1n_KNDbWjQ6m6O7SQUbyLJiJ8DY4u6KX6RhpW23chzRk/edit?usp=sharing">example posters</a> for ideas)
 
-- Send the file or share a link to your poster (remember it’ll be in A1 format) to us at <a href="mailto:resbazsydney@googlegroups.com">resbazsydney@googlegroups.com</a>.
+- Send the file or share a link to your poster (remember it’ll be in A2 format) to us at <a href="mailto:resbazsydney@googlegroups.com">resbazsydney@googlegroups.com</a>.
