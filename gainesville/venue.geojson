@@ -1,0 +1,27 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    	{
+     		"type": "Feature",
+     		"geometry": {
+        		"type": "Point",
+        		"coordinates": [-82.3420,29.6509]
+        	},
+      		"properties": {
+      		    "name": "Smathers 100", 
+      			"popupContent": "Smathers Library - University of Florida, Gainesville"
+      		}
+      	},
+    	{
+     		"type": "Feature",
+     		"geometry": {
+        		"type": "Point",
+        		"coordinates": [-82.3449,29.6409]
+        	},
+      		"properties": {
+      		    "name": "Health Science Library", 
+      			"popupContent": "Health Science Library - University of Florida, Gainesville"
+      		}
+      	}
+    ]
+}
