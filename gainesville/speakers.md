@@ -19,6 +19,11 @@
 </tr>
 
 <tr>
+<td><img src="sara_gonzalez.jpg" alt="Sara Gonzalez" height="240" width="240"></td>
+<td>**Dr. Sara Gonzalez** is the Physical Sciences, Mathematics, and Visualization Librarian and Associate Chair at the Marston Science Library at the University of Florida. Her research interests include emerging technologies in libraries, modeling and visualization of data, and scientific literacy instruction. She oversees the UF Libraries' 3D service and co-authored the book "3D Printing: A Practical Guide for Librarians" (Rowman & Littlefield, 2016).</td>
+</tr>
+
+<tr>
 <td><img src="ken_baldauf.jpg" alt="Ken Baldauf" height="240" width="240"></td>
 <td>**Ken Baldauf** is the Founding Director of Florida State University’s Innovation Hub, where students from all disciplines work together, utilizing Design Thinking with emerging technologies, to confront the demanding and complex problems of our day. With a background in music and computer science, Ken has turned his efforts towards fostering creativity and innovation across all ages.</td>
 </tr>
