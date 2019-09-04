@@ -4,7 +4,7 @@ This year, ResBaz Sydney has three parts: a <a href="index.html#resbaz-sydney-fe
 
 ## ResBaz Sydney Festival
 
-12pm-5pm Tuesday to Thursday. <a href="index.html#registration">Registration</a> is free. Full program is coming soon.
+12pm-5pm Tuesday to Thursday. <a href="index.html#registration">Registration</a> is free. Full program is [available for download](https://resbaz.github.io/resbaz2019/sydney/Resbaz2019_Program.pdf).
 
 ## ResBaz Sydney Training Workshops
 
