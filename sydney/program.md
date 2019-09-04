@@ -1,6 +1,6 @@
 # Program
 
-Download the (Guide to the Festival)[https://resbaz.github.io/resbaz2019/sydney/Resbaz2019_Program.pdf] (or pick up a copy at the registration desk).
+Download the [Guide to the Festival](https://resbaz.github.io/resbaz2019/sydney/Resbaz2019_Program.pdf) (or pick up a copy at the registration desk).
 
 ## Festival
 
