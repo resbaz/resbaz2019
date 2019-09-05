@@ -5,7 +5,9 @@ Registration is free, and includes participation in all events:
 * Thursday's mixer at Cypress & Grove is BYOB (buy your own beverages).
 * Friday's mixer at the UF Innovation Hub is free and includes catered food and drink.
 
-We have limited space, so sign up quickly!
+** We have made more registration slots open!!
+
+Apologies for setting the wrong cap for registration!!**
 
 <center>
 **Registration is now open:**
