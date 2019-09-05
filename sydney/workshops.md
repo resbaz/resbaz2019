@@ -1,6 +1,10 @@
 # Workshop detail
 
-Workshops run for 3, 2, 1 or half days. Regardless of how many you attend, the registration fee is $33 in total. Please note that lunch is provided for attendees only on those days that you are attending a workshop.
+Workshops run in 2 hour blocks over 3, 2, 1 or half days. Please note that lunch is provided for attendees only on those days that you are attending a workshop.
+
+Registration is full (but you can join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
+
+## Schedule
 
 <table>
 <thead>
@@ -72,8 +76,13 @@ Workshops run for 3, 2, 1 or half days. Regardless of how many you attend, the r
 </tbody>
 </table>
 
+# Session Descriptions
 
 ## The Humanities and Technology Camp (THATCamp)
+
+Lead: Rachel Hendery
+
+Helper: Tom Honeyman
 
 Tuesday - Thursday
 
@@ -83,7 +92,11 @@ For a sense of how THATCamps generally run, see their <a href="http://thatcamp.o
 
 ## Introduction to R for Reproducible Research
 
-**FULL** (join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
+Lead: Evan Matthews
+
+Instructors: Belinda Fabian, Richard Miller
+
+[Website](https://jematthews1.github.io/2019-09-10-RezbazSyd-IntroR/)
 
 Tuesday - Wednesday
 
@@ -91,7 +104,11 @@ Are you looking for more efficient methods to analyse large datasets?  This begi
 
 ## Introduction to Python
 
-**FULL** (join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
+Lead: Brian Ballsun-Stanton
+
+Instructors: Conrad Gillard
+
+[Website](https://denubis.github.io/2019-09-10-RezbazSyd-IntroPython/)
 
 Tuesday - Wednesday
 
@@ -99,13 +116,19 @@ This beginners' workshop will introduce programming and data analysis with Pytho
 
 ## Introduction to REDCap
 
+Lead: Olya Ryjenko
+
+Instructors: David Jung, Taylor Syme, Aidan Wilson
+
 Tuesday morning
 
 Research Electronic Data Capture (REDCap) is a powerful and widely used electronic data capture platform, designed to replace paper-based surveys and spreadsheet-based data capture systems. Aimed at beginners, this workshop covers topics that include: creating a REDCap project and instruments/forms, overview of various field types, branching logic, adding/editing records, tracking data entry and access management.
 
 ## Languages Showdown
 
-**FULL** (join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
+Lead: Anastasios Papaioannou
+
+Instructors: Simon Yin
 
 Tuesday morning
 
@@ -115,7 +138,7 @@ If you're new to programming and are confused about which one to learn, come alo
 
 ## Julia Taster
 
-**FULL** (join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>)
+Lead: Anastasios Papaioannou
 
 Tuesday afternoon
 
@@ -132,11 +155,19 @@ Learning Outcomes:
 
 ## Geospatial data analysis using R
 
+Lead: Darya Vanichkina
+
+Instructors: Alireza Kharazami, Steefan Contractor
+
 Wednesday - Thursday
 
 Are you an R user who’s really wanted to work with geospatial data? In this workshop, we’ll introduce key geospatial concepts, then explore them using live coding with the Data Carpentry Geospatial Curriculum.  We’ll also talk about some Australian-specific things that are not in the main Carpentries, but are useful if you’re working with this data down under. PREREQUISITE: you need to be COMFORTABLE using R, and debugging your own scripts.
 
 ## Visualisation in R
+
+Lead: Anastasios Papaioannou
+
+Instructors: Ghulam Murtaza
 
 Wednesday
 
@@ -144,11 +175,19 @@ Learn visualisation techniques in R using the ggplot2 package
 
 ## Longitudinal Trials with REDCap
 
+Lead: Aidan Wilson
+
+Instructors: David Jung, Olya Ryjenko
+
 Wednesday morning
 
 This workshop introduces some of REDCap’s more advanced features for running longitudinal studies. Aimed at intermediate/advanced users, this workshop covers topics that include: building a longitudinal project, managing participants through multiple events, configuring and using Automated Survey Invitations (ASI), using Smart Variables to add powerful features to your logic and understanding data structure of a longitudinal project.
 
 ## Introduction to SQL
+
+Lead: Brian Ballsun-Stanton
+
+Instructors: Richard Miller
 
 Thursday
 
@@ -156,11 +195,17 @@ This Software Carpentry inspired workshop will present the Using Databases and S
 
 ## Visualisation in Python
 
+Lead: Anastasios Papaioannou
+
+Instructors: Weisi Chen
+
 Thursday
 
 Learn visualisation techniques in Python using the Seaborn and the Matplotlib libraries.
 
 ## Regular Expressions
+
+Lead: Aidan Wilson
 
 Thursday morning
 
@@ -168,13 +213,24 @@ An <a href="https://intersect.org.au/training/course/regex101/">introductory cou
 
 ## Introduction to Unix
 
+Lead: William McLean
+
+Instructors: Nathaniel Butterworth, Timothy Amos
+
+[Website](https://denubis.github.io/2019-09-10-RezbazSyd-IntroPython/)
+
 Thursday morning
 
 This beginners’ workshop will introduce students to the command line. Students will learn how to navigate the file system, work with documents, automate tasks and write and execute scripts. No previous knowledge required. Especially beneficial for attendees of the R and python courses on days 1 – 2.
 
 ## Introduction to Git and version control
 
+Lead: William McLean
+
+Instructors: Nathaniel Butterworth, Timothy Amos
+
+[Website](https://denubis.github.io/2019-09-10-RezbazSyd-IntroPython/)
+
 Thursday afternoon
 
 Do you want to make sure you never lose your work? Never have a supervisor accidentally delete a critical analysis result? See exactly which code you ran 7 months ago? This beginners’ workshop will introduce students to version control using git – a magic tool that does all this and more! No previous knowledge required. Especially beneficial for attendees of the R and python courses on days 1 – 2.
-
