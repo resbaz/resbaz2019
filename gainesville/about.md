@@ -2,7 +2,7 @@
 
 The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. Throughout 2019, events will be held at a number of university campuses around the globe.
 
-**ResBaz Gainesville will be hosted at the University of Florida on September 11-13**, with organizational and funding support from the [UF Carpentry Club](https://uf-carpentry.org), the [UF Libraries](http://www.uflib.ufl.edu/), [R-Ladies Gainesville](https://www.meetup.com/rladies-gainesville), [UF Research Computing](https://www.rc.ufl.edu/), and the [UF Innovation Hub](http://innovate.research.ufl.edu/).
+**ResBaz Gainesville will be hosted at the University of Florida on September 11-13**, with organizational and funding support from the [UF Carpentry Club](https://uf-carpentry.org), the [UF Libraries](http://www.uflib.ufl.edu/), [R-Ladies Gainesville](https://www.meetup.com/rladies-gainesville), [UF Research Computing](https://www.rc.ufl.edu/), the [UF Innovation Hub](http://innovate.research.ufl.edu/), and [SharpSpring](https://sharpspring.com/).
 
 ## Target Audience
 
