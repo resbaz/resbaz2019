@@ -22,6 +22,7 @@ For anyone you think might be interested in WATT, the social media links are: [M
 ## [UF Ally Skills Network](https://ufallyskillsnetwork.weebly.com/)
 
 * [recording of the talk](https://mediasite.video.ufl.edu/Mediasite/Play/afd1b01bc2364afb88e70e7e3c7c901f1d) given at the 2019-09-17 UFL Biology Seminar
+* [Downloadable version of the Ally Skills 101: Why Allies? presentation](https://ufallyskillsnetwork.weebly.com/uploads/1/2/7/0/127030166/whyallies101_bledsoelewis_sept2019_shared.pptx)
 * [registration form](https://forms.gle/eSPc1V27qE4CiJqq5) for the **October 14 Ally Skills Workshop** at the UF Informatics Institute (1pm - 4pm)
 
 ## UF Libraries
