@@ -13,6 +13,8 @@ Info Tech has [summer 2020 internships](https://www.infotechfl.com/careers) post
 
 For anyone you think might be interested in WATT, the social media links are: [Meetup](https://www.meetup.com/WATT-We-Advance-Tech-Together/), [Twitter](https://twitter.com/watt_zone), [LinkedIn](http://linkedin.com/company/watt-zone), and [Facebook](https://www.facebook.com/watt.weadvancetechtogether/). Events are usually posted on meetup and re-shared from the others.
 
+## [PreReview 2.0](https://v2.prereview.org/) - platform for reviewing preprints
+
 ## [UF Carpentries Club](https://www.uf-carpentries.org/)
 
 * Upcoming **September 25 social event** to meet the newly elected board, followed by a board meeting (open to the public); at the UF Informatics Institute (11:30pm - 2pm)
