@@ -1,11 +1,6 @@
 # Registration
       
-**UPDATE:** The following courses are full:
-
-- Introduction to Python (Carpentries: Python)
-- Introduction to R (Carpentries: R)
-- Languages Comparison (R, Python, Matlab and Julia)
-- Julia Taster
+**UPDATE:** Many training workshops are sold out.
 
 If you would like to be notified when a spot becomes available, please join the <a href="https://forms.gle/As36JSBTiiocHm8z9" target="_top">waiting list</a>
 

@@ -14,15 +14,22 @@ Friday 13th September
 </thead>
 <tbody>
 <tr>
-<td>09:30-11:00</td>
-<td>NCI and NCMAS</td>
+<td>09:30-11:30</td>
+<td>NCI: Intro</td>
 <td>GCP Hands on</td>
 <td>MS Azure Hands on</td>
 <td>Intro to Linux and HPC</td>
 </tr>
 <tr>
-<td>11:30-12:30</td>
+<td>11:30-12:00</td>
+<td>NCI: NCMAS</td>
 <td>(cont’d)</td>
+<td>(cont’d)</td>
+<td>(cont’d)</td>
+</tr>
+<tr>
+<td>12:00-12:30</td>
+<td>NCI: Q&A</td>
 <td>(cont’d)</td>
 <td>(cont’d)</td>
 <td>(cont’d)</td>
@@ -42,7 +49,7 @@ Friday 13th September
 <td>Mathworks 2</td>
 </tr>
 <tr>
-<td>15:15-15:15</td>
+<td>15:15-16:15</td>
 <td>UNSW Katana</td>
 <td>(cont’d)</td>
 <td></td>
@@ -54,10 +61,44 @@ Friday 13th September
 
 ## NCI (Stream 1)
 
-09:30-12:30
+Presenter: Rika Kobayashi
 
- - Introduction to NCI and Gadi, NCI's new high performance machine.
- - Introduction to the <a href="https://ncmas.nci.org.au/2020/">National Computational Merit Allocation Scheme (NCMAS)</a>.
+Rika Kobayashi is an Academic Consultant specialising in computational chemistry as
+part of the user support team at NCI. Her responsibilities are to install, maintain and
+provide expert support for application software over all disciplines, especially in
+technical matters regarding high-performance computing.
+Her background is in theoretical and computational chemistry in which she obtained
+her PhD at the University of Cambridge under the supervision of Nicholas Handy.
+She specialises in method development and implementation and has
+provided code for various software packages: coupled cluster
+and response properties in DALTON, the original CCSD(T) module in NWChem
+and the CAM-B3LYP density functional in Gaussian. In her spare time she carries out
+research and is currently working on Machine Learning in chemistry and material science
+
+### Introduction to NCI and Gadi, NCI's new high-performance machine
+
+09:30-11:30
+
+NCI Australia is funded under the Australian Government’s NCRIS initiative to provide world-class integrated high-performance computing services to Australian researchers.  Based at The Australian National University, NCI is home to the Southern Hemisphere’s fastest supercomputer, a high-performance research cloud and Australia’s largest research data repository.
+Gadi, the next-generation high-performance machine for NCI, is due to come online later this year. 
+
+This session will give a brief overview of the NCI systems and services, particularly in the context of what to expect on the new machine:
+- user and project management
+- software environment
+- filesystems
+- batch queue system
+
+### Introduction to the National Computational Merit Allocation Scheme (NCMAS)
+
+11:30-12:00
+
+The National Computational Merit Allocation Scheme provides access to resources at the major national HPC facilities for researchers at Australian universities and publicly funded research agencies. The call for applications for 2020 is now open and allocations will be determined through a highly competitive merit-based peer review process. Applications will be judged on both research and computational merit. 
+
+This short information session will guide existing and potential future project leaders through the application process and strategies for success.
+
+### Questions and Answers
+
+12:00-12:30
 
 ## Pawsey (Stream 1)
 
@@ -86,7 +127,12 @@ Katana is a modular computational cluster where the core infrastructure such as 
 
 09:30-12:30
 
-TBA
+In this hands-on workshop, we provide an introduction to [Google Cloud](https://cloud.google.com/) and showcase the services that researchers can leverage for compute, storage and machine learning applications. The session assumes no previous knowledge of Google Cloud and is suitable for both beginner and intermediate users of Cloud Computing services.
+
+During this session we will be focused on the following activities:
+1. Provisioning a Virtual Machine by using [Compute Engine](https://cloud.google.com/compute/) on Google Cloud
+2. Methods for containerising toolsets and executing workloads on Google Cloud
+3. Introduction to the Pipelines API and [Google Genomics](https://cloud.google.com/genomics/)
 
 ## MS Azure Hands on workshop  (Stream 2b)
 
@@ -102,7 +148,17 @@ TBA
 
 13:15 - 16:15
 
-TBA
+AWS
+
+- Intro to AWS & Research on AWS (How, why)
+- Best Practice & Customer Stories & Getting Started.
+
+Ronin
+
+- Build and launch an R-studio environment in under 2 minutes.
+- Build and launch an auto scaling cluster in under 5 minutes.
+- Simple and Safe object storage.
+- Managing your spend in the cloud, per project and per university.
 
 ## Intro to Linux and HPC (Stream 3)
 
